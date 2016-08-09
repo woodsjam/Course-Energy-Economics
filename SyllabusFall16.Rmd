@@ -1,0 +1,49 @@
+---
+title: "Syllabus EC438/538 Fall 2016"
+author: "James Woods"
+date: ""
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Course Description
+
+The official description of the course is:
+> Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
+
+Since I am teaching this course for the first time there will be changes from previous terms and I will be making official changes in desciption and prerequisits during the year.  
+
+This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural,  and telecomunictions.  The order of the courses has changed to reflect the evolving nature of the field.
+
+## New Kind of Slash Course
+
+Students that have been at PSU for a while are familiar with "slash courses" where both undergraduates and graduate students are in the same classroom but have differnt assignments, readings and standards.  This course take it another step.  Undergraduate will meet in Mondays and Wednesdays and graduate students will meeet on Mondays and Friday. In short, we will be together on Monday. Undergraduates will meet alone on Wednesday and Graduate students will meet alone on Friday.  All students may attend all sessions if they wish.  This arrangment should allow the graduate students to explore topics in more depth.
+
+## Prerequisites
+
+The undergraduate section has microecnomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisits.  The graduate section requires only graduate standing.
+
+# Contact Information
+
+The best ways of contacting me, in decreasing order of effectiveness:
+
++ IM/hangout: woodsj@pdx.edu
++ Phone/text: (503) 465-4883
++ Email:woodsj@pdx.edu (Answered only on M W and F)
++ D2L email: Do not use.  I will not respond.
+
+You are encouraged to use the IM function of your PSU email account, or text, rather than email. This will allow me to get back to you more quickly and more conversationally. Please be aware that I will likely not reply till the next day if you IM me after 5pm or on the weekend.  
+
+Office Hours:
+
++ My office is in CH 241-O.
++ Drop in office hours are Tuesday 3-4pm  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ If you can’t attend regular office hours, please check my calendar \url{https://woodsj.youcanbook.me/}. I will make a limited number of 15 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize you one quiz grade.  
+
+# Textbook and Other Resources
+
+# Assessments and Grade Policy
