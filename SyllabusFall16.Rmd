@@ -60,6 +60,25 @@ Do not let this section alarm you.  We will only address part of this outline in
 
 Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recomend looking at the undergraduate readings in addition to your own.
 
++ Introduction of Core Topics
+  + Starting on Topic   
+    + "Energy Primer: A Handbook of Energy Market Basics", FERC, 2015 (http://www.ferc.gov/market-oversight/guide/energy-primer.pdf), Chapter 1
+    + Dahl, Ch 1-2.
+  + Coal
+    + Dahl, Ch 3.
+  + Natural Gas
+    + Dahl, Ch 8.
+    + Energy Primer, Ch 2.
+  + Electricity
+    + Energy Primer, Ch 3. 
+    + Dahl, Ch 5-6.   
+  + Oil
+    + Dahl, Ch 7.
+    + Energy Primer, Ch 4.
+    
++ Topic Options, Voted on in Class
+
+
 # Other Rules
 
 + Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
