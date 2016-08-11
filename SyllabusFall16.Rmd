@@ -54,6 +54,29 @@ This text will be heavily suplemented with material from the Energy Information 
 
 # Assessments and Grade Policy
 
+This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but
+there will be a considerable amount of writing and analysis, presentations by teams of student researchers
+and several referee reports. Nearly all work product will be made public to the class though your grade will not.
+
+## Team Assignments
+
+Teams will be assigned by the instructor durring the first week of class. They will be composed of at least one
+graduate student and one undergraduate student. Assignments will be made based a survey of completed
+math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to
+succeed.
+
+The teams are intended to encourage cooperative learning where graduate students can assist undergraduate
+students with concepts they are unsure of and those with exceptional skills can share insight with
+others.
+
+A team may remove a member by an anonymous 3/4th majority vote of a current members. Removed
+members will act as a team of one until other teams remove members or students join the class. Removed
+members may join other teams by an anonymous 3/4th majority vote of the receiving team. All votes will
+be conducted by the instructor should two students on a team request a vote. The instructor reserves the
+right to reassign students to teams should there be large differences in team size.
+
+Team assignements will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
+
 ## Individual/Group Term Paper
 
 The largest assignment will be a term paper and will account for X% of your grade. The term paper may be
