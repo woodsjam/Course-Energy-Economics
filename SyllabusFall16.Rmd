@@ -54,6 +54,55 @@ This text will be heavily suplemented with material from the Energy Information 
 
 # Assessments and Grade Policy
 
+## Individual/Group Term Paper
+
+The largest assignment will be a term paper and will account for X% of your grade. The term paper may be
+either a literature review, in which case it must be completed by an individual or an empirical/theoretical
+paper which may have up to three co-authors. Graduate students
+must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
+
+1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
+discussion topic and schedule a 30 minute review meeting with the instructor by DATE1. Scope and depth changes will be agreed to in the meeting.
+
+2. A revised abstract must be submitted by DATE2 and will be published in the “Final Abstracts”
+discussion topic. Abstracts will be discussed in class and online. A minimum of two reviewers will be
+assigned to each paper. Ideally no reviewer will be assigned more than one paper.
+
+3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
+available for the class to review by DATE3 and  should be provided in “Final Abstracts” discussion topic.
+
+4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
+to the class on data collection, design and analysis approach prior to completion of the draft paper.
+Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
+
+5. A draft of the paper must be published in the “Draft Papers” discussion topic by DATE4. The
+referees will deliver a referee report on your draft by DATE5 as a comment to your original post.
+The instructor will make additional comments after the reports are received.
+
+6. The final paper must be published to the “Final Papers” disussion topic by DATE6. Term papers
+must be less than 20 pages.
+
+## Referee Reports
+
++ A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
+report must be less than five pages, will be evaluated on a 0 to 5 scale and will constitute 10% of your
+grade. This is due by DATE8 and must be posted as a comment on the draft paper in the “Draft
+Papers” topic.
+
++ A referee report on a student’s or group’s final paper. This will be a second review of the paper you
+previously reviewed. The report must be less than five pages, will be evaluated on a 0 to 5 scale and
+will constitute 5% of your grade. This referee report will be delivered by the day of the final exam,
+DATE9 and published as a comment to the paper in the “Final Papers” topic.
+
+Details on what consitutes a referee report and examples of referee reports will be presented in class. The report will be evaluated on a 0 to 5 scale with the following rubric. 
+ + 0 Points Base
+ + 1 Points Rudimentary synopsis and minor criticisim of the paper.
+ + 2 Points Report gives an accurate synopis of paper and the contribution it makes to the literature.
+ + 3 Points 2 AND identifies and explains weaknesses in the analysis or gaps in the literature.
+ + 4 Points 3 AND provides suggested articles to be included and several options that would improve
+analysis.
+ + 5 Points Exemplary example of 4.
+
 # Topics and Readings
 
 Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper division courses, we will complete a small subset at the start of the class and then vote on each suceeding topic.
