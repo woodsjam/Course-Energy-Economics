@@ -29,6 +29,11 @@ The undergraduate section has microecnomic theory, EC 311, or the calculus based
 
 As with most economics courses, the more background you bring to the class, the more get from the class.  For this class it means microecnomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be suplemented with in-class tutorials.  Sometimes this will mean learning about constrianed optimization or breaking out laptops for a tutorial on running regressions in R.
 
+## Key Dates
+
++ Last day to drop or change grade option: November 13th
++ Holidays: November 11th, 24th and 25th.
+
 # Contact Information
 
 The best ways of contacting me, in decreasing order of effectiveness:
