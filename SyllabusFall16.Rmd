@@ -97,7 +97,7 @@ discussion topic. Abstracts will be discussed in class and online. A minimum of 
 assigned to each paper. Ideally no reviewer will be assigned more than one paper.
 
 3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
-available for the class to review by DATE3 and  should be provided in “Final Abstracts” discussion topic.
+available for the class to review by DATE3 and should be provided in “Final Abstracts” discussion topic.
 
 4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
 to the class on data collection, design and analysis approach prior to completion of the draft paper.
@@ -133,7 +133,7 @@ analysis.
 
 # Topics and Readings
 
-Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper division courses, we will complete a small subset at the start of the class and then vote on each suceeding topic. Each topic will have an assignment, usually working with real data or useing a model from the readings in a slightly different context.
+Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper-division courses, we will complete a small subset at the start of the class and then vote on each suceeding topic. Each topic will have an assignment, usually working with real data or useing a model from the readings in a slightly different context.
 
 Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recomend looking at the undergraduate readings in addition to your own.
 
@@ -168,9 +168,13 @@ Note that some of these modules will be shared with the Public Utility Economics
     + Dahl, Ch 4   
   + Market Monitoring
     +  Energy Primer, Ch 6.
-  + Tools for Technical People
-    + Dahl, Ch 14 -17 (Break this up)
-  
+  + Hotelling's Rule and Dynamic Extraction
+    + Dahl, Ch 14
+  + Unit Commitment
+    + Dahl Ch 15
+  + Energy Demand
+    + Dahl Ch 16
+
 
 # Other Rules
 
