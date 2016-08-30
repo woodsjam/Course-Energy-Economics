@@ -15,19 +15,19 @@ knitr::opts_chunk$set(echo = TRUE)
 The official description of the course is:
 > Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
 
-Since I am teaching this course for the first time there will be changes from previous terms and I will be making official changes in desciption and prerequisits during the year.  
+Since I am teaching this course for the first time there will be changes from previous terms and I will be making official changes in description and prerequisites during the year.  
 
-This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural,  and telecomunictions.  The order of the courses has changed to reflect the evolving nature of the field.
+This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural,  and telecommunications.  The order of the courses has changed to reflect the evolving nature of the field.
 
 ## New Kind of Slash Course
 
-Students that have been at PSU for a while are familiar with "slash courses" where both undergraduates and graduate students are in the same classroom but have differnt assignments, readings and standards.  This course take it another step.  Undergraduate will meet in Mondays and Wednesdays and graduate students will meeet on Mondays and Friday. In short, we will be together on Monday. Undergraduates will meet alone on Wednesday and Graduate students will meet alone on Friday.  All students may attend all sessions if they wish.  This arrangment should allow the graduate students to explore topics in more depth.
+Students that have been at PSU for a while are familiar with "slash courses" where both undergraduates and graduate students are in the same classroom but have different assignments, readings and standards.  This course take it another step.  Undergraduate will meet in Mondays and Wednesdays and graduate students will meet on Mondays and Friday. In short, we will be together on Monday. Undergraduates will meet alone on Wednesday and Graduate students will meet alone on Friday.  All students may attend all sessions if they wish.  This arrangement should allow the graduate students to explore topics in more depth.
 
 ## Prerequisites
 
-The undergraduate section has microecnomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisits.  The graduate section requires only graduate standing.
+The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites.  The graduate section requires only graduate standing.
 
-As with most economics courses, the more background you bring to the class, the more get from the class.  For this class it means microecnomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be suplemented with in-class tutorials.  Sometimes this will mean learning about constrianed optimization or breaking out laptops for a tutorial on running regressions in R.
+As with most economics courses, the more background you bring to the class, the more get from the class.  For this class it means microeconomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or breaking out laptops for a tutorial on running regressions in R.
 
 ## Key Dates
 
@@ -55,7 +55,7 @@ Office Hours:
 
 The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415.
 
-This text will be heavily suplemented with material from the Energy Information Administration (EIA) https://www.eia.gov/, the texbook authors website (http://dahl.mines.edu/), and journal articles available electronically through the library.
+This text will be heavily supplemented with material from the Energy Information Administration (EIA) https://www.eia.gov/, the texbook authors website (http://dahl.mines.edu/), and journal articles available electronically through the library.
 
 # Assessments and Grade Policy
 
@@ -65,7 +65,7 @@ and several referee reports. Nearly all work product will be made public to the 
 
 ## Team Assignments
 
-Teams will be assigned by the instructor durring the first week of class. They will be composed of at least one
+Teams will be assigned by the instructor during the first week of class. They will be composed of at least one
 graduate student and one undergraduate student. Assignments will be made based a survey of completed
 math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to
 succeed.
@@ -80,7 +80,7 @@ members may join other teams by an anonymous 3/4th majority vote of the receivin
 be conducted by the instructor should two students on a team request a vote. The instructor reserves the
 right to reassign students to teams should there be large differences in team size.
 
-Team assignements will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
+Team assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
 
 ## Individual/Group Term Paper
 
@@ -97,7 +97,7 @@ discussion topic. Abstracts will be discussed in class and online. A minimum of 
 assigned to each paper. Ideally no reviewer will be assigned more than one paper.
 
 3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
-available for the class to review by DATE3 and should be provided in “Final Abstracts” discussion topic.
+available for the class to review by DATE3 and should be provided in “Final Abstracts” discussion topic.  Here are some links on how to create an annotated bibiography () http://guides.library.cornell.edu/annotatedbibliography and https://www.bethel.edu/library/research/apa-annobib-sixth.pdf) so you can see some examples before you start.
 
 4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
 to the class on data collection, design and analysis approach prior to completion of the draft paper.
@@ -107,7 +107,7 @@ Additional problem solving presentations are encouraged. Students conducting a l
 referees will deliver a referee report on your draft by DATE5 as a comment to your original post.
 The instructor will make additional comments after the reports are received.
 
-6. The final paper must be published to the “Final Papers” disussion topic by DATE6. Term papers
+6. The final paper must be published to the “Final Papers” discussion topic by DATE6. Term papers
 must be less than 20 pages.
 
 ## Referee Reports
@@ -122,20 +122,22 @@ previously reviewed. The report must be less than five pages, will be evaluated 
 will constitute 5% of your grade. This referee report will be delivered by the day of the final exam,
 DATE9 and published as a comment to the paper in the “Final Papers” topic.
 
-Details on what consitutes a referee report and examples of referee reports will be presented in class. The report will be evaluated on a 0 to 5 scale with the following rubric. 
+The report will be evaluated on a 0 to 5 scale with the following rubric. 
  + 0 Points Base
- + 1 Points Rudimentary synopsis and minor criticisim of the paper.
- + 2 Points Report gives an accurate synopis of paper and the contribution it makes to the literature.
+ + 1 Points Rudimentary synopsis and minor criticism of the paper.
+ + 2 Points Report gives an accurate synopsis of paper and the contribution it makes to the literature.
  + 3 Points 2 AND identifies and explains weaknesses in the analysis or gaps in the literature.
  + 4 Points 3 AND provides suggested articles to be included and several options that would improve
 analysis.
  + 5 Points Exemplary example of 4.
 
+
+
 # Topics and Readings
 
-Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper-division courses, we will complete a small subset at the start of the class and then vote on each suceeding topic. Each topic will have an assignment, usually working with real data or useing a model from the readings in a slightly different context.
+Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper-division courses, we will complete a small subset at the start of the class and then vote on each succeeding topic. Each topic will have an assignment, usually working with real data or using a model from the readings in a slightly different context.
 
-Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recomend looking at the undergraduate readings in addition to your own.
+Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recommend looking at the undergraduate readings in addition to your own.
 
 Note that some of these modules will be shared with the Public Utility Economics course.
 
@@ -176,6 +178,26 @@ Note that some of these modules will be shared with the Public Utility Economics
     + Dahl Ch 16
 
 
+The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
+
++ EIA Today in Energy (https://www.eia.gov/todayinenergy/) New topics every day.
++ Journals that focus on energy economics issues
+    + Energy Economics http://www.journals.elsevier.com/energy-economics/
+    + The Energy Journal https://www.jstor.org/journal/energyj
+    + Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
+    + Energy: The International Journal has economics and engineering http://www.journals.elsevier.com/energy/
+    + Energy Policy http://www.journals.elsevier.com/energy-policy/
+    + Utilities Policy for more electricity focused reading http://www.journals.elsevier.com/utilities-policy/
+
++ Working Paper Sources
+    + IDEAS has a curated weekly summary of energy working papers https://ideas.repec.org/n/nep-ene/
+    + r/EconPapers has a weekly summary of working papers from National Bureau of Economic Research (NBER).  They usually lead with energy and natural resource economics https://www.reddit.com/r/EconPapers.
+    
++ The Journal of Economic Perspectives (https://www.jstor.org/journal/jeconpers) has many easy to read symposia and review articles.  Here are a few from the last decade or so.
+    + SYMPOSIUM: OIL AND GAS MARKETS WINTER 2016 (https://www.jstor.org/stable/i40149800)
+    + SYMPOSIUM: TRADING POLLUTION PERMITS WINTER 2013 (https://www.jstor.org/stable/i40086192)
+    + SYMPOSIUM: ENERGY CHALLENGES WINTER 2012 (https://www.jstor.org/stable/i40064264)
+    + SYMPOSIUM: CLIMATE CHANGE SPRING 2009 (https://www.jstor.org/stable/i27740519)
 # Other Rules
 
 + Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
