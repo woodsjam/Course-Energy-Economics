@@ -56,7 +56,7 @@ Office Hours:
 
 The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415.
 
-This text will be heavily supplemented with material from the Energy Information Administration (EIA) https://www.eia.gov/, the texbook authors website (http://dahl.mines.edu/), and journal articles available electronically through the library.
+This text will be heavily supplemented with material from the Energy Information Administration (EIA) https://www.eia.gov/, the textbook authors website (http://dahl.mines.edu/), and journal articles available electronically through the library.
 
 # Assessments and Grade Policy
 
@@ -66,7 +66,7 @@ and several referee reports. Nearly all work product will be made public to the 
 
 ## Team Assignments
 
-Teams will be assigned by the instructor during the first week of class. They will be composed of at least one
+Teams will be assigned by the instructor after the first week of class. They will be composed of at least one
 graduate student and one undergraduate student. Assignments will be made based a survey of completed
 math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to
 succeed.
@@ -83,6 +83,10 @@ right to reassign students to teams should there be large differences in team si
 
 Team assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
 
+There will be occasions when the undergraduates in a team will operate without the associated graduate students.  This will be for Wednesday class meetings when only undergraduates will be present.  
+
+Grad students will also be formed into teams for assignments that are specific to them.
+
 ## Individual/Group Term Paper
 
 The largest assignment will be a term paper and will account for X% of your grade. The term paper may be
@@ -91,48 +95,50 @@ paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
 1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-discussion topic and schedule a 30 minute review meeting with the instructor by DATE1. Scope and depth changes will be agreed to in the meeting.
+discussion topic and schedule a 30 minute review meeting with the instructor by October 24th. Scope and depth changes will be agreed to in the meeting.
 
-2. A revised abstract must be submitted by DATE2 and will be published in the “Final Abstracts”
+2. A revised abstract must be submitted by October 28th and will be published in the “Final Abstracts”
 discussion topic. Abstracts will be discussed in class and online. A minimum of two reviewers will be
 assigned to each paper. Ideally no reviewer will be assigned more than one paper.
 
 3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
-available for the class to review by DATE3 and should be provided in “Final Abstracts” discussion topic.  Here are some links on how to create an annotated bibiography () http://guides.library.cornell.edu/annotatedbibliography and https://www.bethel.edu/library/research/apa-annobib-sixth.pdf) so you can see some examples before you start.
+available for the class to review by November 4th and should be provided in “Final Abstracts” discussion topic.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
+
 
 4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
 to the class on data collection, design and analysis approach prior to completion of the draft paper.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” discussion topic by DATE4. The
-referees will deliver a referee report on your draft by DATE5 as a comment to your original post.
+5. A draft of the paper must be published in the “Draft Papers” discussion topic by November 18th. The
+referees will deliver a referee report on your draft by November 23rd as a comment to your original post.
 The instructor will make additional comments after the reports are received.
 
-6. The final paper must be published to the “Final Papers” discussion topic by DATE6. Term papers
+6. The final paper must be published to the “Final Papers” discussion topic by December 2nd at 8pm. Term papers
 must be less than 20 pages.
 
 ## Referee Reports
 
-A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an acdemic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (=http://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf)
+A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an academic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (http://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf)
 
 + A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
 report must be less than five pages, will be evaluated on a 0 to 5 scale and will constitute 10% of your
-grade. This is due by DATE8 and must be posted as a comment on the draft paper in the “Draft
+grade. This is due by November 23rd and must be posted as a comment on the draft paper in the “Draft
 Papers” topic.
 
 + A referee report on a student’s or group’s final paper. This will be a second review of the paper you
 previously reviewed. The report must be less than five pages, will be evaluated on a 0 to 5 scale and
-will constitute 5% of your grade. This referee report will be delivered by the day of the final exam,
-DATE9 and published as a comment to the paper in the “Final Papers” topic.
+will constitute 5% of your grade. This referee report will be delivered by,
+December 8th and published as a comment to the paper in the “Final Papers” topic.
 
-The report will be evaluated on a 0 to 5 scale with the following rubric. 
- + 0 Points Base
- + 1 Points Rudimentary synopsis and minor criticism of the paper.
- + 2 Points Report gives an accurate synopsis of paper and the contribution it makes to the literature.
- + 3 Points 2 AND identifies and explains weaknesses in the analysis or gaps in the literature.
- + 4 Points 3 AND provides suggested articles to be included and several options that would improve
+The report will be evaluated on a 0 to 5 scale with the following rubric.
+
+  + 0 Points Base
+  + 1 Points Rudimentary synopsis and minor criticism of the paper.
+  + 2 Points Report gives an accurate synopsis of paper and the contribution it makes to the literature.
+  + 3 Points 2 AND identifies and explains weaknesses in the analysis or gaps in the literature.
+  + 4 Points 3 AND provides suggested articles to be included and several options that would improve
 analysis.
- + 5 Points Exemplary example of 4.
+  + 5 Points Exemplary example of 4.
 
 
 # Topics and Readings
@@ -200,6 +206,9 @@ The course requires a term paper.  It is a good idea to do some broad reading to
     + SYMPOSIUM: TRADING POLLUTION PERMITS WINTER 2013 (https://www.jstor.org/stable/i40086192)
     + SYMPOSIUM: ENERGY CHALLENGES WINTER 2012 (https://www.jstor.org/stable/i40064264)
     + SYMPOSIUM: CLIMATE CHANGE SPRING 2009 (https://www.jstor.org/stable/i27740519)
+
+
+
 # Other Rules
 
 + Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
