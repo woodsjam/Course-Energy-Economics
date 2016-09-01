@@ -155,15 +155,23 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Dahl, Ch 1-2.
     + Coal
         + Dahl, Ch 3.
+        + *Murray, Michael P.. 2006. "Avoiding Invalid Instruments and Coping with Weak Instruments." Journal of Economic Perspectives, 20(4): 111-132. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.20.4.111
     + Natural Gas
         + Dahl, Ch 8.
         + Energy Primer, Ch 2.
+        + Joskow, Paul L.. 2013. "Natural Gas: From Shortages to Abundance in the United States." American Economic Review, 103(3): 338-43. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.338
     + Electricity
         + Energy Primer, Ch 3. 
         + Dahl, Ch 5-6.   
+        + Joskow, Paul L.. 2012. "Creating a Smarter U.S. Electricity Grid." Journal of Economic Perspectives, 26(1): 29-48. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.29
+        + Covert, Thomas, Michael Greenstone and Christopher R. Knittel. 2016. "Will We Ever Stop Using Fossil Fuels?" Journal of Economic Perspectives, 30(1): 117-38. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117
+        + Borenstein, Severin. 2012. "The Private and Public Economics of Renewable Electricity Generation." Journal of Economic Perspectives, 26(1): 67-92. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.67
+        + Puller, Steven L. and Jeremy West. 2013. "Efficient Retail Pricing in Electricity and Natural Gas Markets." American Economic Review, 103(3): 350-55. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.350
     + Oil
         + Dahl, Ch 7.
         + Energy Primer, Ch 4.
+        + Smith, James L.. 2009. "World Oil: Market or Mayhem?" Journal of Economic Perspectives, 23(3): 145-64. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.3.145
+        + Baumeister, Christiane and Lutz Kilian. 2016. "Forty Years of Oil Price Fluctuations: Why the Price of Oil May Still Surprise Us." Journal of Economic Perspectives, 30(1): 139-60. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.139
     
 + Topic Options, Voted on in Class
     + Financial Markets
@@ -171,6 +179,7 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Dahl, Ch 18 - 19.
     + Intro to Externalities and Public Goods
         + Dahl, Ch 11 - 12.
+        + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
     + Natural Gas Outside the US
         + Dahl, Ch 9 - 10.   
         + "International Energy Outlook", 2016, EIA, Ch 3. (https://www.eia.gov/forecasts/ieo/nat_gas.cfm)
@@ -184,6 +193,7 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Dahl Ch 15
     + Energy Demand
         + Dahl Ch 16
+        + Allcott, Hunt and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Economic Perspectives, 26(1): 3-28. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.3
 
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
