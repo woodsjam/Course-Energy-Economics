@@ -54,7 +54,7 @@ Office Hours:
 
 # Textbook and Other Resources
 
-The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415.
+The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415. 
 
 This text will be heavily supplemented with material from the Energy Information Administration (EIA) https://www.eia.gov/, the textbook authors website (http://dahl.mines.edu/), and journal articles available electronically through the library.
 
@@ -163,6 +163,7 @@ Note that some of these modules will be shared with the Public Utility Economics
     + Electricity
         + Energy Primer, Ch 3. 
         + Dahl, Ch 5-6.   
+        + Joskow, Paul L. "Markets for power in the United States: An interim assessment." The Energy Journal, Vol. 27, No. 1. http://economics.mit.edu/files/1184
         + Joskow, Paul L.. 2012. "Creating a Smarter U.S. Electricity Grid." Journal of Economic Perspectives, 26(1): 29-48. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.29
         + Covert, Thomas, Michael Greenstone and Christopher R. Knittel. 2016. "Will We Ever Stop Using Fossil Fuels?" Journal of Economic Perspectives, 30(1): 117-38. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117
         + Borenstein, Severin. 2012. "The Private and Public Economics of Renewable Electricity Generation." Journal of Economic Perspectives, 26(1): 67-92. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.67
@@ -198,6 +199,7 @@ Note that some of these modules will be shared with the Public Utility Economics
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
 
++ A list of energy related glossaries http://dahl.mines.edu/GlossaryLinks.pdf.  Some of the links are 404 but the one at the California Energy Commission is pretty good.
 + EIA Today in Energy (https://www.eia.gov/todayinenergy/) New topics every day.
 + Journals that focus on energy economics issues
     + Energy Economics http://www.journals.elsevier.com/energy-economics/
