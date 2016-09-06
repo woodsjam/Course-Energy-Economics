@@ -122,15 +122,15 @@ $(document).ready(function () {
 </div>
 
 
-<p>This assignment is not so much about coal but finding out where the class is in econometrics and specific skills with R and RStudio, a statistical programing language and Integrated Development Environment (IDE) respectivly. There is plenty of help on R but if you want a readable primer (<a href="http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf" class="uri">http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf</a>) is a good choice.</p>
+<p>This assignment is not so much about coal but finding out where the class is in econometrics and specific skills with R and RStudio, a statistical programming language and Integrated Development Environment (IDE) respectively. There is plenty of help on R but if you want a readable primer (<a href="http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf" class="uri">http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf</a>) is a good choice.</p>
 <ol style="list-style-type: decimal">
 <li>Get RStudio and R working on a computer. Most PSU computers will have these installed but if you are working on your own computer you can find directions at <a href="https://www.rstudio.com" class="uri">https://www.rstudio.com</a>.</li>
 </ol>
-<p>The install process is different depending on if you are running Windows, iOS or Linux. They key is to install R first and then install RStudio. Many people find git (<a href="https://git-scm.com/" class="uri">https://git-scm.com/</a>) useful for version control and collaboration.</p>
+<p>The install process is different depending on if you are running Windows, or Linux. They key is to install R first and then install RStudio. Many people find git (<a href="https://git-scm.com/" class="uri">https://git-scm.com/</a>) useful for version control and collaboration.</p>
 <ol start="2" style="list-style-type: decimal">
 <li><p>I will walk you through a few steps on reading in the data. The biggest hurdle to doing stats on the data is reading it in. There is actually an R library for working with EIA data directly, EIAdata, but we will use the more general tools to read files.</p></li>
 <li><p>Start with a new markdown file similar to this one through the menu File &gt; New File &gt; R Markdown…</p></li>
-<li><p>Download into R data on coal prices and quantities. The assignment opperator in R is the “&lt;-” symbol.</p></li>
+<li><p>Download into R data on coal prices and quantities. The assignment operator in R is the “&lt;-” symbol.</p></li>
 </ol>
 <pre class="r"><code>Coal &lt;- read.csv(&quot;https://www.eia.gov/totalenergy/data/browser/csv.cfm?tbl=T06.01&quot;)</code></pre>
 <p>There are many ways of loading data into R (<a href="http://www.r-tutor.com/r-introduction/data-frame/data-import" class="uri">http://www.r-tutor.com/r-introduction/data-frame/data-import</a>). Some work some of the time. In most cases Comma Separated Values (CSV) is the safest format to work with.</p>
@@ -156,7 +156,7 @@ $(document).ready(function () {
 ##  (Other)                        :1180</code></pre>
 <p>You will notice that for some variables they give counts, e.g., MSN, and for others you get numerical summaries, e.g., Column_Order. The difference has to do with the data types (<a href="http://www.statmethods.net/input/datatypes.html" class="uri">http://www.statmethods.net/input/datatypes.html</a>).</p>
 <ol start="5" style="list-style-type: decimal">
-<li>Since we are trying to make a simple supply model, i.e., trying to explain coal production, lets select just the producation part of the data set and also get only the annual production values. This is a little primer on changing data types and taking part of data.</li>
+<li>Since we are trying to make a simple supply model, i.e., trying to explain coal production, lets select just the production part of the data set and also get only the annual production values. This is a little primer on changing data types and taking part of data.</li>
 </ol>
 <ul>
 <li>Load the dplyr package. This is the normal way to load libraries of functions that you need.</li>
@@ -171,7 +171,7 @@ $(document).ready(function () {
 ## 
 ##     intersect, setdiff, setequal, union</code></pre>
 <ul>
-<li>Select only the Coal Production Figures and save it as CoalProduction. There is a cheatsheet for dplyr built into R. Look under the help menu.</li>
+<li>Select only the Coal Production Figures and save it as CoalProduction. There is a cheat sheet for dplyr built into R. Look under the help menu.</li>
 </ul>
 <pre class="r"><code>CoalProduction &lt;- Coal %&gt;% filter(MSN == &quot;CLPRPUS&quot;) </code></pre>
 <ul>
@@ -196,10 +196,10 @@ summary(CoalProduction)</code></pre>
 ##  Max.   :201513   1063855.51 : 1      
 ##                   (Other)    :61</code></pre>
 <ul>
-<li>Notice that the ProductionShortTon variable shows a count rather than a numerical summary. This means that R thinks it is a factor rather than a number. Lets fix that. It requires to first convert the factor, which is an integer, to the real value as a character and then convert that to numeric.</li>
+<li>Notice that the ProductionKShortTon variable shows a count rather than a numerical summary. This means that R thinks it is a factor rather than a number. Lets fix that. It requires to first convert the factor, which is an integer, to the real value as a character and then convert that to numeric.</li>
 </ul>
 <pre class="r"><code>CoalProduction$ProductionKShortTon &lt;- as.numeric(as.character(CoalProduction$ProductionKShortTon))</code></pre>
-<p>Play aroudn with this doing one function at a time to see what each does and what each does alone.</p>
+<p>Play around with this doing one function at a time to see what each does and what each does alone.</p>
 <ul>
 <li>Next lets create a column for the year and make it a numeric value.</li>
 </ul>
@@ -248,7 +248,7 @@ summary(Prices)</code></pre>
 <li>And simplify the names</li>
 </ul>
 <pre class="r"><code>names(Prices) &lt;- c(&quot;Year&quot;, &quot;PriceMBTU&quot;)</code></pre>
-<p>Please note that we don’t have the price per short ton of coal. What we have is the price per million BTUs, which is a measure of energy content. The BTUs per short ton of coal (2000 lbs) is about 20 MBTUs but varries from place-to-place and year-to-year.</p>
+<p>Please note that we don’t have the price per short ton of coal. What we have is the price per million BTUs, which is a measure of energy content. The BTUs per short ton of coal (2000 lbs) is about 20 MBTUs but varies from place-to-place and year-to-year.</p>
 <ul>
 <li>Merge the two data frames</li>
 </ul>
@@ -290,10 +290,10 @@ summary(CoalMarket)</code></pre>
 </div>
 <div id="graduate-students" class="section level1">
 <h1>Graduate Students</h1>
-<p>The primer may be useful to you too but I want to see how you handle inputing data on your own and see where you are on systems estimation. Lets be clear, price is endogenous.</p>
+<p>The primer may be useful to you too but I want to see how you handle inputting data on your own and see where you are on systems estimation. Lets be clear, price is endogenous.</p>
 <ol style="list-style-type: decimal">
 <li><p>Chose an instrument or two that makes sense for the demand side of the equation, steel production or electricity demand may make sense. Look in both quandl and EIA for data.</p></li>
-<li><p>Load those variable in and merge them with the exisiting CoalMarket data frame.</p></li>
+<li><p>Load those variable in and merge them with the existing CoalMarket data frame.</p></li>
 <li><p>Convert the prices to real with the CPI. Again quandl has what you need.</p></li>
 <li><p>Estimate an IV model with ivreg in the AER library.</p></li>
 <li><p>Interpret your results and comment on the adequacy of your instruments.</p></li>

@@ -70,7 +70,7 @@ CoalProduction <- CoalProduction %>% select(YYYYMM, Value)
 names(CoalProduction) <- c("RawYear", "ProductionKShortTon")
 summary(CoalProduction)
 ```
-+ Notice that the ProductionShortTon variable shows a count rather than a numerical summary.  This means that R thinks it is a factor rather than a number.  Lets fix that.  It requires to first convert the factor, which is an integer, to the real value as a character and then convert that to numeric.
++ Notice that the ProductionKShortTon variable shows a count rather than a numerical summary.  This means that R thinks it is a factor rather than a number.  Lets fix that.  It requires to first convert the factor, which is an integer, to the real value as a character and then convert that to numeric.
 
 ```{r}
 CoalProduction$ProductionKShortTon <- as.numeric(as.character(CoalProduction$ProductionKShortTon))
