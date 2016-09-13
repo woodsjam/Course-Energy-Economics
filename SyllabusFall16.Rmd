@@ -106,11 +106,11 @@ paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
 1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-discussion topic and schedule a 30 minute review meeting with the instructor during the week of _October 24th_ after the draft abstracts are published. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
+discussion topic in Piazza and schedule a 30 minute review meeting with the instructor during the week of _October 24th_ after the draft abstracts are published. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
 
 2. A revised abstract must be submitted by _October 28th_ and will be published in the “Final Abstracts”
-discussion topic. Abstracts will be discussed in class and online. A minimum of two reviewers will be
-assigned to each paper. Ideally no reviewer will be assigned more than one paper.
+discussion topic in Piazza. Abstracts will be discussed in class and online. A minimum of two reviewers will be
+assigned to each paper. Ideally no reviewer will be assigned more than one paper but this may happen if there are many single author papers.
 
 3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
 available for the class to review by _November 4th_ and should be provided in “Final Abstracts” discussion topic.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
@@ -120,11 +120,10 @@ available for the class to review by _November 4th_ and should be provided in �
 to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 7th through the November 16th_ unless the author team wants to schedule something earlier.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” discussion topic by _November 18th_. If you are writing an empirical paper, the posting should include a link to your data and the code used to analize the data. The
-referees will deliver a referee report on your draft by _November 23rd_ as a comment to your original post.
+5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analize the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
 The instructor will make additional comments after the reports are received.
 
-6. The final paper must be published to the “Final Papers” discussion topic by _December 2nd at 8pm_. Term papers
+6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 2nd at 8pm_. Term papers
 must be less than 20 pages.
 
 ## Referee Reports
@@ -133,13 +132,12 @@ A referee report is a critical examination of an academic paper.  There is a spl
 
 + A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
 report must be less than five pages, will be evaluated on a 0 to 5 scale and will constitute 10% of your
-grade. This is due by _November 23rd_ and must be posted as a comment on the draft paper in the “Draft
-Papers” topic.
+grade. This is due by _November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L dropbox .
 
 + A referee report on a student’s or group’s final paper. This will be a second review of the paper you
 previously reviewed. The report must be less than five pages, will be evaluated on a 0 to 5 scale and
 will constitute 5% of your grade. This referee report will be delivered by,
-_December 8th_ and published as a comment to the paper in the “Final Papers” topic.
+_December 8th_ and must be submitted to "Referee Report of Final Paper" D2L dropbox .
 
 The report will be evaluated on a 0 to 5 scale with the following rubric.
 
@@ -158,7 +156,7 @@ Do not let this section alarm you.  We will only address part of this outline in
 
 Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recommend looking at the undergraduate readings in addition to your own.
 
-Note that some of these modules will be shared with the Public Utility Economics course.
+Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
 
 + Introduction of Core Topics
     + Starting on Topic   
