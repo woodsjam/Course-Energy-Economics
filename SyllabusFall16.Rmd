@@ -191,12 +191,14 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Deng, Shi-Jie, and Shmuel S. Oren. "Electricity derivatives and risk management." Energy 31.6 (2006): 940-953. http://stats.lib.pdx.edu/proxy.php?url=http://www.sciencedirect.com/science/article/pii/S0360544205000496
     + Intro to Externalities and Public Goods
         + Dahl, Ch 11 - 12.
+        + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
         + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
     + Natural Gas Outside the US
         + Dahl, Ch 9 - 10.   
         + "International Energy Outlook", 2016, EIA, Ch 3. (https://www.eia.gov/forecasts/ieo/nat_gas.cfm)
     + Price Controls and Subsidies (Not Carbon Taxes and Implicit Subsidies)
         + Dahl, Ch 4   
+        + Implementing Energy Subsidy Reforms Evidence from Developing Countries, Maria Vagliasindi, Washington : World Bank Publications 2012, Overview with countries devided between groups. http://search.library.pdx.edu/PSU:all:CP71205489150001451
     + Market Monitoring
         + Energy Primer, Ch 6.
         + Helman, Udi. "Market power monitoring and mitigation in the US wholesale power markets." Energy 31.6 (2006): 877-904. http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/j.energy.2005.05.011
