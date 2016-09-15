@@ -212,6 +212,7 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Allcott, Hunt and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Economic Perspectives, 26(1): 3-28. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.3
         + Dubin, Jeffrey A., and McFadden Daniel L. "An Econometric Analysis of Residential Electric Appliance Holdings and Consumption." Econometrica 52.2 (1984): 345-62. http://stats.lib.pdx.edu/proxy.php?url=http://www.jstor.org/stable/1911493
         + David R. Kamerschen, David V. Porter, The demand for residential, industrial and total electricity, 1973–1998, Energy Economics, Volume 26, Issue 1, January 2004, Pages 87-100, http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/S0140-9883(03)00033-1
+        + RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS), EIA. https://www.eia.gov/consumption/residential/index.cfm We will use this as an example of end use modeling as well as survey data collection and estimation.
 
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
