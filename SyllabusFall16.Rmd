@@ -207,6 +207,7 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Gaudet, Gérard. "Natural resource economics under the rule of Hotelling." Canadian Journal of Economics/Revue canadienne d'économique 40.4 (2007): 1033-1059. http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2007.00441.x/full
     + Supply and Cost Curves
         + Dahl Ch 15
+        
     + Energy Demand
         + Dahl Ch 16
         + Allcott, Hunt and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Economic Perspectives, 26(1): 3-28. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.3
@@ -234,6 +235,11 @@ The course requires a term paper.  It is a good idea to do some broad reading to
     + SYMPOSIUM: ENERGY CHALLENGES WINTER 2012 (https://www.jstor.org/stable/i40064264)
     + SYMPOSIUM: CLIMATE CHANGE SPRING 2009 (https://www.jstor.org/stable/i27740519)
 
+
++Data
+    + OpenEI http://en.openei.org/wiki/Main_Page
+    + EIA https://www.eia.gov Just go to a topic and look for the data tab.
+    
 
 
 # Other Rules
