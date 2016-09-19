@@ -106,11 +106,11 @@ paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
 1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-discussion topic and schedule a 30 minute review meeting with the instructor during the week of _October 24th_ after the draft abstracts are published. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
+discussion topic in Piazza and schedule a 30 minute review meeting with the instructor during the week of _October 24th_ after the draft abstracts are published. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
 
 2. A revised abstract must be submitted by _October 28th_ and will be published in the “Final Abstracts”
-discussion topic. Abstracts will be discussed in class and online. A minimum of two reviewers will be
-assigned to each paper. Ideally no reviewer will be assigned more than one paper.
+discussion topic in Piazza. Abstracts will be discussed in class and online. A minimum of two reviewers will be
+assigned to each paper. Ideally no reviewer will be assigned more than one paper but this may happen if there are many single author papers.
 
 3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
 available for the class to review by _November 4th_ and should be provided in “Final Abstracts” discussion topic.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
@@ -120,11 +120,10 @@ available for the class to review by _November 4th_ and should be provided in �
 to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 7th through the November 16th_ unless the author team wants to schedule something earlier.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” discussion topic by _November 18th_. If you are writing an empirical paper, the posting should include a link to your data and the code used to analize the data. The
-referees will deliver a referee report on your draft by _November 23rd_ as a comment to your original post.
+5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analize the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
 The instructor will make additional comments after the reports are received.
 
-6. The final paper must be published to the “Final Papers” discussion topic by _December 2nd at 8pm_. Term papers
+6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 2nd at 8pm_. Term papers
 must be less than 20 pages.
 
 ## Referee Reports
@@ -133,13 +132,12 @@ A referee report is a critical examination of an academic paper.  There is a spl
 
 + A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
 report must be less than five pages, will be evaluated on a 0 to 5 scale and will constitute 10% of your
-grade. This is due by _November 23rd_ and must be posted as a comment on the draft paper in the “Draft
-Papers” topic.
+grade. This is due by _November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L dropbox .
 
 + A referee report on a student’s or group’s final paper. This will be a second review of the paper you
 previously reviewed. The report must be less than five pages, will be evaluated on a 0 to 5 scale and
 will constitute 5% of your grade. This referee report will be delivered by,
-_December 8th_ and published as a comment to the paper in the “Final Papers” topic.
+_December 8th_ and must be submitted to "Referee Report of Final Paper" D2L dropbox .
 
 The report will be evaluated on a 0 to 5 scale with the following rubric.
 
@@ -158,7 +156,7 @@ Do not let this section alarm you.  We will only address part of this outline in
 
 Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recommend looking at the undergraduate readings in addition to your own.
 
-Note that some of these modules will be shared with the Public Utility Economics course.
+Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
 
 + Introduction of Core Topics
     + Starting on Topic   
@@ -193,12 +191,14 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Deng, Shi-Jie, and Shmuel S. Oren. "Electricity derivatives and risk management." Energy 31.6 (2006): 940-953. http://stats.lib.pdx.edu/proxy.php?url=http://www.sciencedirect.com/science/article/pii/S0360544205000496
     + Intro to Externalities and Public Goods
         + Dahl, Ch 11 - 12.
+        + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
         + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
     + Natural Gas Outside the US
         + Dahl, Ch 9 - 10.   
         + "International Energy Outlook", 2016, EIA, Ch 3. (https://www.eia.gov/forecasts/ieo/nat_gas.cfm)
     + Price Controls and Subsidies (Not Carbon Taxes and Implicit Subsidies)
         + Dahl, Ch 4   
+        + Implementing Energy Subsidy Reforms Evidence from Developing Countries, Maria Vagliasindi, Washington : World Bank Publications 2012, Overview with countries devided between groups. http://search.library.pdx.edu/PSU:all:CP71205489150001451
     + Market Monitoring
         + Energy Primer, Ch 6.
         + Helman, Udi. "Market power monitoring and mitigation in the US wholesale power markets." Energy 31.6 (2006): 877-904. http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/j.energy.2005.05.011
@@ -211,6 +211,9 @@ Note that some of these modules will be shared with the Public Utility Economics
     + Energy Demand
         + Dahl Ch 16
         + Allcott, Hunt and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Economic Perspectives, 26(1): 3-28. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.3
+        + Dubin, Jeffrey A., and McFadden Daniel L. "An Econometric Analysis of Residential Electric Appliance Holdings and Consumption." Econometrica 52.2 (1984): 345-62. http://stats.lib.pdx.edu/proxy.php?url=http://www.jstor.org/stable/1911493
+        + David R. Kamerschen, David V. Porter, The demand for residential, industrial and total electricity, 1973–1998, Energy Economics, Volume 26, Issue 1, January 2004, Pages 87-100, http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/S0140-9883(03)00033-1
+        + RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS), EIA. https://www.eia.gov/consumption/residential/index.cfm We will use this as an example of end use modeling as well as survey data collection and estimation.
 
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
