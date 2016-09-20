@@ -20,15 +20,15 @@ Since I am teaching this course for the first time, there will be changes from p
 
 This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural,  and telecommunications.  The order of the courses has changed to reflect the evolving nature of the field.
 
-## New Kind of Slash Course
+<!-- ## New Kind of Slash Course -->
 
-Students that have been at PSU for a while are familiar with "slash courses" where both undergraduates and graduate students are in the same classroom but have different assignments, readings and standards.  This course take it another step.  Undergraduate will meet in Mondays and Wednesdays and graduate students will meet on Mondays and Friday. In short, we will be together on Monday. Undergraduates will meet alone on Wednesday and Graduate students will meet alone on Friday.  All students may attend all sessions if they wish.  This arrangement should allow the graduate students to explore topics in more depth.
+<!-- Students that have been at PSU for a while are familiar with "slash courses" where both undergraduates and graduate students are in the same classroom but have different assignments, readings and standards.  This course take it another step.  Undergraduate will meet in Mondays and Wednesdays and graduate students will meet on Mondays and Friday. In short, we will be together on Monday. Undergraduates will meet alone on Wednesday and Graduate students will meet alone on Friday.  All students may attend all sessions if they wish.  This arrangement should allow the graduate students to explore topics in more depth. -->
 
 ## Prerequisites
 
 The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites.  The graduate section requires only graduate standing.
 
-As with most economics courses, the more background you bring to the class, the more get from the class.  For this class it means microeconomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or breaking out laptops for a tutorial on running regressions in R.
+As with most economics courses, the more background you bring to the class, the more get from the class.  For this class, it means bringing a background in microeconomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or breaking out laptops for a tutorial on running regressions in R.
 
 ## Key Dates
 
@@ -49,20 +49,20 @@ You are encouraged to use the IM function of your PSU email account, or text, ra
 Office Hours:
 
 + My office is in CH 241-O.
-+ Drop in office hours are Tuesday 3-4pm  through the last week of class. There is no need to make an appointment for these hours -- just come.
-+ If you can’t attend regular office hours, please check my calendar \url{https://woodsj.youcanbook.me/}. I will make a limited number of 15 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize you one quiz grade.  
++ Drop in office hours are Monday 2:30-3:30 pm  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week.  
 
 # Textbook and Other Resources
 
 The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415. 
 
-This text will be heavily supplemented with material from the Energy Information Administration (EIA) https://www.eia.gov/, the textbook authors website (http://dahl.mines.edu/), and journal articles available electronically through the library.
+This text will be heavily supplemented with material from the Energy Information Administration (EIA), the textbook authors website, and journal articles available electronically through the library.
 
 # Assessments and Grade Policy
 
 This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but
 there will be a considerable amount of writing and analysis, presentations by teams of student researchers
-and several referee reports. Nearly all work product will be made public to the class though your grade will not.
+and several referee reports. Nearly all work product will be made public to the class, though your grade will not.
 
 + Various Team Assignments in total: 25%
 + Final Draft of Term Paper: 20%
@@ -73,9 +73,9 @@ and several referee reports. Nearly all work product will be made public to the 
 + Referee Report(s) of Draft Paper(s): 15%
 + Referee Report(s) of Final Paper(s): 5%
 
-Assignment dates listed below generally mean turned in online by 11:59pm on that date unless stated otherwise.  Term papers, referee reports and bibliographies will be posted on piazza as a pdf or a link to a google doc with PSU log in and granted comment privilages.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and recieve half the normal credit. If a deadline is missed by more than 24 hrs, zero credit will be given.  While this seems harsh, missing a deadline means that other students have less time to complete their work.
+Term papers, referee reports and bibliographies will be turned in a D2L dropbox as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  While this seems harsh, missing a deadline means that other students have less time to complete their work.
 
-## Team Assignments
+## Regular Team Assignments
 
 Teams will be assigned by the instructor after the first week of class. They will be composed of at least one
 graduate student and one undergraduate student. Assignments will be made based a survey of completed
@@ -92,9 +92,7 @@ members may join other teams by an anonymous 3/4th majority vote of the receivin
 be conducted by the instructor should two students on a team request a vote. The instructor reserves the
 right to reassign students to teams should there be large differences in team size.
 
-Team assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
-
-There will be occasions when the undergraduates in a team will operate without the associated graduate students.  This will be for Wednesday class meetings when only undergraduates will be present.  
+Regular team assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
 
 Grad students will also be formed into teams for assignments that are specific to them.
 
@@ -106,40 +104,39 @@ paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
 1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-discussion topic in Piazza and schedule a 30 minute review meeting with the instructor during the week of _October 24th_ after the draft abstracts are published. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
+discussion topic in D2L by _October 24th_. Students will have a 30 minute review meeting with the instructor during that week. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
 
 2. A revised abstract must be submitted by _October 28th_ and will be published in the “Final Abstracts”
-discussion topic in Piazza. Abstracts will be discussed in class and online. A minimum of two reviewers will be
-assigned to each paper. Ideally no reviewer will be assigned more than one paper but this may happen if there are many single author papers.
+discussion topic in Piazza. Abstracts will be discussed in class on October 30th. Ideally, two reviewers will be
+assigned to each paper and no reviewer will be assigned more than one paper, but this may not happen depending on the balance of single and multi-author papers.
 
-3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be
-available for the class to review by _November 4th_ and should be provided in “Final Abstracts” discussion topic.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
+3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 4th_ and should be provided in “Final Abstracts” discussion topic as a comment to your abstract.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
 
 4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
 to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 7th through the November 16th_ unless the author team wants to schedule something earlier.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analize the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
+5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
 The instructor will make additional comments after the reports are received.
 
 6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 2nd at 8pm_. Term papers
-must be less than 20 pages.
+must be less than 20 pages.  The submission must include a separate document addressing the reviewers issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 ## Referee Reports
 
-A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an academic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (http://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf)
+A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an academic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (http://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf).
+
+All referee reports will be distributed to authors.  These reports have 5pm deadlines so they can be distributed to the authors that evening.
 
 + A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
-report must be less than five pages, will be evaluated on a 0 to 5 scale and will constitute 10% of your
-grade. This is due by _November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L dropbox .
+report must be less than five pages. This is due by _5pm on November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L dropbox .
 
 + A referee report on a student’s or group’s final paper. This will be a second review of the paper you
-previously reviewed. The report must be less than five pages, will be evaluated on a 0 to 5 scale and
-will constitute 5% of your grade. This referee report will be delivered by,
-_December 8th_ and must be submitted to "Referee Report of Final Paper" D2L dropbox .
+previously reviewed. The report must be less than five pages. This referee report will be delivered by,
+_by 5 pm on December 8th_ and must be submitted to "Referee Report of Final Paper" D2L dropbox.  
 
-The report will be evaluated on a 0 to 5 scale with the following rubric.
+The reports will be evaluated on a 0 to 5 scale with the following rubric.
 
   + 0 Points Base
   + 1 Points Rudimentary synopsis and minor criticism of the paper.
@@ -152,11 +149,9 @@ analysis.
 
 # Topics and Readings
 
-Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper-division courses, we will complete a small subset at the start of the class and then vote on each succeeding topic. Each topic will have an assignment, usually working with real data or using a model from the readings in a slightly different context.
+Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper-division courses, we will complete a small subset at the start of the class and then vote on each succeeding topic. Each topic will have an assignment, usually working with real data or using a model from the readings.
 
-Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each.  If you are a graduate student that is trying to rapidly get up to speed on a topic, I recommend looking at the undergraduate readings in addition to your own.
-
-Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
+Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each. Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
 
 + Introduction of Core Topics
     + Starting on Topic   
@@ -164,7 +159,7 @@ Note that some of these modules will be shared with the Public Utility Economics
         + Dahl, Ch 1-2.
     + Coal
         + Dahl, Ch 3.
-        + *Murray, Michael P.. 2006. "Avoiding Invalid Instruments and Coping with Weak Instruments." Journal of Economic Perspectives, 20(4): 111-132. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.20.4.111
+        + Murray, Michael P.. 2006. "Avoiding Invalid Instruments and Coping with Weak Instruments." Journal of Economic Perspectives, 20(4): 111-132. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.20.4.111
     + Natural Gas
         + Dahl, Ch 8.
         + Energy Primer, Ch 2.
@@ -232,16 +227,16 @@ The course requires a term paper.  It is a good idea to do some broad reading to
     + IDEAS has a curated weekly summary of energy working papers https://ideas.repec.org/n/nep-ene/
     + r/EconPapers has a weekly summary of working papers from National Bureau of Economic Research (NBER).  They usually lead with energy and natural resource economics https://www.reddit.com/r/EconPapers.
     
-+ The Journal of Economic Perspectives (https://www.jstor.org/journal/jeconpers) has many easy to read symposia and review articles.  Here are a few from the last decade or so.
++ The Journal of Economic Perspectives (https://www.jstor.org/journal/jeconpers) has many easy to read symposia and review articles.  Here are a few from the last decade or so. Some of these are already included in the readings.
     + SYMPOSIUM: OIL AND GAS MARKETS WINTER 2016 (https://www.jstor.org/stable/i40149800)
     + SYMPOSIUM: TRADING POLLUTION PERMITS WINTER 2013 (https://www.jstor.org/stable/i40086192)
     + SYMPOSIUM: ENERGY CHALLENGES WINTER 2012 (https://www.jstor.org/stable/i40064264)
     + SYMPOSIUM: CLIMATE CHANGE SPRING 2009 (https://www.jstor.org/stable/i27740519)
 
-
-+Data
++ Data
     + OpenEI http://en.openei.org/wiki/Main_Page
     + EIA https://www.eia.gov Just go to a topic and look for the data tab.
+    + Quandl https://www.quandl.com/ Has data on many topics and is an easy way to bring in macroeconomic data.
     
 
 
@@ -249,7 +244,7 @@ The course requires a term paper.  It is a good idea to do some broad reading to
 
 + Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
   
-+ When completing assignments you may use your book, wiki, calculator, spreadsheets, notes, or other resources as long as it is not another student or person unless the assignment allows.  *The work must be authentically and genuinely your own. In other words, if you are copying answers you found online, it is not your work.*
++ When completing assignments *The work must be authentically and genuinely your own or group. In other words, if you are copying answers you found online, it is not your work.*
   
 + Go to office hours at the first sign of trouble -- not as a last resort.
 
@@ -262,10 +257,10 @@ The course requires a term paper.  It is a good idea to do some broad reading to
     + Practice personal and academic integrity and expect it from others
     + Promote the diversity of opinions, ideas, and backgrounds, which is the lifeblood of a university
 
-   For additional information, please see the Office of Affirmative Action \& Equal Opportunity at \url{http://www.pdx.edu/diversity/affirmative-action}.
+   For additional information, please see the Office of Affirmative Action \& Equal Opportunity at http://www.pdx.edu/diversity/affirmative-action.
 
 
-+ Accommodations are collaborative efforts between students, faculty, and the Disability Resource Center.  If you have a documented disability and require accommodation, you must arrange to meet with the course instructor prior to or within the first week of the term.  The documentation of your disability must come in writing from the Disability Resource Center (Faculty letter).  Students who believe they are eligible for accommodations but who have not yet obtained approval through the DRC should contact the DRC immediately.  Reasonable and appropriate accommodations will be provided for students with documented disabilities.  For more information on the Disability Resource Center, please see \url{http://www.drc.pdx.edu/}. 
++ Accommodations are collaborative efforts between students, faculty, and the Disability Resource Center.  If you have a documented disability and require accommodation, you must arrange to meet with the course instructor prior to or within the first week of the term.  The documentation of your disability must come in writing from the Disability Resource Center (Faculty letter).  Students who believe they are eligible for accommodations but who have not yet obtained approval through the DRC should contact the DRC immediately.  Reasonable and appropriate accommodations will be provided for students with documented disabilities.  For more information on the Disability Resource Center, please see http://www.drc.pdx.edu. 
 
 + Academic honesty is expected and required of students enrolled in this course.  Suspected academic dishonesty in this course will be handled according to the procedures set out in the Student Code of Conduct.
 
