@@ -92,7 +92,22 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 
 # Scenario Planning
 
++ Too much variation to give one description. 
++ General Steps:
+    + Choose some parameters of interest, e.g., environmental activism, sea level rise, fracking shown to cause earthquakes, etc.
+    + Package them into narratives that are possible.  Some improbable and some likely.
+    + Decide how you would act now given that you know that that future will exist.
+    + ?
+    + Profit
 
+# Frequent use and abuse of scenarios analysis
+
++ Rigging scenarios so that only one is taken seriously. (abuse)
++ Chosing actions that will "work" in all scenarios. (abuse)
++ Actual plans for if a scenario becomes more likely, "Plans are worthless, but planning is everything." -Ike
++ Creation of real options
+    + Defer action until more information is available.  Don't bring an umbrella everywhere, but have on near by if it starts to rain.
+    + Create systems you can use when the situation is clearer.  Think peaking power plants that only run a few days a year.
 
 # I/O Models
 + Old school -- 1920s Leontief
@@ -120,6 +135,8 @@ Matrix Form
 $x=Ax +d$ is solved as $x=(I-A)^{-1}d$
 
 
+The next series of models, energy balance, end use, process, all build on each other from high level to low level.
+
 # Energy Balance Models
 
 # End Use Modeling
@@ -140,8 +157,8 @@ $x=Ax +d$ is solved as $x=(I-A)^{-1}d$
 
 # Experimental/Behavioral
 
-+ Admit that people and firms do not act rationally.
-+ Old school experiments run on people
++ The behavioral part is admitting that people and firms do not act rationally.
++ Old school experiments, A/B testing and more, run on people
 + Field experiments are common in economics now
     + Esther Duflo recieved the Bates Clark Award 2010
     + Bluffstone in Econ is running two now in Ethiopia and Nepal.
