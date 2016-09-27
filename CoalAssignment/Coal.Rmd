@@ -2,7 +2,7 @@
 title: "Coal"
 author: "James Woods"
 date: "8/31/2016"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This assignment is not so much about coal but finding out where the class is in econometrics and specific skills with R and RStudio, a statistical programming language and Integrated Development Environment (IDE) respectively.  There is plenty of help on R but if you want a readable primer (http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf) is a good choice.
 
-1. Get RStudio and R working on a computer.  Most PSU computers will have these installed but if you are working on your own computer you can find directions at https://www.rstudio.com.  
+1. Get RStudio and R (https://cran.r-project.org/) working on a computer.  Most PSU computers will have these installed but if you are working on your own computer you can find directions at https://www.rstudio.com.  
 
 The install process is different depending on if you are running Windows,  or Linux.  They key is to install R first and then install RStudio.  Many people find git (https://git-scm.com/) useful for version control and collaboration.
 
