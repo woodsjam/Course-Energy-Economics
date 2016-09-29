@@ -126,12 +126,12 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 + Book has an overly long explanation.
 
 # Walk Through I/O model
-$x_1 = \alpha_{1,1} x_1 + \alpha_2 x_{1,2} + d_1$
+$x_1 = \alpha_{1,1} x_1 + \alpha_{1,2} x_2 + d_1$
 
 + $x_1$ is how much of good one that gets made.
 + $d_1$ is how much final consumers want of good 1.
 + $\alpha_{1,1}$ the amount of good 1 needed to produce good 1.
-+ $\alpha_{1,2}$ the amount of good 1 needed to produce good 1.
++ $\alpha_{1,2}$ the amount of good 2 needed to produce good 1.
 + Each good has an equation
 + $\alpha$s can be zero but there are restrictions on how many and where. The matrix needs to be invertable.
 
