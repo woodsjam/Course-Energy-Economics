@@ -9,6 +9,8 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Assignment and Access 
+
 1. Lets start with a few R conventions.  Lets start with scalars.  '<-' is the assignment operator in R.  '=' also works but '==' is used for comparisons.
 
 ```{r}
@@ -45,17 +47,134 @@ summary(as.factor(D))
 
 ```{r}
 sqrt(D)
-sqrt(A)
+#sqrt(A)
 
-sqrt(D[])
+sqrt(D[6])
+sqrt(D[1:3])
+
 ```
 
+4. If you need help, use the help pane or ask for help. Everything has a help file and many functions come with examples of how to use.
+
+```{r}
+help(sqrt)
+example(sqrt)
+```
+
+4.  You can work with vectors and matrix but you will most frequently deal with dataframes, which is a matrix with extra attributes.  Dataframes are objects that have variables inside them.  You can access those variables with specific functions or with a '$'.
+
+```{r}
+
+X <- runif(20, 2, 40)
+MyData <- as.data.frame(X)
+MyData$Y <-  100 - 2*MyData$X +rnorm(20)
+
+names(MyData)
+
+names(MyData) <- c("Price","Quantity")
+names(MyData)
+summary(MyData)
+```
+
+5.  You can get at columns and rows in other ways.
+
+```{r}
+
+MyData[1:2]
+MyData[1]
+MyData[1:3,]
+MyData[1:3,"Price"]
+MyData["Price"]
+MyData[c(1,5,8),]
+```
+
+# Pictures
+Now lets make pictures.
+```{r}
+plot(MyData$Price)
+```
+
+Historgram
+```{r}
+hist(MyData$Price)
+```
+
+Show the relationship
+```{r}
+plot(Quantity~Price, data= MyData)
+
+```
+
+# Regression with Pictures
+
+5. A regression line can be thought of as just putting a line through a cloud of data in a well defined way.  Remember the data wer created.
+```{r}
+FirstRegression<- lm(Quantity ~ Price, data=MyData)
+
+summary(FirstRegression)
+```
+
+Note that the estimates are the parameter, or very close to the parameters we used to create the data.  Note also that the residual standard errors are the same as what we used to create the data.  Nice when you know what is true.
+
+Regression can also show you things that are not true. You have to assume a functional form.  Make new data.
+
+
+```{r}
+
+MyData2<- data.frame(Price = runif(20, 2, 40))
+MyData2$Quantity <-  100 - 2*MyData2$Price + .05*MyData2$Price^2 +rnorm(20)
+
+summary(MyData2)
+```
+
+Not a line
+```{r}
+plot(Quantity~Price, data= MyData2)
+
+```
+
+Give me a line anyway.
+
+```{r}
+NotALine<- lm(Quantity ~ Price, data=MyData2)
+
+summary(NotALine)
+```
+
+How to tell you were wrong thinking it was a line. Make a pictures
+```{r}
+plot(NotALine)
+
+```
+
+Compare with when it was a line and you estimated a line
+
+```{r}
+plot(FirstRegression)
+
+```
+
+You can make these by hand too.  Here are two accessor functions.
+
+```{r}
+plot(resid(NotALine)~fitted(NotALine))
+
+```
+
+
+# Dummy Variables
+
+# Looking at Residuals for problems
+
+
+
+# Real Data
 
 2. I will  walk you through a few steps on reading in the data. The biggest hurdle to doing stats on the data is reading it in. There is actually an R library for working with EIA data directly, EIAdata, but we will use the more general tools to read files.
 
 
 
-3. Download into R data on coal prices and quantities.  The assignment operator in R is the "<-" symbol.
+3. Download into R data on coal prices and quantities.  Again, the assignment operator in R is the "<-" symbol.
 
 ```{r}
 
