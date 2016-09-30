@@ -125,26 +125,14 @@ This is the data frame we all start with. Please note that we have not converted
 
 # Undergraduate Students
 
-Your group assignment is to estimate a supply function, assuming no endogenaity, meaning that you can use OLS.
+Your group assignment is to estimate a supply or demand function, assuming no endogenaity, meaning that you can use OLS.
 
 1.  Look at Ch 2 of the primer (http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf)
+
+3. Convert the prices to real with the CPI.  Again quandl has what you need.
 
 2. Create a simple supply model with the lm function.  You can get as complicated as you like with the model, time trends, decades, log and square transformations.
 
 3.  Interpret each of the parameter in your model being very clear about units, e.g. a one dollar increase in the price per MBTU results in an ...
 
-# Graduate Students
 
-The primer may be useful to you too but I want to see how you handle inputting data on your own and see where you are on systems estimation.  Lets be clear, price is endogenous.
-
-1.  Chose an instrument or two that makes sense for the demand side of the equation, steel production or electricity demand may make sense. Look in both quandl and EIA for data.
-
-2. Load those variable in and merge them with the existing CoalMarket data frame.
-
-3. Convert the prices to real with the CPI.  Again quandl has what you need.
-
-4.  Estimate an IV model with ivreg in the AER library.
-
-5.  Interpret your results and comment on the adequacy of your instruments.
-
- 
