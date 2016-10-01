@@ -9,20 +9,46 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+This is something like a notebook.  You can work with data and text at the same time.  Things chunks are for code
+```{r}
+
+print("I am in a chunk.")
+
+```
+
+By default they echo the code and then produce the result.
+
+You can turn off the echo and just see the result.
+```{r echo=FALSE}
+print("No Echo")
+
+```
+
+
+
 # Assignment and Access 
 
 1. Lets start with a few R conventions.  Lets start with scalars.  '<-' is the assignment operator in R.  '=' also works but '==' is used for comparisons.
 
 ```{r}
-1+1
-A <-  2+3
+1 + 1
+A <-  2 + 3
 A + 2
-B <- A +4
-A+B
-C = A+B
+B <- A + 4
+A + B
+C = A + B
 C
 A == B
 ```
+Note that when you save values to variables you can see them in the Environment tab.
+
+
+Play with this in the chunk below and run to see what happens.
+
+```{r}
+
+```
+
 
 2. R has many ways of representing values
 ```{r}
@@ -42,6 +68,8 @@ summary(as.character(D))
 summary(as.factor(D))
 
 ```
+
+There are many others, "list" being the most important not shown.
 
 3. There are also functions. Most, but not all, work on many things at once.
 
@@ -67,7 +95,7 @@ example(sqrt)
 
 X <- runif(20, 2, 40)
 MyData <- as.data.frame(X)
-MyData$Y <-  100 - 2*MyData$X +rnorm(20)
+MyData$Y <-  100 - 2 * MyData$X + rnorm(20, mean = 0, sd = 1)
 
 names(MyData)
 
@@ -90,24 +118,28 @@ MyData[c(1,5,8),]
 
 # Pictures
 Now lets make pictures.
+
 ```{r}
 plot(MyData$Price)
 ```
 
-Historgram
-```{r}
+If you don't want to see the code and just the result, make sure to add echo=false to the chunk.  Here is a Histogram without the code.
+
+```{r echo=FALSE}
 hist(MyData$Price)
 ```
 
-Show the relationship
+Show the relationship between two variables with "plot" or more than two with "pairs".
+
 ```{r}
-plot(Quantity~Price, data= MyData)
+plot(Quantity ~ Price, data= MyData)
 
 ```
 
 # Regression with Pictures
 
-5. A regression line can be thought of as just putting a line through a cloud of data in a well defined way.  Remember the data wer created.
+5. A regression line can be thought of as just putting a line through a cloud of data in a well defined way.  Remember the data we created?  Here is what the regression gives you.  You may want to make some notes on how to write formulas for regression in this file.
+
 ```{r}
 FirstRegression<- lm(Quantity ~ Price, data=MyData)
 
@@ -116,20 +148,33 @@ summary(FirstRegression)
 
 Note that the estimates are the parameter, or very close to the parameters we used to create the data.  Note also that the residual standard errors are the same as what we used to create the data.  Nice when you know what is true.
 
-Regression can also show you things that are not true. You have to assume a functional form.  Make new data.
+Some other things you should note:
+
++ ADD _NOTES_ TO THIS LIST
++ MORE NOTES FOR YOU TO ADD
+
+You should probably make a lot of notes in this document so you can remember what we are talking about.  Just add things.  By the way, you can do equations too, $\frac{1}{2} x$ or even 
+
+$$\lim_{x \to +\infty} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3$$
+
+If you take 400 level math classes, your homework will be in latex like this.
+
+Regression can also show you things that are not true. You always have to assume a functional form and if you get that functional form wrong you get garbage.  Sometimes the garbage makes some kind of sense and sometimes it leads you to believe that you have to make some kind of statistical fix.  Students that have taken econometrics will be aware of autocorrelation, heterskedasticity and endogenaity as common problems. Having the wrong functional form will often present as one of these problems.
+
+Lets wake new data and show how getting the regression model wrong can cause problems.
 
 
 ```{r}
 
-MyData2<- data.frame(Price = runif(20, 2, 40))
-MyData2$Quantity <-  100 - 2*MyData2$Price + .05*MyData2$Price^2 +rnorm(20)
+MyData2 <- data.frame(Price = runif(20, 2, 40))
+MyData2$Quantity <-  100 - 2 * MyData2$Price + .05 * MyData2$Price^2 + rnorm(20, mean =0, sd = 1)
 
 summary(MyData2)
 ```
 
 Not a line
 ```{r}
-plot(Quantity~Price, data= MyData2)
+plot(Quantity ~ Price, data = MyData2)
 
 ```
 
@@ -164,17 +209,62 @@ plot(resid(NotALine)~fitted(NotALine))
 
 # Dummy Variables
 
-# Looking at Residuals for problems
+Not every variable is real valued, some are true false or categorical like night and day.  R deals with categorical variables, called factors, very well and has fewer of the problems you see in other languages.
+
+Lets make new fake data with dummy variables.  I will reuse the first artificial dataset that was truly linear.
+
+```{r}
+MyData$Time <- as.factor(ifelse(runif(20) < .5, "Day", "Night"))
+
+MyData$Quantity[MyData$Time == "Day"] <- MyData$Quantity[MyData$Time == "Day"] + 12 
+
+```
+I just made it so that if it is Day the quantity is 12 higher.
+
+```{r}
+WTime <- lm(Quantity ~ Price + Time, data=MyData)
+
+summary(WTime)
+
+```
+
+See something odd.  Interpreting this can be tricky. Best take some notes.
 
 
+You can also make it so that the reaction to price is different depending on if it is night or day.
+
+```{r}
+WTimeInteract <- lm(Quantity ~ Price*Time, data=MyData)
+
+summary(WTimeInteract)
+
+```
+You will need a lot of notes on this. Interpreting interactive effects is tricky.
+
+
+# Common statistical problems
+
+This is the basics.  You now know enough to be insanely overconfident.  Don't destroy the world.
+
+Beyond getting the specification wrong, which you usually support with several similar models that show similar results, there are common statistical problems that you learn about in econometrics
+
++ Autocorrelation, which makes your regression look better than it actually is.
++ Heterskadasticity, which makes it worse.
++ Endogenaity, which biases your parameters in unknown directions.
++ Errors in variables (RHS), which bias parameters towards zero.
++ ...
+
+Don't get cocky.
+
+What we are going to do next is read in some real data and you will for homework estimate something that looks like either supply or demand but will be neither.  Why, because supply and demand determine price and quantity simultaneously, that means that something either price or quantity is endogenous.  At this point, you are at about 1910 as far as standard econometric practice.
 
 # Real Data
 
-2. I will  walk you through a few steps on reading in the data. The biggest hurdle to doing stats on the data is reading it in. There is actually an R library for working with EIA data directly, EIAdata, but we will use the more general tools to read files.
++ I will  walk you through a few steps on reading in the data. The biggest hurdle to doing stats on the data is reading it in. There is actually an R library for working with EIA data directly, EIAdata, but we will use the more general tools to read files.
 
 
 
-3. Download into R data on coal prices and quantities.  Again, the assignment operator in R is the "<-" symbol.
++ Download into R data on coal prices and quantities.  Again, the assignment operator in R is the "<-" symbol.
 
 ```{r}
 
@@ -184,7 +274,7 @@ Coal <- read.csv("https://www.eia.gov/totalenergy/data/browser/csv.cfm?tbl=T06.0
 
 There are many ways of loading data into R (http://www.r-tutor.com/r-introduction/data-frame/data-import).  Some work some of the time.  In most cases Comma Separated Values (CSV) is the safest format to work with.
 
-4. Take a look at the summary of the data
++ Take a look at the summary of the data
 
 ```{r}
 summary(Coal)
@@ -193,7 +283,7 @@ summary(Coal)
 
 You will notice that for some variables they give counts, e.g., MSN, and for others you get numerical summaries, e.g., Column_Order.  The difference has to do with the data types (http://www.statmethods.net/input/datatypes.html).
 
-5.  Since we are trying to make a simple supply model, i.e., trying to explain coal production, lets select just the production part of the data set and also get only the annual production values.  This is a little primer on changing data types and taking part of data.
++ Since we are trying to make a simple supply model, i.e., trying to explain coal production, lets select just the production part of the data set and also get only the annual production values.  This is a little primer on changing data types and taking part of data.
 
 + Load the dplyr package.  This is the normal way to load libraries of functions that you need.
 ```{r}
@@ -202,6 +292,7 @@ library(dplyr)
 ```
 
 + Select only the Coal Production Figures and save it as CoalProduction.  There is a cheat sheet for dplyr built into R.  Look under the help menu.
+
 ```{r}
 CoalProduction <- Coal %>% filter(MSN == "CLPRPUS") 
 
@@ -215,6 +306,7 @@ library(stringr)
 CoalProduction <- CoalProduction %>% filter(str_sub(as.character(YYYYMM),5 ) == "13")
 
 ```
+
 + At this point you will have noticed that we don't need all the columns so lets keep just the ones we need and then give the two columns we saved new names.
 
 ```{r}
@@ -223,15 +315,18 @@ CoalProduction <- CoalProduction %>% select(YYYYMM, Value)
 names(CoalProduction) <- c("RawYear", "ProductionKShortTon")
 summary(CoalProduction)
 ```
+
 + Notice that the ProductionKShortTon variable shows a count rather than a numerical summary.  This means that R thinks it is a factor rather than a number.  Lets fix that.  It requires to first convert the factor, which is an integer, to the real value as a character and then convert that to numeric.
 
 ```{r}
 CoalProduction$ProductionKShortTon <- as.numeric(as.character(CoalProduction$ProductionKShortTon))
 
 ```
+
 Play around with this doing one function at a time to see what each does and what each does alone.
 
 + Next lets create a column for the year and make it a numeric value.
+
 ```{r}
 
 CoalProduction <- CoalProduction  %>% mutate(Year = as.numeric(str_sub(as.character(RawYear),0,4 )))
@@ -240,7 +335,7 @@ CoalProduction <- CoalProduction  %>% mutate(Year = as.numeric(str_sub(as.charac
 summary(CoalProduction)
 ```
 
-5. Now grab some price data.  We are going to use Quandl (https://www.quandl.com/), which has a bunch of data on energy and a lot of other things (https://www.quandl.com/collections/markets/coal). Make sure you have the Quandl library installed. If you don't install.packages("Quandl") should do it.  
++ Now grab some price data.  We are going to use Quandl (https://www.quandl.com/), which has a bunch of data on energy and a lot of other things (https://www.quandl.com/collections/markets/coal). Make sure you have the Quandl library installed. If you don't install.packages("Quandl") should do it.  
 
 ```{r}
 library(Quandl)
@@ -249,13 +344,18 @@ Prices <- Quandl("EPI/152")
 summary(Prices)
 
 ```
-+ As before we will convert the year to a numeric value
+
+
++ As before we will convert the year to a numeric value.
+
 ```{r}
 Prices$Year <- as.numeric(str_sub(Prices$Year,0,4))
 
 
 ```
-+ And simplify the names
+
++ And simplify the names.
+
 ```{r}
 names(Prices) <- c("Year", "PriceMBTU")
 
@@ -268,8 +368,15 @@ Please note that we don't have the price per short ton of coal.  What we have is
 ```{r}
 summary(CoalProduction)
 summary(Prices)
-CoalMarket<-inner_join(Prices, CoalProduction, by ="Year")
+CoalMarket <- inner_join(Prices, CoalProduction, by ="Year")
 
 summary(CoalMarket)
 
 ```
+
+Lets look at the data.
+```{r}
+pairs(~ Year+ PriceMBTU + ProductionKShortTon, data = CoalMarket)
+
+```
+
