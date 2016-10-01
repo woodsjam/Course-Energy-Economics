@@ -1,5 +1,5 @@
 ---
-title: "Coal"
+title: "Coal Supply or Demand Estimation"
 author: "James Woods"
 date: "8/31/2016"
 output: pdf_document
@@ -9,130 +9,17 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This assignment is not so much about coal but finding out where the class is in econometrics and specific skills with R and RStudio, a statistical programming language and Integrated Development Environment (IDE) respectively.  There is plenty of help on R but if you want a readable primer (http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf) is a good choice.
-
-1. Get RStudio and R (https://cran.r-project.org/) working on a computer.  Most PSU computers will have these installed but if you are working on your own computer you can find directions at https://www.rstudio.com.  
-
-The install process is different depending on if you are running Windows,  or Linux.  They key is to install R first and then install RStudio.  Many people find git (https://git-scm.com/) useful for version control and collaboration.
 
 
+Building off the data handling that we did in class, your group assignment is to estimate a supply or demand function, assuming no endogenaity, meaning that you can use OLS.
 
-2. I will  walk you through a few steps on reading in the data. The biggest hurdle to doing stats on the data is reading it in. There is actually an R library for working with EIA data directly, EIAdata, but we will use the more general tools to read files.
-
-3. Start with a new markdown file similar to this one through the menu File > New File > R Markdown...
-
-3. Download into R data on coal prices and quantities.  The assignment operator in R is the "<-" symbol.
-
-```{r}
-
-Coal <- read.csv("https://www.eia.gov/totalenergy/data/browser/csv.cfm?tbl=T06.01")
-
-```
-
-There are many ways of loading data into R (http://www.r-tutor.com/r-introduction/data-frame/data-import).  Some work some of the time.  In most cases Comma Separated Values (CSV) is the safest format to work with.
-
-4. Take a look at the summary of the data
-
-```{r}
-summary(Coal)
-
-```
-
-You will notice that for some variables they give counts, e.g., MSN, and for others you get numerical summaries, e.g., Column_Order.  The difference has to do with the data types (http://www.statmethods.net/input/datatypes.html).
-
-5.  Since we are trying to make a simple supply model, i.e., trying to explain coal production, lets select just the production part of the data set and also get only the annual production values.  This is a little primer on changing data types and taking part of data.
-
-+ Load the dplyr package.  This is the normal way to load libraries of functions that you need.
-```{r}
-library(dplyr)
-
-```
-
-+ Select only the Coal Production Figures and save it as CoalProduction.  There is a cheat sheet for dplyr built into R.  Look under the help menu.
-```{r}
-CoalProduction <- Coal %>% filter(MSN == "CLPRPUS") 
-
-```
-
-+ Note that you have monthly data but that the annual data is shown as month 13.  Grab all of the observations with month equal to 13.
-
-```{r}
-library(stringr)
-
-CoalProduction <- CoalProduction %>% filter(str_sub(as.character(YYYYMM),5 ) == "13")
-
-```
-+ At this point you will have noticed that we don't need all the columns so lets keep just the ones we need and then give the two columns we saved new names.
-
-```{r}
-CoalProduction <- CoalProduction %>% select(YYYYMM, Value)
-
-names(CoalProduction) <- c("RawYear", "ProductionKShortTon")
-summary(CoalProduction)
-```
-+ Notice that the ProductionKShortTon variable shows a count rather than a numerical summary.  This means that R thinks it is a factor rather than a number.  Lets fix that.  It requires to first convert the factor, which is an integer, to the real value as a character and then convert that to numeric.
-
-```{r}
-CoalProduction$ProductionKShortTon <- as.numeric(as.character(CoalProduction$ProductionKShortTon))
-
-```
-Play around with this doing one function at a time to see what each does and what each does alone.
-
-+ Next lets create a column for the year and make it a numeric value.
-```{r}
-
-CoalProduction <- CoalProduction  %>% mutate(Year = as.numeric(str_sub(as.character(RawYear),0,4 )))
-
-
-summary(CoalProduction)
-```
-
-5. Now grab some price data.  We are going to use Quandl (https://www.quandl.com/), which has a bunch of data on energy and a lot of other things (https://www.quandl.com/collections/markets/coal). Make sure you have the Quandl library installed. If you don't install.packages("Quandl") should do it.  
-
-```{r}
-library(Quandl)
-Prices <- Quandl("EPI/152")
-
-summary(Prices)
-
-```
-+ As before we will convert the year to a numeric value
-```{r}
-Prices$Year <- as.numeric(str_sub(Prices$Year,0,4))
-
-
-```
-+ And simplify the names
-```{r}
-names(Prices) <- c("Year", "PriceMBTU")
-
-```
-
-Please note that we don't have the price per short ton of coal.  What we have is the price per million BTUs, which is a measure of energy content.  The BTUs per short ton of coal (2000 lbs) is about 20 MBTUs but varies from place-to-place and year-to-year.
-
-+ Merge the two data frames
-
-```{r}
-summary(CoalProduction)
-summary(Prices)
-CoalMarket<-inner_join(Prices, CoalProduction, by ="Year")
-
-summary(CoalMarket)
-
-```
-
-This is the data frame we all start with. Please note that we have not converted these to real prices or anything like that.
-
-# Undergraduate Students
-
-Your group assignment is to estimate a supply or demand function, assuming no endogenaity, meaning that you can use OLS.
-
-1.  Look at Ch 2 of the primer (http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf)
+1.  Look at the primer (http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf) if you need some help.
 
 3. Convert the prices to real with the CPI.  Again quandl has what you need.
 
-2. Create a simple supply model with the lm function.  You can get as complicated as you like with the model, time trends, decades, log and square transformations.
+2. Create a model with the lm function.  You can get as complicated as you like with the model, time trends, decades, log and square transformations.
 
-3.  Interpret each of the parameter in your model being very clear about units, e.g. a one dollar increase in the price per MBTU results in an ...
+3.  Interpret each of the parameters in your model being very clear about units, e.g. a one dollar increase in the price per MBTU results in an ...
 
+Upload your Rmd file and a pdf of your group's results to the dropbox in d2l.
 

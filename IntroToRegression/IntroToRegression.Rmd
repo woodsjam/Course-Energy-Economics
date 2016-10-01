@@ -241,6 +241,30 @@ summary(WTimeInteract)
 ```
 You will need a lot of notes on this. Interpreting interactive effects is tricky.
 
+## Useful facts
+
+You can get elasticites directly out of a regression model if both quantity and price are logged.  In every other case you have to calculate elasticities by hand and they are different at every point.
+
+```{r}
+ElastForm <- lm(log(Quantity) ~ log(Price) + Time, data=MyData)
+
+summary(ElastForm)
+
+```
+I did it, but is it right?
+
+If only the right hand side variable is logged, you interpret the parameter as the effect of a percent change.
+
+```{r}
+PercentForm <- lm(Quantity ~ log(Price) + Time, data=MyData)
+
+summary(PercentForm)
+
+```
+
+
+
+
 
 # Common statistical problems
 
@@ -361,7 +385,7 @@ names(Prices) <- c("Year", "PriceMBTU")
 
 ```
 
-Please note that we don't have the price per short ton of coal.  What we have is the price per million BTUs, which is a measure of energy content.  The BTUs per short ton of coal (2000 lbs) is about 20 MBTUs but varies from place-to-place and year-to-year.
+Please note that we don't have the price per short ton of coal.  What we have is the price per million BTUs (MMBTU), which is a measure of energy content.  The BTUs per short ton of coal (2000 lbs) is about 20 MMBTUs but varies from place-to-place, year-to-year and type of coal (See table 3-4).
 
 + Merge the two data frames
 
