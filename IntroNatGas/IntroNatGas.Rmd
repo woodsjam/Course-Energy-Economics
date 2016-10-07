@@ -1,0 +1,43 @@
+---
+title: "Introduction to Natural Gas"
+author: "James Woods"
+date: ""
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Where is it produced? Just conventional
+![](http://dualstack.prod-http-80-test-412114078.us-east-1.elb.amazonaws.com/w/images/1/13/EIA-conventional-gas.pdf)
+
+## More in the shale areas.
+![](https://www.eia.gov/todayinenergy/images/2015.04.17/main.png)
+
+## How do you move it within the US? Pipelines (Interstate only).
+![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/dependstates.gif)
+
+## What about those pipelines?
++ There are more intrastate pipelines than shown, plenty in TX and CA but also other states
++ Read more here https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/transcorr.html
+    + Picture pipes ranging from a foot to three+ feet for trunk lines.
+    + Compressor stations every 50-100 miles, ~1,500 total
+    + 200 psi to 1,500 depending
++ They are privatly owned https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/MajorInterstatesTable.html
+    + Open access, posted prices, is a thing.
+    + For intrastate, withing, state PUC regulate
+    + For interstate, FERC regulates (You can find current Tarrifs at http://etariff.ferc.gov/TariffList.aspx)
+    
+## Storage is important
+![](https://www.eia.gov/todayinenergy/images/2015.11.16/chart3.png)
+
+## Hubs, where transactions are made
+![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/MarketCenterHubsMap.gif)
+
+## Getting to Prices
++ You will see wellhead prices, but
++ Most references prices are at the hubs.  
+    + Henry Hub in LA is the most common reference hub for prices
+    + There are fairly firm relationships between other hubs and HH except when there is congestion.
+    + Changes in the usual difference are usually called basis blowout
