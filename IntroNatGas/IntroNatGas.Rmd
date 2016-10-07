@@ -15,6 +15,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ## More in the shale areas.
 ![](https://www.eia.gov/todayinenergy/images/2015.04.17/main.png)
 
+## Fracking Well. Will see with oil well with associated gas
+
+![](http://geology.com/research/images/gas-well-rig.jpg)
+
 ## How do you move it within the US? Pipelines (Interstate only).
 ![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/dependstates.gif)
 
@@ -29,15 +33,32 @@ knitr::opts_chunk$set(echo = FALSE)
     + For intrastate, withing, state PUC regulate
     + For interstate, FERC regulates (You can find current Tarrifs at http://etariff.ferc.gov/TariffList.aspx)
     
+## Compressors
+
+![](https://stateimpact.npr.org/pennsylvania/files/2014/08/Compressor2-620x410.jpg)
+
+## Compressor Station
+
+![](http://www.gdacoalition.org/GDAC_Images/CompressorStation1.JPG)
+    
 ## Storage is important
+
 ![](https://www.eia.gov/todayinenergy/images/2015.11.16/chart3.png)
+
+## Most Storage is just old gas wells
+
+![](http://www.energyinfrastructure.org/~/media/energyinfrastructure/images/ng-storage/updated-2-18/typeofngstoragegraphic-218.png?la=en)
 
 ## Hubs, where transactions are made
 ![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/MarketCenterHubsMap.gif)
+
+## Part of Henry Hub LA
+
+![](http://interfaxenergy.com/analytics/uploads/articles/1443533671.jpg)
 
 ## Getting to Prices
 + You will see wellhead prices, but
 + Most references prices are at the hubs.  
     + Henry Hub in LA is the most common reference hub for prices
     + There are fairly firm relationships between other hubs and HH except when there is congestion.
-    + Changes in the usual difference are usually called basis blowout
+    + Changes in the usual difference are usually called basis blowout. Term is not specific to energy.
