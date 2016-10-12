@@ -1,0 +1,217 @@
+---
+title: "Coal Production"
+author: "Team-The Best"
+date: "Tuesday, October 11, 2016"
+output: pdf_document
+---
+# Assignment:
+
+Building off the data handling that we did in class, your group assignment is to estimate a supply or demand function, assuming no endogenaity, meaning that you can use OLS.
+
+1.  Look at the primer (http://users.stat.umn.edu/~sandy/alr4ed/links/alrprimer.pdf) if you need some help.
+
+2. Convert the prices to real with the CPI.  Again quandl has what you need.
+
+3. Create a model, or multiple models, with the lm function.  You can get as complicated as you like with the model, time trends, decades, log and square transformations.
+
+4.  Interpret each of the parameters in your model being very clear about units, e.g. a one dollar increase in the price per MBTU results in an ...
+
+# Cleaning up the data:
+
+##Load necessary Libraries
+```{r,message=FALSE, warning=FALSE}
+library(dplyr)
+library(stringr)
+library(Quandl)
+library(zoo)
+Quandl.api_key("DzG-XQvJrL7g8BoTG8oA")
+```
+
+##Load necessary datatables (note: https would not work with knit)
+
+
+```{r}
+Coal <-read.csv("http://www.eia.gov/totalenergy/data/browser/csv.cfm?tbl=T06.01")
+CoalPrice <-Quandl("EPI/152")
+CPI <-Quandl("RATEINF/CPI_USA",collapse="annual")
+NaturalGasPrice<-Quandl("ODA/PNGASUS_USD",collapse="annual")
+
+```
+
+##Prepare tables to be joined:
+
+###1) coal
+```{r}
+Coal$Year<-substr(as.character(Coal$YYYYMM),1,4)
+Coal$Month<-substr(as.character(Coal$YYYYMM),5,6)
+CoalProduction<-subset(Coal, Coal$Month==13 & Coal$MSN=="CLPRPUS")
+ReducedCoalProd<-subset(CoalProduction,,c("Value" ,"Year"))
+names(ReducedCoalProd)<-c("CoalShortTons", "Year")
+ReducedCoalProd$CoalShortTons<-as.numeric(as.character(ReducedCoalProd$CoalShortTons))                               
+
+```
+###2) coal price (I believe the data is in constant 2000 dollars and doesnt need adjusted)
+
+```{r}
+CoalPrice$Year<-substr(as.character(CoalPrice$Year),1,4)
+
+
+
+```
+
+###3) CPI 
+```{r}
+CPI$Year<-substr(as.character(CPI$Date),1,4)
+compyearValue<-CPI$Value[CPI$Year==2016]
+CPI$multiple<-compyearValue/CPI$Value
+ReducedCPI<-subset(CPI,,c( "Year", "multiple"))
+
+```
+###4)Natural Gas ( The date had to be converted to 2016$ using CPI)
+
+```{r}
+
+NaturalGasPrice$Year<-substr(as.character(NaturalGasPrice$Date),1,4)
+NaturalGasPrice<-inner_join(NaturalGasPrice,ReducedCPI)
+NaturalGasPrice$price2016<-NaturalGasPrice$Value*NaturalGasPrice$multiple
+NaturalGasPriceReduced<-subset(NaturalGasPrice,,c("Year", "price2016"))
+names(NaturalGasPriceReduced)<-c( "Year","NGprice2016" )
+```
+
+
+##Join the tables and add log columns:
+### Coal (short Tons) vs. Coal Price (2010 $) Full Years
+```{r}
+CoalProdCoalPrice<-inner_join(ReducedCoalProd,CoalPrice)
+names(CoalProdCoalPrice)<-c( "CoalShortTons","Year","coalPrice2010")
+CoalProdCoalPrice$logCoalProd<-log(CoalProdCoalPrice$CoalShortTons)
+CoalProdCoalPrice$logCoalPrice<-log(CoalProdCoalPrice$coalPrice2010)
+CoalProdCoalPrice$DateFactor<-ifelse(CoalProdCoalPrice$Year>1975,1,0)
+CoalProdCoalPrice$DateFactor<-as.factor(CoalProdCoalPrice$DateFactor)
+```
+
+### Coal (short Tons) vs. Coal Price (2010 $) post 1975
+```{r}
+CoalProdCoalPrice_post1975<-subset(CoalProdCoalPrice,CoalProdCoalPrice$Year>1975)
+```
+
+
+
+### Coal (short Tons) vs. Natural Gas Price (2016 $)
+```{r}
+CoalProdNGPrice<-inner_join(ReducedCoalProd,NaturalGasPriceReduced)
+CoalProdNGPrice$logCoalProd<-log(CoalProdNGPrice$CoalShortTons)
+CoalProdNGPrice$logNGPrice<-log(CoalProdNGPrice$NGprice2016)
+
+```
+
+
+##Cleaned up Tables:
+### Coal (short Tons) vs. Coal Price (2010 $)
+
+```{r}
+CoalProdCoalPrice
+```
+### Coal (short Tons) vs. Coal Price (2010 $) post 1975
+```{r}
+CoalProdCoalPrice_post1975
+```
+
+### Coal (short Tons) vs. Natural Gas Price (2016 $)
+```{r}
+CoalProdNGPrice
+```
+#Model and Results
+
+## 1) Model  log(coal Production)~log(coal Price) (all years)
+The first model was simply to look to see if there was a statistically significant elasticity between coal production and coal for the year 1949 to 2005
+
+###regression code
+```{r}
+logcoal_logCoalPrice<-lm(CoalProdCoalPrice$logCoalProd~CoalProdCoalPrice$logCoalPrice)
+```
+###summary results
+```{r}
+summary(logcoal_logCoalPrice)
+```
+
+###plot
+
+```{r}
+ plot(CoalProdCoalPrice$logCoalPrice,CoalProdCoalPrice$logCoalProd,main="Coal Prod vs. Coal Price 1949-2005", xlab="log (Coal Price ($2010/ Short Ton))",ylab="log(Coal Production (Short Tons))" )
+ abline(logcoal_logCoalPrice)
+```
+
+###interpretation
+
+Hypothesis test:
+1. H0: There is no significant difference between coal production and coal price in 2010 real dollars.
+2. H1: There is a significant difference between coal production and coal price in 2010 real dollars.
+
+The statistical data summmary indicates a high P-value of 0.3543, which means that changes in coal production are not associated with changes in coal price in real 2010 dollars. A R-squared of 0.01562 and an adjusted R-squared of -0.002282 incidcate that this particular model explains none of the variability of the response data around its mean. 
+
+Therefore, there is no significant relationship between coal production and coal price in 2010 real dollars. However examination of the plot reveals that there might be two different sets , and possibly two different elasticities
+
+## 2) Model  log(coal Production)~log(coal Price) post 1975
+  SInce the first model over all the years did nbot show statistical significance, we divided the historical data into two sets -pre and post 1975. 
+
+
+###regression code
+```{r}
+logcoal_logCoalPrice_1975<-lm(CoalProdCoalPrice_post1975$logCoalProd~CoalProdCoalPrice_post1975$logCoalPrice)
+```
+###summary results
+```{r}
+summary(logcoal_logCoalPrice_1975)
+confint(logcoal_logCoalPrice_1975)
+```
+
+###plot
+
+```{r}
+ plot(CoalProdCoalPrice_post1975$logCoalPrice,CoalProdCoalPrice_post1975$logCoalProd,main="Coal Prod vs. Coal Price 1975-2005", xlab="log (Coal Price ($2010/ Short Ton))",ylab="log(Coal Production (Short Tons))" )
+ abline(logcoal_logCoalPrice_1975)
+```
+
+###interpretation
+
+Hypothesis test: 1. H0: There is no significant difference between coal production and coal price in 1975 dollars.
+2. H1: There is a significant difference between coal production and coal price in 1975 dollars.
+
+The statistical data summmary indicates a low P-value of 1.805e-14, which means that changes in coal production are indeed associated with changes in coal price in 2010 dollars for the year 1975-2005. A R-squared of 0.881 and an adjusted R-squared of 0.8768 incidcate that this particular model explains most of  the variability of the response data around its mean. SInce this is a log-log model the elasticity is defined as the slope of log coal price. It was calculated as -.37785 with a 95% confidence surrounding it of [-.43, -.32]. Therefore, a one dollar increase in coal price per MBTU results in 7.8419 MBTU (or 0.37785 Short tons) decrease in coal production due to OPEC inception and its cartel effect in 1975.
+
+There is a significant difference between coal production and coal price in 2010 dollars for the years 1975-2005. 
+
+
+##3)  Model  log(coal Production)~log(Natural Gas Price) (Henry Hud)
+
+This model wants to test the theory that coal production is somehow related to the price of natural gas defined for the Henry Hubfor the year 1991-2015 in 2016 $.
+
+###Regression Code
+```{r}
+
+logcoal_logNgPrice<-lm(CoalProdNGPrice$logCoalProd~CoalProdNGPrice$logNGPrice)
+```
+
+###Summary Results
+```{r}
+summary(logcoal_logNgPrice)
+confint(logcoal_logNgPrice)
+```
+
+###Plot
+```{r}
+plot(CoalProdNGPrice$logNGPrice,CoalProdNGPrice$logCoalProd,main="Coal Prod vs. Natural Gas Price 1991-2015", xlab="log (Henry Hub Natural Gas Price ($2016/ MMBTU))",ylab="log(Coal Production (Short Tons))")
+abline(logcoal_logNgPrice)
+```
+
+
+###Intrepretation
+
+Hypothesis Test: 1. H0: There is no significant difference between coal production and natural gas price in 2016 dollars. 2. H1: There is a significant difference between coal production and natural gas price in 2016 dollars.
+
+The statistical data summmary indicates a low P-value of 0.00391, which means that changes in coal production are indeed associated with changes in natural gas price in 2016 dollars. A R-squared of 0.309 and an adjusted R-squared of 0.279 incidcate that this particular model explains there is a variability of the response data around its mean there are other factors to consider. SInce this is a log-log model the elasticity is calculated as .071 with a 95% confidence interval of [.025, .11] Therefore, a one dollar increase in natural gas price in 2016 dollars per MBTU results in 1.4789 MBTU (or 0.07126 Short tons) increase in coal production. 
+
+Based on the statistical data summary and observations, we can see that natural gas prices have been steadily decreasing since the mid 2005 due to prominent fracking activities, which results in a postive relationship between natural gas prices and coal production. Addtionally, if there is a spike in natural gas prices, then coal production will also increase due to the demand for substitue (coal) increases. 
+
+There is a significant difference between coal production and natural gas price in 2016 dollars.
