@@ -87,8 +87,7 @@ source: http://slideplayer.com/slide/5297074/
     + Nuclear, use the heat to make steam, use steam to spin a turbine.
     + Biomas, burn stuff to ...
     + Gas, burn it to spin a turbine ...
-    + Diesel
-    + Oil
+    + Fuel Oil or Diesel
     + Solar thermal, use the sun to make steam ...
     + Water, falling water hits a turbine and spins it
     + Wind, spin a turbine
@@ -98,5 +97,89 @@ source: http://slideplayer.com/slide/5297074/
 
 ## Characteristics
 
++ Nameplate, fully loaded under ideal conditions (kW)
 + Ramp rate, how fast power (kW) can change kW/min
-+ Heat rate, BTU in/ BTU out, only used for generation that uses a fuel
+    + Not always constant, can differ by capacity factor (fraction of nameplate)
+    + Not always symetric, up different from down.
+    + Used to follow the load.
++ Heat rate, BTU in/ BTU out, only used for generation that uses a fuel.
+    + 1 is impossible but 1 kW = 3412 BTU.
+    + Recent average from EIA, https://www.eia.gov/electricity/annual/html/epa_08_01.html
+    
+## Coal from the outside
+![](http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg)
+Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg
+
+## Coal on the inside
+
++ Pulverize the coal, picture somethign that can do 20 Tons/hr
++ Blow it into combustion chamber to burn
++ Steam turns turbine, etc. https://youtu.be/IdPTuwKEfmA
+
++ Clean up
+    + NOx with ammonia common but plenty of others
+    + Recover fly ash and sell it, great for concrete.
+    + SOx, Mercury and other.  BTW Radiation
+    
+## Nuclear
+
+Radiation to heat water and then ...similar to coal.  Just a reaction chamber
+![](http://www.nuclear-power.net/wp-content/uploads/2014/11/inside_core.jpg?11abca)
+
+## Local Reactor Columbia Generating Station
+
++ http://www.nuclear-power.net/wp-content/uploads/2014/11/inside_core.jpg?11abca
++ 1,170 MW usually runs as load following.  It reacts fast enough.
+    + France is ~70% nuclear and they load follow.
++ Most nuclear is run as base load, i.e., all the time since low variable cost and high fixed cost.
++ Palo Verde (AZ) is larger 3.3GW
+
+## So, about nuclear
+
++ So what to do with spent fuel.
++ They probably produce less radiation than coal
++ Can produce cheap power.  More on this later.
+
+## Natural Gas Conventional and Combined Cycle
+
+## Biomass
+
+## Biomas One in Eugene. 30 MW and keeps catching on fire.
+
+
+![](http://www.woodbioenergymagazine.com/magazine/2009/summer/images/article-biomass-one-001.jpg)
+
+source: http://www.woodbioenergymagazine.com/magazine/2009/summer/article-biomass-one.html
+
+## Geothermal
+
+## Neal Hot Spring in Malheur. 30 MW
+
+![](http://geo-energy.org/images/plants/Aidlin.jpg)
+
+## Diesel and other Fuel Oils
+
+## Solar Thermal
+
++ You have see the low and mid temperature designs for heating and cooling.
++ High temperature designs are:
+    + Dish
+    + Tower
+    + Trough
+
++ Fluids:
+    + Oil
+    + Salt 
+    + Water steam
+
+## Hydro
+
+## Wind
+
+## PV
+
+## Levelized Cost of Electricity (LCOE)
+
++ https://www.eia.gov/forecasts/archive/aeo15/pdf/electricity_generation_2015.pdf Table 1
+    + CC is Carbon Capture.
+    + CCS is Carbon Capture and Storage
