@@ -1,0 +1,102 @@
+---
+title: "Intro to Electricity"
+author: "James Woods"
+date: "October 13, 2016"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What Make Electricity Interesting
+
++ We somehow start with a fuel (Counting wind, geothermal and sunlight in this).
++ Transport it from where we found it to a generating facility.
++ Turn it into electricity losing some energy as heat.
++ Run it along long wires to where people want to use it, losing yet more energy.
++ From there send it out to every small location (losing more), and
++ Because electricity is not _easily_ stored, adjust the rate at which we generate electricity moment-by-moment to make sure there is just enough.
+
+This is a logistical miracle.
+
+## Basic Units
+
++  $Watts = Amps Volts$ first thing everyone learns. 
+    + Pro tip on units, if it is someones name, capitalize it.
+    + Volt is analogous to height.  
+    + Amp is analogous to a weight.
+    + Watt is what it happens when that weight is dropped from that height.
+    + DC is easy; AC is "complex"
++ AC because it is a wave, has a few more components.
+    + Real Power, measured in W, it is what does the work.
+    + Reactive power, measured in volt-amps (var),"r" tells you it is reactive, is what pushes the electricity around.
+    + Apparent Power, is in volt-amps too (VA) is when you add the two together in a vector sense.
+    + Power Factor is the Real(W)/Apparant(VA), the sign is interesting because assumes induction.
+    
+## What?
+
+Caveat IANAE and I will do thing like call current amps and the like. Also, this is the simple, single phase, view with lots of simplifications. Reality is for engineers. 
+
++ The alternating part of AC is what causes the complication.
+    + You can talk about instantaneous power but
+    + Tend to talk about average power.
+    
++ With a resistive load, think light bulb, amps and volts are in sync
++ Inductors and Capacitors throw amps and volts out of sync
+    + Capacitors store energy in electric fields. Think a very bursty battery.
+        + Amps peak _before_ volts
+    + Inductors store energy in magnetic fields. Think about an electromagnet in a motor.
+        + Amps peak _after_ volts
+
+-------------------
+
+![](http://images.slideplayer.com/17/5297074/slides/slide_27.jpg)
+
+source: http://slideplayer.com/slide/5297074/
+
+## Power Factor
+
++ Measure it
+    + Henrys are the unit for inductance/capacitance and engineers use that in calculations
+    + There are also power factor meters
+    + You can also check out the difference between amps and volt on ocilliscope.
+
++ Low numbers mean the utility needs to generate more power than customer uses.
+    + Can happen with low load, like a motor barely moving, but you still need the electromagnet
+    + Common solution is to install capacitors somewhere to cancel out the inductor
+
+## Why do we care about reactive power and power factors?
+
++ Engineers have to design systems to accomodate not just the real, but real plus reactive, i.e., apparant power.
++ Reactive power has to be generated.
++ Not residential tariffs, but commercial and industrial tariffs charge for reactive power or have penalties for low power factors.
+
+## kW vs kWh
+
++ kW is instantanious and called power
++ kWh is the integral over time and called energy.
+
++ 100 W light bulb uses 100 Wh = 1/10 kWh per hour
+
+## Lets Generate Some Electricity
+
++ Turbine -- spin something in a magnetic field to induce a current.
++ Lots of ways to spin a turbine
+    + Coal, grind it up, burn it, make steam, use steam to spin the turbine.
+    + Nuclear, use the heat to make steam, use steam to spin a turbine.
+    + Biomas, burn stuff to ...
+    + Gas, burn it to spin a turbine ...
+    + Diesel
+    + Oil
+    + Solar thermal, use the sun to make steam ...
+    + Water, falling water hits a turbine and spins it
+    + Wind, spin a turbine
+    + etc.
+    
++ Or don't spin a turbine and go for photovoltaic, PV.
+
+## Characteristics
+
++ Ramp rate, how fast power (kW) can change kW/min
++ Heat rate, BTU in/ BTU out, only used for generation that uses a fuel
