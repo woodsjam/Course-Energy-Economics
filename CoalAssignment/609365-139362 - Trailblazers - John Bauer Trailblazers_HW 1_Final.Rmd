@@ -1,0 +1,78 @@
+---
+title: "HW 1"
+author: "Trailblazers"
+date: "October 9, 2016"
+output: pdf_document
+---
+``````{r, echo=FALSE}
+knitr::opts_chunk$set(error = TRUE)
+```
+
+This is something like a notebook.  You can work with data and text at the same time.  Things chunks are for code
+```{r}
+
+print("I am in a chunk.")
+
+```
+
+By default they echo the code and then produce the result.
+
+You can turn off the echo and just see the result.
+```{r echo=FALSE}
+print("No Echo")
+
+```
+
+
+```{r}
+View(RealPrices)
+summary(RealPrices)
+```
+
+## now plot Year and Real Price (test)
+
+```{r}
+plot(RealPrices$Year)
+```
+## now plot Year and short ton production
+```{r}
+plot(RealPrices$Year, CoalMarket$ProductionKShortTon)
+```
+## more plots
+```{r}
+plot(RealPrices$Year, RealPrices$RealPriceMBTU)
+plot(RealPrices$Year, RealPrices$RealPriceMBTU)
+plot(RealPrices$RealPriceMBTU, CoalMarket$ProductionKShortTon)
+```
+## Demand Curve
+```{r}
+plot(CoalMarket$ProductionKShortTon, RealPrices$RealPriceMBTU)
+```
+## now Multiple (linear) Regression
+```{r}
+FirstRegression<- lm(CoalMarket$ProductionKShortTon ~ RealPrices$RealPriceMBTU)
+summary(FirstRegression)
+plot(FirstRegression)
+```
+## now elasticities
+FirstRegression<- lm(CoalMarket$ProductionKShortTon ~ RealPrices$RealPriceMBTU)
+summary(FirstRegression)
+plot(FirstRegression)
+
+
+```{r}
+ElastForm<- lm(log(RealPrices$Year) ~ log(RealPrices$RealPriceMBTU), data= RealPrices)
+summary(ElastForm)
+plot(ElastForm)
+```
+## Percent Form
+```{r}
+PercentForm <- lm(Year ~ log(RealPriceMBTU), data=RealPrices)
+summary(PercentForm)
+plot(PercentForm)
+```
+## Regression Real Prices and Production
+```{r}
+SecondRegression<- lm(CoalMarket$ProductionKShortTon ~ RealPrices$RealPriceMBTU)
+summary(SecondRegression)
+plot(SecondRegression)

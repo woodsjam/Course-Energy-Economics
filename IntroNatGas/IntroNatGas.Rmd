@@ -28,10 +28,10 @@ knitr::opts_chunk$set(echo = FALSE)
     + Picture pipes ranging from a foot to three+ feet for trunk lines.
     + Compressor stations every 50-100 miles, ~1,500 total
     + 200 psi to 1,500 depending
-+ They are privatly owned https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/MajorInterstatesTable.html
++ They are privately owned https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/MajorInterstatesTable.html
     + Open access, posted prices, is a thing.
-    + For intrastate, withing, state PUC regulate
-    + For interstate, FERC regulates (You can find current Tarrifs at http://etariff.ferc.gov/TariffList.aspx)
+    + For intrastate, within, state PUC regulate
+    + For interstate, FERC regulates (You can find current Tariffs at http://etariff.ferc.gov/TariffList.aspx)
     
 ## Compressors
 
@@ -49,12 +49,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](http://www.energyinfrastructure.org/~/media/energyinfrastructure/images/ng-storage/updated-2-18/typeofngstoragegraphic-218.png?la=en)
 
+## Storage is very seasonal
+
+There is a weekly report on storage by EIA http://www.eia.gov/dnav/ng/hist/nw2_epg0_swo_r48_bcfw.htm
+
++ Note the seasonality
++ Note the factor of 2+ changes over the term
+
+
 ## Hubs, where transactions are made
 ![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/MarketCenterHubsMap.gif)
 
 ## Part of Henry Hub LA
 
-![](http://interfaxenergy.com/analytics/uploads/articles/1443533671.jpg)
+![](http://www.2b1stconsulting.com/wp-content/uploads/2012/05/Henry-Hub-Picture.jpg)
 
 ## Getting to Prices
 + You will see wellhead prices, but
@@ -63,14 +71,79 @@ knitr::opts_chunk$set(echo = FALSE)
     + There are fairly firm relationships between other hubs and HH except when there is congestion.
     + Changes in the usual difference are usually called basis blowout. Term is not specific to energy.
 
++ Intercontinental Exchange for Gas Itself
+    + https://www.theice.com/products/OTC/Physical-Energy/Natural-Gas
++ FERC for transportation tariffs (Regulated)
+    + http://etariff.ferc.gov/TariffList.aspx
+    + Some are fixed and some have a market rate component.
+    
+It is hard to talk about gas separate from transportation.
+    
+## Intro Deregulation in Natural Gas    
+
++ Transmission companies used to own the gas. 
+    + Buy on one end
+    + Sell on the other
++ Natural Gas Policy Act of 1978 started the process ... but didn't work well
++ FERC 236 1985 simplified product definitions
++ FERC 636 in 1992 was were it really started.
+
+## Key Points about Deregulation in General
+
++ The point is not to keep hands off and let the markets develop into whatever form they want.
+    + There is a balance between minimizing transactions cost, which your book focuses on, and efficiency.
+    + Markets will tend to reduce transactions cost, merging etc, but that does not make for efficient allocation.
++ The idea is to create market rules that balance allocative efficiency and transaction cost minimization.
+    + Focus on all transactions being visible in some way. (Competition requires a good information environment)
+    + Focus on reducing market power (Why pipelines can't own the gas in them any more.)
+    + Open access (Law of one price)
+    + Put a price on everything
+        + Storage
+        + Timing and reliability of transport access
+        + Unbundling of prices.
+        
+        
+        
+## Transactions Cost Economics
+
+Goes back to Coase 1937 (Nobel).  Williamson (Nobel also). Elinor Ostrom (Nobel too).
+
+This just in Hart and Holstrom (2016 Nobel)
+
+Transactions are not cost free:
+
+  + Search and information cost (Coordination)
+  + Bargaining (Defining what you want)
+  + Enforcement (Getting people to do what they said)
+  + Strategic behavior (Hold Up Problem) Transaction specific investments
+
+Minimizing Transaction Cost often means vertically integrating:
+
+  + Merge with your suppliers or with who you supply.
+  + Working with only one internal supplier may minimize current costs but may not provide incentives to reduce further.
+  + Larger firms often mean more market power in terminal market.
+  
+  
+## Intent of regulation is to get closer to perfect competition
+
+  + Information rich
+  + Minimized market power
+  + Information is contained in prices
+  + There are a lot of prices
+  + Complex trading floor operations to control cost and risk.
+
 ## Question 1
+
+Give a quick overview of the arguments in this paper.
+
+
+Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. http://www.sciencedirect.com/science/article/pii/S104061901630121X
+
 
 ## Question 2
 
-## Question 3
+Give a quick overview of the arguments in this paper.
 
-## Question 4
- 
-## Question 5
-    
-## Questions for Groups
+
+Joskow, Paul L.. 2013. "Natural Gas: From Shortages to Abundance in the United States." American Economic Review, 103(3): 338-43. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.338
+
