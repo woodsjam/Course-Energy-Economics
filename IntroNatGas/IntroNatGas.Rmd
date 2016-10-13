@@ -62,3 +62,15 @@ knitr::opts_chunk$set(echo = FALSE)
     + Henry Hub in LA is the most common reference hub for prices
     + There are fairly firm relationships between other hubs and HH except when there is congestion.
     + Changes in the usual difference are usually called basis blowout. Term is not specific to energy.
+
+## Question 1
+
+## Question 2
+
+## Question 3
+
+## Question 4
+ 
+## Question 5
+    
+## Questions for Groups
