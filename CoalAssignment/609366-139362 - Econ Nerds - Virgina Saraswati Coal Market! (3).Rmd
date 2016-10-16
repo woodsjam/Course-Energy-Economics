@@ -1,0 +1,169 @@
+---
+title: "Coal"
+date: "October 9, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Grab US Coal Production data which is measured in thousand short tons.
+
+```{r}
+
+Coal <- read.csv("https://www.eia.gov/totalenergy/data/browser/csv.cfm?tbl=T06.01")
+
+summary(Coal)
+
+```
+
+Load the dplyr package.
+
+```{r}
+library(dplyr)
+
+```
+
+Select only the Coal Production Figures and save it as CoalProduction.  There is a cheat sheet for dplyr built into R.  Look under the help menu.
+
+```{r}
+CoalProduction <- Coal %>% filter(MSN == "CLPRPUS") 
+
+```
+
+Grab all of the annual observations with month equal to 13, remove unnecessary columns and rename the remaining columns as RawYear and ProductionKShortTon.
+
+```{r}
+library(stringr)
+
+CoalProduction <- CoalProduction %>% filter(str_sub(as.character(YYYYMM),5 ) == "13")
+
+CoalProduction <- CoalProduction %>% select(YYYYMM, Value)
+
+names(CoalProduction) <- c("RawYear", "ProductionKShortTon")
+
+summary(CoalProduction)
+```
+
+
+The ProductionKShortTon variable shows a count rather than a numerical summary which is considered a factor rather than number by R. Convert the factor, which is an integer, to the real value as a character and then convert that to numeric.
+
+
+```{r}
+CoalProduction$ProductionKShortTon <- as.numeric(as.character(CoalProduction$ProductionKShortTon))
+
+#$ = access column
+#  <-    assignment operator
+#as.numeric (as.character(CoalProduction$ProductionKShortTon)) =  turn into number if possible
+
+```
+
+Create a column for the year and make it a numeric value.
+
+```{r}
+
+CoalProduction <- CoalProduction  %>%mutate(Year = as.numeric(str_sub(as.character(RawYear),0,4 )))
+
+
+summary(CoalProduction)
+``` 
+
+Install the Quandl library and grab US Price data for coal from 1949-2005. 
+
+```{r}
+library(Quandl)
+
+Prices <- Quandl("EPI/152")
+
+summary(Prices)
+
+```
+
+
+Convert the information in the Year column of the Prices data frame to a numeric value and simplify the names of the columns.
+
+
+```{r}
+Prices$Year <- as.numeric(str_sub(Prices$Year,0,4))
+
+#showing how to merge two dataframes . takes the column prices to the forth digit and taking the years
+
+names(Prices) <- c("Year", "PriceShortTon")
+
+```
+
+Merge the data frames Prices and CoalProduction into a new data frame called CoalMarket by the colums named Year.
+
+The quantity of US coal production is reported in thousand short ton whereas the prices are reported in US dollar (base year 2000) per short ton. 
+
+```{r}
+summary(CoalProduction)
+
+summary(Prices)
+
+CoalMarket <- inner_join(Prices, CoalProduction, by ="Year")
+
+summary(CoalMarket)
+
+```
+
+
+Create new column called ProductionShortTon. 
+
+Convert the coal production quantity, which is reported in thousand short tons, into short tons by multiplying it with 1000 and assigning it to the new column ProductionShortTon. 
+
+Plot ProductionShortTon to Year, PriceShortTon to Year, and Prices to ProductionShortTon to observe trends or patterns to the data.
+
+
+```{r}
+
+
+CoalMarket <- CoalMarket  %>%mutate(ProductionShortTon = ProductionKShortTon * 1000)
+
+plot(ProductionShortTon~Year, data = CoalMarket)
+
+plot(PriceShortTon~Year, data = CoalMarket)
+
+plot(PriceShortTon~ProductionShortTon, data = CoalMarket)
+
+```
+
+There is a sudden spike in coal prices in 1974.
+
+Split data to before and after 1973 using a dummy variable called After73 
+
+```{r}
+
+CoalMarket$After73 <- FALSE
+
+CoalMarket$After73[CoalMarket$Year > 1973] <- TRUE
+
+
+```
+
+
+Based on the scatter plot of Price vs Quantity, we notice that there is a clearer downward sloping trend for the data after 1973. Thus, in this model, we assume that we have a demand curve. We can estimate the inverse demand by considering quantity (ProductionShortTon) as a function of Price (PriceShortTon) and they are linearly related. 
+
+Run a linear regression on data for after 1973. 
+
+```{r}
+Regression <- lm(ProductionShortTon ~ PriceShortTon + After73, data = CoalMarket)
+
+summary(Regression)
+
+```
+
+The R squared value indicates how well the data fits the model. The closer it is to 1, the better the data fits.
+
+Find elasticity through regression by using the log scale. The coefficient inform us of the elasticity of Coal demand. 
+
+For each dollar increase in coal price, the demand for coal increases by the coefficient value (in short tons).
+
+
+```{r}
+ElastForm <- lm(log(ProductionShortTon) ~ log(PriceShortTon) + After73, data=CoalMarket)
+
+summary(ElastForm)
+
+```
