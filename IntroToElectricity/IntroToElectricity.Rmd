@@ -9,7 +9,8 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## What Make Electricity Interesting
+
+## What Makes Electricity Interesting
 
 + We somehow start with a fuel (Counting wind, geothermal and sunlight in this).
 + Transport it from where we found it to a generating facility.
@@ -20,11 +21,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This is a logistical miracle.
 
+
 ## Basic Units
 
-+  $Watts = Amps Volts$ first thing everyone learns. 
++  $Watts = Amps Volts$ first thing everyone learns.
     + Pro tip on units, if it is someones name, capitalize it.
-    + Volt is analogous to height.  
+    + Volt is analogous to height.
     + Amp is analogous to a weight.
     + Watt is what it happens when that weight is dropped from that height.
     + DC is easy; AC is "complex"
@@ -33,15 +35,15 @@ This is a logistical miracle.
     + Reactive power, measured in volt-amps (var),"r" tells you it is reactive, is what pushes the electricity around.
     + Apparent Power, is in volt-amps too (VA) is when you add the two together in a vector sense.
     + Power Factor is the Real(W)/Apparant(VA), the sign is interesting because assumes induction.
-    
+
 ## What?
 
-Caveat IANAE and I will do thing like call current amps and the like. Also, this is the simple, single phase, view with lots of simplifications. Reality is for engineers. 
+Caveat IANAE and I will do thing like call current amps and the like. Also, this is the simple, single phase, view with lots of simplifications. Reality is for engineers.
 
 + The alternating part of AC is what causes the complication.
     + You can talk about instantaneous power but
     + Tend to talk about average power.
-    
+
 + With a resistive load, think light bulb, amps and volts are in sync
 + Inductors and Capacitors throw amps and volts out of sync
     + Capacitors store energy in electric fields. Think a very bursty battery.
@@ -49,11 +51,12 @@ Caveat IANAE and I will do thing like call current amps and the like. Also, this
     + Inductors store energy in magnetic fields. Think about an electromagnet in a motor.
         + Amps peak _after_ volts
 
--------------------
+## Picture for this
 
 ![](http://images.slideplayer.com/17/5297074/slides/slide_27.jpg)
 
 source: http://slideplayer.com/slide/5297074/
+
 
 ## Power Factor
 
@@ -79,6 +82,8 @@ source: http://slideplayer.com/slide/5297074/
 
 + 100 W light bulb uses 100 Wh = 1/10 kWh per hour
 
++ Get used to flipping between 1,000,000,000 W =  1,000,000 kW = 1,000 MW = 1 GW
+
 ## Lets Generate Some Electricity
 
 + Turbine -- spin something in a magnetic field to induce a current.
@@ -92,21 +97,22 @@ source: http://slideplayer.com/slide/5297074/
     + Water, falling water hits a turbine and spins it
     + Wind, spin a turbine
     + etc.
-    
+
 + Or don't spin a turbine and go for photovoltaic, PV.
 
 ## Characteristics
 
-+ Nameplate, fully loaded under ideal conditions (kW)
-+ Ramp rate, how fast power (kW) can change kW/min
++ Nameplate, fully loaded under ideal conditions (MW)
++ Ramp rate, how fast power (MW) can change MW/min
     + Not always constant, can differ by capacity factor (fraction of nameplate)
     + Not always symetric, up different from down.
     + Used to follow the load.
 + Heat rate, BTU in/ BTU out, only used for generation that uses a fuel.
     + 1 is impossible but 1 kW = 3412 BTU.
     + Recent average from EIA, https://www.eia.gov/electricity/annual/html/epa_08_01.html
-    
+
 ## Coal from the outside
+
 ![](http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg)
 Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg
 
@@ -120,15 +126,16 @@ Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e143205
     + NOx with ammonia common but plenty of others
     + Recover fly ash and sell it, great for concrete.
     + SOx, Mercury and other.  BTW Radiation
-    
+
 ## Nuclear
 
 Radiation to heat water and then ...similar to coal.  Just a reaction chamber
+
 ![](http://www.nuclear-power.net/wp-content/uploads/2014/11/inside_core.jpg?11abca)
 
 ## Local Reactor Columbia Generating Station
 
-+ http://www.nuclear-power.net/wp-content/uploads/2014/11/inside_core.jpg?11abca
+
 + 1,170 MW usually runs as load following.  It reacts fast enough.
     + France is ~70% nuclear and they load follow.
 + Most nuclear is run as base load, i.e., all the time since low variable cost and high fixed cost.
@@ -138,11 +145,33 @@ Radiation to heat water and then ...similar to coal.  Just a reaction chamber
 
 + So what to do with spent fuel.
 + They probably produce less radiation than coal
-+ Can produce cheap power.  More on this later.
++ Can produce cheap, in the marginal cost sense, power.  More on this later.
 
 ## Natural Gas Conventional and Combined Cycle
 
++ Combined cycle means
+    + Taking mored than one pass at extracting energy.
+    + Spin the turbines first.
+    + Take the heat and run a steam turbine.
+    + Take the remaining heat and use a different working fluid (with different phase change properties) to extract more.
+
++ CCNG
+    + Plants are more expensive
+    + Have higher heat rates
++ Conventional
+    + Cheap
+    + Commonly run as peaking units.
+
 ## Biomass
+
++ Tend to be combined heat and power. Another way of using waste heat.
+    + Cogeneration like this is common.
+    + We have steam and chill water systems on campus 
++ While renewable, it is not, in general, clean
+    + Particulates
+    + Heavy metal concentration
+    + etc.
++ All this is improveing.
 
 ## Biomas One in Eugene. 30 MW and keeps catching on fire.
 
@@ -153,11 +182,25 @@ source: http://www.woodbioenergymagazine.com/magazine/2009/summer/article-biomas
 
 ## Geothermal
 
++ Drill a hole down to where the temperature is high enough.
+    + If it is dry, add water to make steam.
+    + If wet, get steam
+    + If temp is not high enough, use a few working fluids to generate electricity.
+
++ Run through a turbine.
+
 ## Neal Hot Spring in Malheur. 30 MW
 
 ![](http://geo-energy.org/images/plants/Aidlin.jpg)
 
 ## Diesel and other Fuel Oils
+
++ You know the drill ...
++ Less than 1\% in the US for electricity generation.
+    + Still common heating fuel.
+    + Backup fuel for NG generation
+    + May be used in small distributed generation
++ More common in less developed countries
 
 ## Solar Thermal
 
@@ -169,17 +212,82 @@ source: http://www.woodbioenergymagazine.com/magazine/2009/summer/article-biomas
 
 + Fluids:
     + Oil
-    + Salt 
+    + Salt
     + Water steam
++ Low and mid temperature are similar to roof top residential that you have seen.
 
 ## Hydro
 
+So, you spin a turbine
+
+![](http://www.eia.gov/energyexplained/images/hydro%20copy.png)
+
+
+## Hydro can be complex
+
++ Many constraints
+    + Intra and interseason storage requirements
+    + Temperature and turbidity constraints
+    + Treaties and contracts
+    + Minimum and maximum flow constraints
+    + Dredging
+    + Water quality
+    
+
++ Can you go all hydro?
+    + US ~6\% 
+    + Norway ~95\%
+
+## Everything Comes with a cost
+
+![](https://d3n8a8pro7vhmx.cloudfront.net/hetchhetchy/pages/33/attachments/original/1415484942/taber_w_caption.png?1415484942)
+
 ## Wind
 
++ You find a good wind resource NREL Class 3 and up (http://www.nrel.gov/gis/wind_detail.html)
++ Put up a suitably rated 1.5MW windmill. 8MW is the largest I've hear about.
++ Maintain them, upgrade them and if need be demo them.
+
++ What people complain about
+    + Noise -- Can't hear after a mile or two
+    + Raptor and bat kills -- Less now with larger slower moving designs.
+    + Ugly -- In in the eye of the beholder.
+
 ## PV
+
++ Does not spin a turbine.
++ PV effect generates DC electricity which is then converted to AC though an inverter
 
 ## Levelized Cost of Electricity (LCOE)
 
 + https://www.eia.gov/forecasts/archive/aeo15/pdf/electricity_generation_2015.pdf Table 1
     + CC is Carbon Capture.
     + CCS is Carbon Capture and Storage
+    
+## Economics and History
+
++ Remember that material on transaction cost economics?
+    + Induces firms to generate, transport (Transmission) and distribute electricity.
+    + Very strong pressure to vertically integrate.
++ Large economies of scale produce natural monopolies
+    + Declining marginal and average cost of production.
+    + Potential duplicative capital expenditures reinforce this.
+        + Imagine three power companies with separate poles and connections to your house.
+        + Imagine all three of them with transmission lines from UT where they generate power.
+    + We tend to regulate these in some way, limiting profit.
+    
+    
+
+
+
+## Question 1
+
+Start with a natural monopoly, i.e., when average cost and MC are ever decreasing.  Show DWL, CS and PS when this firm profit maximizes.
+
+## Question 2
+
+Again start with a natural monopoly.  Show DWl, CS and PS when this firm is subject to AC price regulation.
+
+## Question 3
+
+Take a look at figure 1 in the original paper on the Averch - Johnson effect ( http://stats.lib.pdx.edu/proxy.php?url=https://www.jstor.org/stable/1812181?seq=1#page_scan_tab_contents).  Ignore most of the math unless you are into it.  Explain what is the A-J effect and why it happens with the simple isoquant-iso cost diagram.
