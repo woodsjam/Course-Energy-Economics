@@ -70,6 +70,7 @@ There is a weekly report on storage by EIA http://www.eia.gov/dnav/ng/hist/nw2_e
     + Henry Hub in LA is the most common reference hub for prices
     + There are fairly firm relationships between other hubs and HH except when there is congestion.
     + Changes in the usual difference are usually called basis blowout. Term is not specific to energy.
+
 + Intercontinental Exchange for Gas Itself
     + https://www.theice.com/products/OTC/Physical-Energy/Natural-Gas
 + FERC for transportation tariffs (Regulated)
