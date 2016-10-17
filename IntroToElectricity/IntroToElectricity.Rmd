@@ -34,7 +34,7 @@ This is a logistical miracle.
     + Real Power, measured in W, it is what does the work.
     + Reactive power, measured in volt-amps (var),"r" tells you it is reactive, is what pushes the electricity around.
     + Apparent Power, is in volt-amps too (VA) is when you add the two together in a vector sense.
-    + Power Factor is the Real(W)/Apparant(VA), the sign is interesting because assumes induction.
+    + Power Factor is the Real(W)/Apparent(VA), the sign is interesting because assumes induction.
 
 ## What?
 
@@ -46,7 +46,7 @@ Caveat IANAE and I will do thing like call current amps and the like. Also, this
 
 + With a resistive load, think light bulb, amps and volts are in sync
 + Inductors and Capacitors throw amps and volts out of sync
-    + Capacitors store energy in electric fields. Think a very bursty battery.
+    + Capacitors store energy in electric fields. Think a very burst battery.
         + Amps peak _before_ volts
     + Inductors store energy in magnetic fields. Think about an electromagnet in a motor.
         + Amps peak _after_ volts
@@ -63,7 +63,7 @@ source: http://slideplayer.com/slide/5297074/
 + Measure it
     + Henrys are the unit for inductance/capacitance and engineers use that in calculations
     + There are also power factor meters
-    + You can also check out the difference between amps and volt on ocilliscope.
+    + You can also check out the difference between amps and volt on oscilloscope.
 
 + Low numbers mean the utility needs to generate more power than customer uses.
     + Can happen with low load, like a motor barely moving, but you still need the electromagnet
@@ -71,13 +71,13 @@ source: http://slideplayer.com/slide/5297074/
 
 ## Why do we care about reactive power and power factors?
 
-+ Engineers have to design systems to accomodate not just the real, but real plus reactive, i.e., apparant power.
++ Engineers have to design systems to accommodate not just the real, but real plus reactive, i.e., apparent power.
 + Reactive power has to be generated.
 + Not residential tariffs, but commercial and industrial tariffs charge for reactive power or have penalties for low power factors.
 
 ## kW vs kWh
 
-+ kW is instantanious and called power
++ kW is instantaneous and called power
 + kWh is the integral over time and called energy.
 
 + 100 W light bulb uses 100 Wh = 1/10 kWh per hour
@@ -90,7 +90,7 @@ source: http://slideplayer.com/slide/5297074/
 + Lots of ways to spin a turbine
     + Coal, grind it up, burn it, make steam, use steam to spin the turbine.
     + Nuclear, use the heat to make steam, use steam to spin a turbine.
-    + Biomas, burn stuff to ...
+    + Biomass, burn stuff to ...
     + Gas, burn it to spin a turbine ...
     + Fuel Oil or Diesel
     + Solar thermal, use the sun to make steam ...
@@ -98,14 +98,14 @@ source: http://slideplayer.com/slide/5297074/
     + Wind, spin a turbine
     + etc.
 
-+ Or don't spin a turbine and go for photovoltaic, PV.
++ Or don't spin a turbine and go for photo-voltaic, PV.
 
 ## Characteristics
 
 + Nameplate, fully loaded under ideal conditions (MW)
 + Ramp rate, how fast power (MW) can change MW/min
     + Not always constant, can differ by capacity factor (fraction of nameplate)
-    + Not always symetric, up different from down.
+    + Not always symmetric, up different from down.
     + Used to follow the load.
 + Heat rate, BTU in/ BTU out, only used for generation that uses a fuel.
     + 1 is impossible but 1 kW = 3412 BTU.
@@ -118,7 +118,7 @@ Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e143205
 
 ## Coal on the inside
 
-+ Pulverize the coal, picture somethign that can do 20 Tons/hr
++ Pulverize the coal, picture something that can do 20 Tons/hr
 + Blow it into combustion chamber to burn
 + Steam turns turbine, etc. https://youtu.be/IdPTuwKEfmA
 
@@ -150,7 +150,7 @@ Radiation to heat water and then ...similar to coal.  Just a reaction chamber
 ## Natural Gas Conventional and Combined Cycle
 
 + Combined cycle means
-    + Taking mored than one pass at extracting energy.
+    + Taking more than one pass at extracting energy.
     + Spin the turbines first.
     + Take the heat and run a steam turbine.
     + Take the remaining heat and use a different working fluid (with different phase change properties) to extract more.
@@ -171,7 +171,7 @@ Radiation to heat water and then ...similar to coal.  Just a reaction chamber
     + Particulates
     + Heavy metal concentration
     + etc.
-+ All this is improveing.
++ All this is improving.
 
 ## Biomas One in Eugene. 30 MW and keeps catching on fire.
 
@@ -276,18 +276,122 @@ So, you spin a turbine
         + Imagine all three of them with transmission lines from UT where they generate power.
     + We tend to regulate these in some way, limiting profit.
     
++ Warnings: 
+    + Very simple view.  
+    + With more than one price there are an infinite number of solutions to this problem.
+    + Each parameter has a lot of uncertainty.
+    + ROR is used in more than just energy.
+
+## What Problems are there with Natural Monopolies
+
++ As with all firms  with monopoly power:
+    + Output is reduced from socially optimal, to increase prices.
+    + Dead weight loss from less than socially optimal production.
+    + Transfer of surplus from buyers to sellers (Which often shows as super normal profit).
+
++ What makes them special is:
+    + Socially optimal output, MC = D, implies negative economic profit.
     
 
+## The Goals of Regulation
+
++ Profits should be normal, same as else where in the market with the same risk.
++ Output should at socially optimal, MC = D, not private profit maximizing, MC = MR.
++ There should be incentives to produce at lowest cost within each time period.
++ There should be incentives to reduce costs from one time period to the next, through R&D, capital investments and technology improvements.
+
+## Rate of Return Regulation
+
+ROR requires normal economic profits but is often visualized in many different ways.
+
++ Setting P=AC
+    + In a one price context this sets AR=AC and gives zero economic profit.
+    + Increases output from MR=MC to AR=AC but not all the way to efficient MC=D.
+
++ You probably want diagrams for this.
+
+## Questions for Wednesday
+
+1. Start with a natural monopoly, i.e., when average cost and MC are ever decreasing.  Show DWL, CS and PS when this firm profit maximizes.
+
+2. Again start with a natural monopoly.  Show DWL, CS and PS when this firm is subject to AC price regulation.
+
+3. Take a look at figure 1 in the original paper on the Averch - Johnson effect ( http://stats.lib.pdx.edu/proxy.php?url=https://www.jstor.org/stable/1812181?seq=1#page_scan_tab_contents).  Ignore most of the math unless you are into it.  Explain what is the A-J effect and why it happens with the simple isoquant-iso cost diagram. Explaining why ray 2 is where it is and why is the hard part.
 
 
-## Question 1
+## Sounds simple but
 
-Start with a natural monopoly, i.e., when average cost and MC are ever decreasing.  Show DWL, CS and PS when this firm profit maximizes.
++ How do you know those costs?  They may not be known ahead of time.  They could be random.
++ There is more than one price for electricity and different prices for different customers.
++ Rate setting is a periodic judicial process most often using retrospective cost data but also using forecasts.
 
-## Question 2
+## "Revenue Requirement"
 
-Again start with a natural monopoly.  Show DWl, CS and PS when this firm is subject to AC price regulation.
+$$RR  = v(q) + r RB$$
 
-## Question 3
++ The revenue requirement (RR) must be satisfied by the pricing system.      + Why the simple versions with a single price is P = AC.
+    + No guidance on what to do when there is more than one price, except find a way to allocate costs to those prices.
 
-Take a look at figure 1 in the original paper on the Averch - Johnson effect ( http://stats.lib.pdx.edu/proxy.php?url=https://www.jstor.org/stable/1812181?seq=1#page_scan_tab_contents).  Ignore most of the math unless you are into it.  Explain what is the A-J effect and why it happens with the simple isoquant-iso cost diagram.
++ Most commonly the RR:
+    + Passes variable costs, v(q), like fuel and wages though to be included in prices.
+    + Has a target return on capital, r, which is known to attract capital and compensate investors for risks.
+    + That rate of return is applied to the Rate Base, RB, which is analogous to capital.
+
+
+## Wait but ...
+
++ If I can pass all variable costs on to the customer ...
+    + Regulatory Accounting Standards just like GAAP and GASB.
+    + Regulators scrutinize and decide if an expenditure is allowable expenditure, in the rate base, or shareholder responsibility.
+    
++ Flip side, if I make investments or go through the effort to reduce costs, the savings don't result in more profit
+    + You only see the cost and risk.
+    + The customer sees only the benefits.
+
++ Not bad if there are long periods between rate changes.
+    + If you reduce costs you see the benefits between rate changes.
+    + If your costs are high, you eat the costs between rate changes.
+    
+Terrible cost savings incentives.
+    
+## How else can I increase profits?
+
++ Add more things to the rate base.  
++ This is the A-J effect.
+    + Firms prefer to deliver services by investing in capital.
+    + The rate of return, r, does not increase but if you increase RB your revenue increases and your profit, i.e., net income increases.
+    + Why Demand Side Management had an initial battle:
+        + Rate payer advocates wanted it to pass through as expense.
+        + Shareholders wanted it counted just like a power plant, in the rate base.
++ What about r?
+    + r is actually more than one number.
+    + Bond rate necessary to attract lending.
+    + Return on common equity to attract shareholders
+    + There could be others.
+
+## Yardstick Regulation
+
+Yardstick competition (Shliefer 1985).  Don't use the firm's own costs, use the costs of an identical firm elsewhere.
+
++ Creates cost competition where none previously existed.
+    + If you reduce costs and your yardstick matches do not, you get higher profits.
+    + If you reduce your cost of capital and your yardstick matches do not, you get higher profits.
+    
++ The usual worries
+    + Benefits to colluding
+    + Odd scale effects and competitor shopping
+    + Mergers
+        + Merging with your yardstick competitor may be a very good thing.
+        + Mergers or reverse may be motivated the yardstick competitors.
+
+## CPI-X or Price Cap    
+
+CPI-X.  Prices increase periodically year by CPI less some amount X.  X is chosen as an average rate of cost savings.
+
++ Incentives to reduce costs
+    + If you reduce costs faster than X, you get to keep it.
+    + No reference to another firm.
+
++ But ...
+    + Where did you get X?
+    + How do you know costs will on average go down?
