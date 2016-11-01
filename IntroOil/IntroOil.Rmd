@@ -1,0 +1,75 @@
+---
+title: "Introduction to Oil"
+author: "James Woods"
+date: "November 1, 2016"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Oil is for Cars
+
++ Keep in mind that oil is primarily a transportation fuel.
+    + Yes, some diesel and even crude is used for electricity production (5%), but
+    + mostly we make gasoline and other commodities out of it.
+
+
+## Oil is not a uniform commodity
+
++ It varies specific gravity
+    + Lighter oils are more valuable because it is cheaper to crack into the products you want
++ Sulfer content
+    + Low sulfer is easier to crack
++ Location
+    + Tranportation is not cheap
+    + Piplines, train, tanker all have tradoffs with cost and safety and reliability.
+    + Sometimes law and conflict can disrupt tranportation
+    
+    
+## Sulfer v Density of World Oil
+
+![](https://www.eia.gov/todayinenergy/images/2012.07.16/CrudeMatrix.png)
+
+## Prices of oil not Price of oil
+
++ Many commonly cited prices
+    + Brent (North Sea) and 
+    + West Texas Intermediate are common for both US and international.
++ WTI less so 
+    + Shale oil with limited transportation means WTI tends to be lower by a few dollars.
+    + Will likely change
+        + More pipelines
+        + Repeal of _mostly_ prohibited export of crude.
+
++ There are smaller price points by city and region
++ Many are specified as blends of typical out put of various regions.
+
+## The Markets for oil are complex and odd
+
++ The oddness comes from it being a key commodity
+    + No oil, no cars
+    
++ US uses about 15 MMbd (Million Barrels a day)
+    + Half domestic and half imported
+    + Imports are mostly Canada, Saudi Arabia and Mexico  
+    
++ We hold massive inventories of oil and gas
+    + https://www.eia.gov/petroleum/supply/weekly/pdf/table1.pdf
+        + Domestic production 8.504 MMbd
+        + Imports 6.601 MMbd
+    + Inventory
+        + Crude 1,162.2 MMb, about 77 days of inventory
+        + Gasoline 226 MMb at 9 MMbd or 25 days of inventory
+
+## Textbook focues on Monopoloy models and Anti-trust
+  
+  + The anti-trust is great and historically relevent
+      + Oil was one of the drivers of the anti-trust movement
+      + It is historcially relevent
+  + The monopoly style analysis is also historically relevent
+      + When there were a few major gasoline marketers, yes
+      + When ther were a few international cartells, yes
+  + The political models of OPEC are also good for a few limited time periods
+  
