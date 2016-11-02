@@ -115,6 +115,10 @@ knitr::opts_chunk$set(echo = FALSE)
     + One version is in Knittel, Christopher R. and Robert S. Pindyck. 2016. "The Simple Economics of Commodity Price Speculation." American Economic Journal: Macroeconomics, 8(2): 85-110. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/mac.20140033
     + It is messy with some hand waving but easier than learning about phase diagrams.
     
+## Phase Diagram 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ramseypic.svg/300px-Ramseypic.svg.png)
+    
 ## Expectation Formation
 
 + Rational Expectations: Everyone in the model has a model and on average their models make correct predictions
