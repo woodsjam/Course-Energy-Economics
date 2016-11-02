@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + It varies specific gravity
     + Lighter oils are more valuable because it is cheaper to crack into the products you want
 + Sulfer content
-    + Low sulfer is easier to crack
+    + Low sulfer is cheaper to crack
 + Location
     + Tranportation is not cheap
     + Piplines, train, tanker all have tradoffs with cost and safety and reliability.
@@ -32,7 +32,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://www.eia.gov/todayinenergy/images/2012.07.16/CrudeMatrix.png)
 
-## Prices of oil not Price of oil
+
+
+## _Prices_ of oil not _Price_ of oil
 
 + Many commonly cited prices
     + Brent (North Sea) and 
@@ -45,6 +47,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 + There are smaller price points by city and region
 + Many are specified as blends of typical out put of various regions.
+
+
+## Location
+
++ Refineries are tuned to a specific kind of oil
+    + If density or sulpher changes too much they have to remodel or variable suffer a cost hit.
++ Oil in new areas needs transport
+        + Truck
+        + Rail
+        + Pipeline
+        + Boat
++ Safety
+    + Death, Property Truck>Rail>Pipeline>Boat
+    + Spilled Truck>Pipeline>Rail>Boat
+    + Environment Boat>Pipeline>Truck>Rail 
+
 
 ## The Markets for oil are complex and odd
 
