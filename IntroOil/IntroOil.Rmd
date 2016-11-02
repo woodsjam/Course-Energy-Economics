@@ -91,3 +91,19 @@ knitr::opts_chunk$set(echo = FALSE)
       + When ther were a few international cartells, yes
   + The political models of OPEC are also good for a few limited time periods
   
+## The Paper Focuses on some inventory aguments
+
++ Set of tools for Stock and Flow Supply and Demand Models.
++ Marshallian Supply and Demand are flow concepts, consumption over time.
++ Not right for stock demands, which is why macro has a lot of odd models to deal with money
+       + Cash in advance
+       + Debt in overlapping generations
++ This is an approximation of a way of interpreting a Hamiltonian system.
+
+## The Events
+
+## Event 1
+
+## Event 2
+
+## 
