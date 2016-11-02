@@ -55,11 +55,10 @@ knitr::opts_chunk$set(echo = FALSE)
 + Refineries are tuned to a specific kind of oil
     + If density or sulfur changes too much they have to remodel or variable suffer a cost hit.
 + Oil in new areas needs transport
-
-        + Truck
-        + Rail
-        + Pipeline
-        + Boat
+    + Truck
+    + Rail
+    + Pipeline
+    + Boat
 + Safety
     + (Death, Property) Truck > Rail > Pipeline > Boat
     + (Spilled) Truck > Pipeline > Rail > Boat
@@ -135,6 +134,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + Use past and current values of all variables to explain current values of all variables.
 
 Use:
+
 + Plug and chug forecasts (seen in paper fig 3)
 + Impulse response.  Start with a quiet system and flick one variable at a time and see how the flick propagates.
 
@@ -251,3 +251,8 @@ Use:
     + $11 of $49 decline was commodity decline
     + $16 because of shale boom
     + $9 Storage (expectation) shock.
+    
+## We Will Talk about the Monopoly Power Perspectives on Monday
+
++ Read Dahl Ch 7 
++ Vote on a topic to work on on top of the papers and presentations.
