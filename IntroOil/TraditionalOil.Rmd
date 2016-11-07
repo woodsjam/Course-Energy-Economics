@@ -1,0 +1,142 @@
+---
+title: "Traditional Oil"
+author: "James Woods"
+date: "November 7, 2016"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Next Topic
+
++ Financial Markets. Black-Scholes and the odd products that are available with electricity and oil.
++ Intro to Externalities and Public Goods.  Carbon taxes, cap and trade and renewable portfolio standards.
++ Natural Gas Outside the US.  Reading in syllabus is minimal but will expand.
++ Price Controls and Subsidies (Not Carbon Taxes and Implicit Subsidies).  Reading in syllabus is minimal but will expand.
++ Market Monitoring.  EIA reports and the possibility of reading through the Enron scandal in the Fortnightly.
++ Hotelling's Rule and Dynamic Extraction.
++ Supply and Cost Curves.  Book has a lot of present value calculations and will give some of the how to on creating the levelized cost estimates.
++ Energy Demand.  My favorite topic.  This includes energy efficiency.
++ Distributed Generation.  Lots of dockets in NY about this as well as the reactions of Hawaii to massive rooftop solar.
+
+## Last Week
+
++ We looked at the changes in oil prices from the point of view of a more competitive model with expectations and inventory demand driving changes.
++ Has an Occam's razor advantage over the monopoly models commonly offered.
++ But there is still room for a monopoly power explanation.
+
+## Monopoly in the short run
+
++ $P_m>P_{pc}$
++ $Q_m<Q_{pc}$
++ Dead weight loss and increase in producer surplus.
+
+## Monopoly in the long run
+
++ k adjusts so that where $MR = LRAC$
++ $MC=MR=SRAC$
++ Costs are still minimized
+
+## Monopoly Can Be Price Regulated
+
++ Requires a ceiling below $P_m$ and greater than or equal to $P_{pc}$
++ Results in a welfare improvement
++ Part of the logic behind CPI-X regulation
++ Complicated kink in MR develops
++ Kills monopoly if $P<AC$
++ Cool property that as $P_{c}$ decreases, $Q^*$ increases. Opposite of perfect competition
+
+## Tax A Monopolist?
+
++ Books says you can't tax a monopolist to be more efficient.
+    + Has not stopped people from trying, note 50% tax rate in 1950s.
+    + The tax is less about efficiency and more about equity and government revenue requirements.
++ You can improve welfare with a subsidy
+    + Falls on the equity criteria
+    
+## Oil Independence Argument
+
+I have oil and but you have more oil and it is cheaper.
+
++ I become independent and use all my oil.  Who has power now?
++ I buy your oil and save mine.  Now who has power?
+
++ Look at the Hottelling Rule, extract so that the price increases at the rate of interest.
+    + Funny that this doesn't happen very often.
+    + Lots of assumptions.
+
+## Multi-plant monopoly
+
++ Two plants: One with high and one with low marginal costs.
++ Horizontal summation of individual MC results in joint MC.
+    + Book shows a kink.  Gets flatter as the higher cost plant starts to produce.
+    + More plants, more kinks.
++ Profit maximizing is as usual $MR=MC$.
++ Individual plant production
+    + Find $AR^*$ then 
+    + Find the Q such that MC of each firm equals $AR^*$
++ Note that profit maximizing production is allocated based on cost
+    + Not reserves
+    + Not population 
+    + Not revenue requirements
+    
+## Why This is A Problem for OPEC or any Cartel
+
++ Cooperation requires that each be at least as well off as they would be without participating.
+    + At some levels of demand, some members of cartel should not produce.
++ Many ways of splitting profits
+    + By production 
+    + By reserves
+    + By marginal costs
+    + Other
+
+
+## How to Break Splitting Profits
+
++ By production 
+    + Produce as much as you can and depend on the cartel to store or destroy.
+    + Ocean Spray approach.
++ By reserves
+    + Madly explore
+    + Hard to reach oil is as valuable as easy oil. Venezuela
++ By marginal costs
+    + Need a lump-sum transfer to non-producers to work.
+    
+In the end, cartels mix methods and take into account political and government revenue needs.
+
+## Wait?  Politics and Government Revenue?
+
++ Assumes a lot of government control over oil, which is true in many places.
++ Favorable prices can be used to build alliances
+    + Cuba and USSR
+    + Venezuela and the Caribbean Basin
++ Explicitly removes the objective of profit maximizing and changes to:
+    + Revenue maximization or
+    + Profit maximization subject to revenue constraint
+    
+## Connect Oil Revenue to Macroeconomics
+
++ Marginal Efficiency of Investment
+    + Macro concept.  Relationship between internal rate of return on investment and the scale of investment.
+    + Inverse relationship
+    + Optimal is where the interest rate, marginal cost, is equal to MEI, marginal benefit.
+    
++ Optimal governmental investment determined by MEI-r
+
++ Many combinations of P and Q satisfy
+    + If revenue requirement can not be achieved, firms revenue maximize, $MR=0$
+    + If revenue requirement can be achieved, firm may reduce output from from $MC$ splitting to allow others to have more revenue.
+        + Probably why Saudi Arabia is the "swing producer".
+        + Why privatized Aramco, owned by Saudi government since 1980, would make it very hard to collude.
+
+## Does the Monopoly Argument Add Anything?
+  
++ OPEC only seems to be able to collude when there are macro expansions.
++ Consistent with dynamic collusion arguments.
+    + Decide if colluding now and receiving monopoly rents is worth more than
+    + Not colluding and receiving more now but few monopoly rents in future.
+    + Collusion when future demand is expect high
+    + Collusion fails when future demand is expected low.
++ Dynamic component is missing in the traditional monopoly arguments.
++ Even then demand for commodities explains a lot.
