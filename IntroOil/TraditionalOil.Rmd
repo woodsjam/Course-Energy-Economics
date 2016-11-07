@@ -122,7 +122,7 @@ In the end, cartels mix methods and take into account political and government r
     + Inverse relationship
     + Optimal is where the interest rate, marginal cost, is equal to MEI, marginal benefit.
     
-+ Optimal governmental investment determined by MEI-r
++ Optimal governmental investment determined by MEI=r
 
 + Many combinations of P and Q satisfy
     + If revenue requirement can not be achieved, firms revenue maximize, $MR=0$
