@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + Has not stopped people from trying, note 50% tax rate in 1950s.
     + The tax is less about efficiency and more about equity and government revenue requirements.
 + You can improve welfare with a subsidy
-    + Falls on the equity criteria
+    + Fails on the equity criteria
     
 ## Oil Independence Argument
 
@@ -99,7 +99,7 @@ I have oil and but you have more oil and it is cheaper.
     + Ocean Spray approach.
 + By reserves
     + Madly explore
-    + Hard to reach oil is as valuable as easy oil. Venezuela
+    + Hard to reach oil is as valuable as easy oil. Venezuela, UK
 + By marginal costs
     + Need a lump-sum transfer to non-producers to work.
     
@@ -127,16 +127,64 @@ In the end, cartels mix methods and take into account political and government r
 + Many combinations of P and Q satisfy
     + If revenue requirement can not be achieved, firms revenue maximize, $MR=0$
     + If revenue requirement can be achieved, firm may reduce output from from $MC$ splitting to allow others to have more revenue.
-        + Probably why Saudi Arabia is the "swing producer".
-        + Why privatized Aramco, owned by Saudi government since 1980, would make it very hard to collude.
+    
+## How this Allows Saudi Arabia to be "Swing Producer"    
+    
++ Saudi Arabia has low extraction cost, <$20 bl.
+    + Under multiplant monopoly it would produce a lot.
+    + It is also a "low absorption" country
+    + Wide range of output levels meets the revenue requirement.
++ They can meet the revenue requirements with low or high output levels.
+    + They can increase output, like now, to reduce prices for strategic purposes
+    + They can reduce output to hit OPEC quotas.
+
 
 ## Does the Monopoly Argument Add Anything?
   
 + OPEC only seems to be able to collude when there are macro expansions.
+
 + Consistent with dynamic collusion arguments.
     + Decide if colluding now and receiving monopoly rents is worth more than
     + Not colluding and receiving more now but few monopoly rents in future.
     + Collusion when future demand is expect high
     + Collusion fails when future demand is expected low.
-+ Dynamic component is missing in the traditional monopoly arguments.
-+ Even then demand for commodities explains a lot.
+
+## Simplified Dynamic Collusion
+
++ Definitions
+    + $c =$ Collude, $\sim c =$Not Collude
+    + $D_H$ high demand and $D_L$ low demand.
+    + $\pi(c|D) < \pi(\sim c|D)$ If you break collusion now you gain. Both are lower when demand is low.
+    + $\beta E[V(c|D)] > \beta E[V(\sim c|D)]$ If you break collusion the expected discounted value of all future profits is smaller. Both are lower when demand is low.
+    
++ Four states of the world
+    + $D_{H,1}$ and $D_{H,2}$, Demand high now and High later
+    + $D_{H,1}$ and $D_{L,2}$, High now and How later
+    + $D_{L,1}$ and $D_{H,2}$, Low now and High later
+    + $D_{L,1}$ and $D_{L,2}$, Low now and Low later
+    
+## With a reasonable $\beta$, demand and cost functions.
+
++ Results with best stories
+
+    + $\pi(c|D_H) + \beta E[V(c|D_H)] > \pi(\sim c|D_H) + \beta E[V(\sim c|D_H)]$ If demand is high and will stay high, better off colluding.
+    
+    + $\pi(c|D_L) + \beta E[V(c|D_L)] < \pi(\sim c|D_L) + \beta E[V(\sim c|D_L)]$ If demand is low and will stay low, you better off not colluding.
+    
+    + $\pi(c|D_H) + \beta E[V(c|D_L)] < \pi(\sim c|D_H) + \beta E[V(\sim c|D_L)]$ If demand is high and will fall, better off not colluding.
+    
+    + $\pi(c|D_L) + \beta E[V(c|D_H)] > \pi(\sim c|D_L) + \beta E[V(\sim c|D_H)]$ If demand is Low and will increase, better off colluding.
+
++ Many alternative values
+    + Collusion tends to vanish if the future benefit of collusion, $\beta E[V(c|D)] - \beta E[V(\sim c|D)]$, is small.
+    + Collusion also vanishes if the current benefit of not colluding, $\pi(\sim c|D) - \pi(c|D)$, is large.
+
+## Apply to Oil Markets
+
++ Increase in commodity demand because of GDP growth makes it easier to collude.
++ Decreases in commodity demand because of recession collapses collusion.
++ When OPEC is large part of market, i.e., 1970s, then collusion is likely because the  future benefits  to collusion, $\beta E[V(c|D)] - \beta E[V(\sim c|D)]$, are larger.
+
++ The dynamic component is missing in the traditional monopoly arguments.
+    + Not being able to establish or keep to a target is seen as a political, rather than economic, problem
+    + Demand for commodities is a key and explains the periods when OPEC could increase prices.
