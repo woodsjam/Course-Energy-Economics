@@ -1,0 +1,33 @@
+---
+title: "Sample Meta Analysis"
+author: "James Woods"
+date: "11/19/2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Read in data
+```{r}
+Papers <- read.csv("https://docs.google.com/spreadsheets/d/1E835bqD22qPl85Ha8hae8L9j1jM-v6lgBY3Q5d3AboU/pub?gid=1144523609&single=true&output=csv")
+
+Papers$PerkWh <- as.numeric(Papers$PerkWh)
+Papers$MW <- as.numeric(Papers$MW)
+
+summary(Papers)
+
+
+```
+
+Simple meta analysis
+
+```{r}
+sampleMeta<-lm(PerkWh~InRPS+ Export+ Firm, data=Papers)
+
+summary(sampleMeta)
+
+```
+
+

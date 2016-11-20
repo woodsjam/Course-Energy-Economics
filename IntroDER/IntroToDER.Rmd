@@ -1,0 +1,84 @@
+---
+title: "Intro to DER"
+author: "James Woods"
+date: "11/20/2016"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## DER vs DG
+
++ DG = Distributed Generation
++ DER = DG + Storage
+
+May seem like semantics but small storage grew in potential since 2005
+
+##  What is in DER
+
++ Definitions vary but Small (< 49MW) generation seems to count with < 1MW most common.
+    + Plenty of renewable
+    + Small turbine
+    + Backup generators
+    + Battery banks.
++ Combined Heat and Power
+    + Steam Generation
+    + Chill Water
+    + District Energy
+    
+## Why Would I (Private) Build It?
+
++ Power Quality
+    + Equipment is sensitive to voltage drops or spikes
+    + Equipment is sensitive to frequency variation.
+    + Wave shape and harmonics
+    + High reactive power needs (Often avoids utility charge.)
+    
++ Reliability (Often combined with quality)
+    + High cost of interrupted power, e.g., hospital
+    + Two common measures 
+        + System Average Interruption Duration Index (SAIDI), average total time without power over a year.
+        + Customer Average Interruption Duration Index (CAIDI), average time without given your power is out.
+        + Many more relating to frequency and cost of lost service.
+    + You could have lower rates if you have an interruptible tariff.    
+
+
+## Why Would I (Private) Build It? (Cont)
+
++ Peak reduction
+    + If you have demand (kW) charges, your maximum use.
+    + If you have a coincident peak (kW) charge, you use at system peak.
+
++ Cogeneration Opportunity
+    + Already need Steam or Chill water
+    + Electricity generation is a bonus
+      
++ Reduction in volumetric (kWh) charges
+    + Net metering just a bit to shave off the high block charges
+    + Peak Pricing Tariff
+    + Real-time Prices.
+    + Nice subsidy.
+    + Actually, social cost, cheaper.
+    
++ The utility side is significantly more complicated.
+
+## Three simple ways of thinking about costs
+
++ The Make vs Buy trade-off (TC).
++ The Minimum Efficient Scale (AC), i.e., volume such that AC is at a minimum.
++ Investment Delay, a time value of money concept.
+
+With all cost estimates the key conceptual problem is to only look at incremental costs.
+
++ It is often unclear what those incremental costs are relative to.  
++ Cost does depend on your point of view.
+
+## Example Make vs Buy
+
+## Example MES
+
+## Example Investment Delay
+
+## How Did We Get to the Current G-T-D Arrangment 

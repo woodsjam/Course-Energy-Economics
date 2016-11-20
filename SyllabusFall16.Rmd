@@ -212,7 +212,8 @@ Each topic has some readings that both undergraduates and graduate students will
         + RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS), EIA. https://www.eia.gov/consumption/residential/index.cfm We will use this as an example of end use modeling as well as survey data collection and estimation.
         
     + Distributed Generation and Microgrids
-        
+        + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf
+        +
 
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
