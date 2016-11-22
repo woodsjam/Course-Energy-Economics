@@ -119,16 +119,17 @@ With all cost estimates the key conceptual problem is to only look at incrementa
     + If you have no special needs and need to pay full cost of fuel.
     + If you have 'Free' access to fuel, e.g., wood chips, AC of DG is lower.
     + If power quality or interuption is not what is desired, AC of utility power is higher.
+    + If you face a Peek, Time of Use or Demand Charge.
     + More complicated diagrams can be made but this works.
 
     
     
-## Utility Point of View (Make vs Buy Argument)
+## Utility Point of View 
 
 Please note that lots of power quality issues need to be solved on the D side, with capacitors and transformers. Power quality may actually get worse with new equipment and DG.
 
-+ Utility: Supply customer needs with T+G or with DG.
-+ Customer: Decide to take utility solution or provide with private DG.
++ Utility: Supply customer needs with T+G or with DG. Tradeoffs between the two in an isoquant/isocost sense.
++ Customer: Decide to take utility solution or provide with private DG. (Make vs Buy).
 
 ## Fig 3-4
 ![](Fig34.png)
