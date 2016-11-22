@@ -100,6 +100,10 @@ With all cost estimates the key conceptual problem is to only look at incrementa
     + Delay for 1 year is $\frac{\frac{100}{i}}{1+i}$. This is `r round((100/.1)/1.1,2)`. 
     + The difference is the savings.
 
+## Report Example
+
+![](Fig311.png)
+
 ## How Did We Get to the Current G-T-D Arrangment (MES Argument)
 
 + Both large scale and small scale originally existed.
@@ -131,5 +135,18 @@ Please note that lots of power quality issues need to be solved on the D side, w
 + Utility: Supply customer needs with T+G or with DG. Tradeoffs between the two in an isoquant/isocost sense.
 + Customer: Decide to take utility solution or provide with private DG. (Make vs Buy).
 
+# Odd Diagrams and Points in the Report
+
 ## Fig 3-4
 ![](Fig34.png)
+
+## What is Wrong?
+
++ Need two diagrams, one for constrained DG and one for wholesale electricity market
++ Confuses Reduced usage is Value to Participants with utility cost reductions and reduction in DWL.
+
+## Fig 3-7
+
++ Gives perfect competition result for a competitive public utility.
++ Somehow, it can be rate of return regulated.
++ Analysis should be that of a price ceiling with a reduction in demand and a reduction in the ceiling.
