@@ -77,8 +77,57 @@ With all cost estimates the key conceptual problem is to only look at incrementa
 
 ## Example Make vs Buy
 
++ Assume cost functions of $C = F + \alpha q$ form.  
+    + Fixed cost
+    + Constant average variable cost
++ Make vs Buy:  Given known q, Choose the least cost technology 
+
 ## Example MES
+
++ Several definitions of MES
+    + Quantity such that $MC=AC$.
+    + Quantity such that AC decreases very little as quanity increases.
 
 ## Example Investment Delay
 
-## How Did We Get to the Current G-T-D Arrangment 
++ Pushing costs into the future can be valuable.
++ Value of delay increases as interest rates increase.
++ Exponential discounting $P = \frac{F}{(1+i)^N}$.
+
+
++ Example:  Maintanace expenditures of $100 a year forever. What is the value of skipping a year?
+    + $PW(Maintance) = \frac{100}{i}$ At i = 10% this is `r 100/.1`.
+    + Delay for 1 year is $\frac{\frac{100}{i}}{1+i}$. This is `r round((100/.1)/1.1,2)`. 
+    + The difference is the savings.
+
+## How Did We Get to the Current G-T-D Arrangment (MES Argument)
+
++ Both large scale and small scale originally existed.
++ Large scale developed
+    + Lower AC
+    + Higher MES
+    + Speed of change up till 60s made this the dominiate form.
++ Small scale continued to develop
+    + Right sized scale and MES
+    + Decreasing AC
+    + 1978 Qualifying Facilities Era was when they could sell power under some conditions.
+
+## Private Choice of Technology (Make vs Buy Argument)
+
++ Have access to utility power and DG.
++ Several States of Opportunity Costs
+    + If you have no special needs and need to pay full cost of fuel.
+    + If you have 'Free' access to fuel, e.g., wood chips, AC of DG is lower.
+    + If power quality or interuption is not what is desired, AC of utility power is higher.
+    + More complicated diagrams can be made but this works.
+
+    
+    
+## Utility Point of View (Make vs Buy Argument)
+
+Please note that lots of power quality issues need to be solved on the D side, with capacitors and transformers. Power quality may actually get worse with new equipment and DG.
+
++ Utility: Supply customer needs with T+G or with DG.
++ Customer: Decide to take utility solution or provide with private DG.
+
+
