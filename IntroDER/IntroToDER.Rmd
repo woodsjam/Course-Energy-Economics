@@ -64,6 +64,13 @@ May seem like semantics but small storage grew in potential since 2005
     
 + The utility side is significantly more complicated.
 
+
+## Why The Controvoursy
+
++ Limited markets for local reactive power.
++ Limited markets for local reliability.
+    
+
 ## Three simple ways of thinking about costs
 
 + The Make vs Buy trade-off (TC).
@@ -86,7 +93,7 @@ With all cost estimates the key conceptual problem is to only look at incrementa
 
 + Several definitions of MES
     + Quantity such that $MC=AC$.
-    + Quantity such that AC decreases very little as quanity increases.
+    + Quantity such that AC decreases very little as quantity increases.
 
 ## Example Investment Delay
 
@@ -95,7 +102,7 @@ With all cost estimates the key conceptual problem is to only look at incrementa
 + Exponential discounting $P = \frac{F}{(1+i)^N}$.
 
 
-+ Example:  Maintanace expenditures of $100 a year forever. What is the value of skipping a year?
++ Example:  Maintenance expenditures of $100 a year forever. What is the value of skipping a year?
     + $PW(Maintance) = \frac{100}{i}$ At i = 10% this is `r 100/.1`.
     + Delay for 1 year is $\frac{\frac{100}{i}}{1+i}$. This is `r round((100/.1)/1.1,2)`. 
     + The difference is the savings.
@@ -110,7 +117,7 @@ With all cost estimates the key conceptual problem is to only look at incrementa
 + Large scale developed
     + Lower AC
     + Higher MES
-    + Speed of change up till 60s made this the dominiate form.
+    + Speed of change up till 60s made this the dominant form.
 + Small scale continued to develop
     + Right sized scale and MES
     + Decreasing AC
@@ -122,7 +129,7 @@ With all cost estimates the key conceptual problem is to only look at incrementa
 + Several States of Opportunity Costs
     + If you have no special needs and need to pay full cost of fuel.
     + If you have 'Free' access to fuel, e.g., wood chips, AC of DG is lower.
-    + If power quality or interuption is not what is desired, AC of utility power is higher.
+    + If power quality or interruption is not what is desired, AC of utility power is higher.
     + If you face a Peek, Time of Use or Demand Charge.
     + More complicated diagrams can be made but this works.
 
@@ -132,7 +139,7 @@ With all cost estimates the key conceptual problem is to only look at incrementa
 
 Please note that lots of power quality issues need to be solved on the D side, with capacitors and transformers. Power quality may actually get worse with new equipment and DG.
 
-+ Utility: Supply customer needs with T+G or with DG. Tradeoffs between the two in an isoquant/isocost sense.
++ Utility: Supply customer needs with T+G or with DG. Trade-offs between the two in an isoquant/isocost sense.
 + Customer: Decide to take utility solution or provide with private DG. (Make vs Buy).
 
 # Odd Diagrams and Points in the Report
