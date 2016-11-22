@@ -130,4 +130,5 @@ Please note that lots of power quality issues need to be solved on the D side, w
 + Utility: Supply customer needs with T+G or with DG.
 + Customer: Decide to take utility solution or provide with private DG.
 
-
+## Fig 3-4
+![](Fig34.png)
