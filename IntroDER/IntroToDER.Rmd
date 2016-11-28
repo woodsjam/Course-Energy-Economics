@@ -319,3 +319,11 @@ This will be where the next round of trouble will be.  How will the load serving
 + May offset some smart grid costs, the generator pays rather than the Load Serving Entity.
 + Connects with making the nodes as broad as possible to increase competition.
 
+## Unsaid but Developing Elsewhere
+
++ Plenty of proposals for reactive power compensation.  CAISO is looking at this https://www.caiso.com/Documents/StrawProposal_ReactivePowerRequirements_FinancialCompensation.pdf
++ May help compensate DER.
+    + Inverters can have problems providing reactive power without providing real power.
+    + May be a place for the D side to operate, reactive power provision and managment.
++ UK has Enhanced Reactive Power Services" http://www2.nationalgrid.com/uk/services/balancing-services/reactive-power-services/enhanced-reactive-power-service/
+    + Compensates those that can provide reactive power
