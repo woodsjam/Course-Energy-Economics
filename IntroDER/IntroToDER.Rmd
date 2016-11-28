@@ -169,7 +169,7 @@ By NOW I mean in the last month/week.  Comments are rough because it is all very
 
 ## The FERC NOPR is *very* political  
 
-+ Appears timed to be in place before the FERC board turn over.
++ Appears timed to be in place before the FERC board turnover in January.
 + There is a procedure for rule making that involves months of notice and hearings.
 + Undoing requires doing this again.
 
@@ -178,7 +178,7 @@ By NOW I mean in the last month/week.  Comments are rough because it is all very
 + Elimination of Barriers to Electric Storage Resource Participation in
 Organized Wholesale Electric Markets.
 
-+ Participation of Distributed Energy Resource Aggregators in the
++ Participation of Distributed Energy Resource Aggregator in the
 Organized Wholesale Electric Markets
 
 
@@ -197,9 +197,9 @@ Please note that many market definitions vary by ISO/RTO.  FERC gives directions
 
 + Some RTO/ISOs are better
     + PJM Energy Storage Resource Model
-    + CAISO  Energy Storage Resource model
+    + CAISO Energy Storage Resource model
     
-+ But all are found wanting by their own assessment or others that wish to participate.    
++ But all are found wanting by their *own* assessment.    
 
 ## Connection to Demand Response
 
@@ -219,11 +219,11 @@ The reason is that demand response is considered a residual definition, if not g
 + Aggregation allows you to combine many small units and operate them as one large unit.
 
 + Common practice
-    + Banks are savings agregators
-    + Corporations are investment aggegators to accommodate small investments.
+    + Banks are savings aggregator
+    + Corporations are investment aggregators to accommodate small investments.
 
 
-## The FERC Proposal for Participation Model
+## The FERC Proposal
 
 + Electric storage resources must be eligible to provide all capacity, energy and
 ancillary services that they are technically capable of providing in the organized
@@ -249,13 +249,12 @@ wholesale LMP.
 
 + Not just about storage.  This is aiming for technology neutrality.
 
-+ Bidding parameters could include things like state of charge, like CAISO and NYISO.
-  + MISO is more detailed requiring hourly max levels, storage rates,etc.
++ Bidding parameters could include things like state of charge
+    + Like CAISO and NYISO.
+    + MISO is more detailed requiring hourly max levels, storage rates,etc.
   
 + Proposal is: "RTOs/ISOs establish state of charge, upper charge limit, lower charge limit, maximum energy charge rate, and maximum energy discharge rate"
 
-
-    
     
 ## Commentary (Con't)
 
@@ -267,7 +266,6 @@ wholesale LMP.
     + New technology does not get developed unless there is a way for it to make money.
     
 + Spinning Reserves requires spinning, but batteries don't spin.
-
 
 ## Commentary, Buyer and Seller
 
@@ -281,7 +279,7 @@ wholesale LMP.
     
 ## Commentary on size
 
-+ Smaller than most ISO/RTO, CAISO is low with 10kW
++ Smaller than *most* ISO/RTO, CAISO is low with 10kW
 + 100kW puts high-end Teslas on the list.
 + 100kWh Powerpack, at $145K, with $52K inverter buys in.
 + Most DER is under this but with the aggregation rules, may not be an issue.
