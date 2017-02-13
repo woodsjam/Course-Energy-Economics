@@ -260,7 +260,7 @@ So, you spin a turbine
 
 ## Levelized Cost of Electricity (LCOE) and Levelized Cost of Avoided Electricity (LACE)
 
-+ https://www.eia.gov/forecasts/archive/aeo15/pdf/electricity_generation_2015.pdf Table 1
++ https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf Table 1
     + CC is Carbon Capture.
     + CCS is Carbon Capture and Storage
     
