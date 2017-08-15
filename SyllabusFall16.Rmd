@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC438/538 Fall 2016"
+title: "Syllabus EC438/538 Fall 2017"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -16,7 +16,6 @@ The official description of the course is:
 
 > Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
 
-Since I am teaching this course for the first time, there will be changes from previous terms and I will be making official changes in description and prerequisites during the year.  
 
 This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural,  and telecommunications.  The order of the courses has changed to reflect the evolving nature of the field.
 
@@ -30,27 +29,22 @@ The undergraduate section has microeconomic theory, EC 311, or the calculus base
 
 As with most economics courses, the more background you bring to the class, the more get from the class.  For this class, it means bringing a background in microeconomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or breaking out laptops for a tutorial on running regressions in R.
 
-## Key Dates
-
-+ Last day to drop or change grade option: November 13th
-+ Holidays: November 11th, 24th and 25th.
-
 # Contact Information
 
-The best ways of contacting me, in decreasing order of effectiveness:
+Communication will be handled through slack https://NAMEHERE.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
-+ IM/hangout: woodsj@pdx.edu
-+ Phone/text: (503) 465-4883
-+ Email:woodsj@pdx.edu (Answered only on M W and F)
-+ D2L email: Do not use.  I will not respond.
+Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels. If you have a personal message that is not intended for others, send a direct message. The group has global do not disturb hours of 10pm -8am.  If you would like something different, alter your personal settings.
 
-You are encouraged to use the IM function of your PSU email account, or text, rather than email. This will allow me to get back to you more quickly and more conversationally. Please be aware that I will likely not reply till the next day if you IM me after 5pm or on the weekend.  
+Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.  
+
 
 Office Hours:
 
 + My office is in CH 241-O.
-+ Drop in office hours are Monday 2:30-3:30 pm  through the last week of class. There is no need to make an appointment for these hours -- just come.
-+ If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week.  
++ Drop in office hours are Monday 2:30-3:30  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ If you can’t attend regular office hours, please check my calendar http://psuenergyeconomics.slack.com. I will make a limited number of 20 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
+
+Office hours for XXXX, the teaching assistant,  will be posted on slack after the first week of class.  We will also post some hours where we will available interactively on slack.
 
 # Textbook and Other Resources
 
@@ -64,37 +58,19 @@ This class will be taught as a collaborative seminar with limited traditional le
 there will be a considerable amount of writing and analysis, presentations by teams of student researchers
 and several referee reports. Nearly all work product will be made public to the class, though your grade will not.
 
-+ Various Team Assignments in total: 25%
++ Regular assignments (in total): 45%
 + Final Draft of Term Paper: 20%
 + Draft Term Paper: 15%
 + Presentation of Paper Topic: 15%
 + Annotated Bibliography: 3%
 + Abstract: 2%
-+ Referee Report(s) of Draft Paper(s): 15%
-+ Referee Report(s) of Final Paper(s): 5%
 
-Term papers, referee reports and bibliographies will be turned in a D2L dropbox as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  While this seems harsh, missing a deadline means that other students have less time to complete their work.
 
-## Regular Team Assignments
+Term papers and bibliographies will be turned in a D2L dropbox as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  
 
-Teams will be assigned by the instructor after the first week of class. They will be composed of at least one
-graduate student and one undergraduate student. Assignments will be made based a survey of completed
-math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to
-succeed.
+## Regular Assignments
 
-The teams are intended to encourage cooperative learning where graduate students can assist undergraduate
-students with concepts they are unsure of and those with exceptional skills can share insight with
-others.
-
-A team may remove a member by an anonymous 3/4th majority vote of a current members. Removed
-members will act as a team of one until other teams remove members or students join the class. Removed
-members may join other teams by an anonymous 3/4th majority vote of the receiving team. All votes will
-be conducted by the instructor should two students on a team request a vote. The instructor reserves the
-right to reassign students to teams should there be large differences in team size.
-
-Regular team assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
-
-Grad students will also be formed into teams for assignments that are specific to them.
+Regular assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, classic "homework" problems, or just sorting out a nasty diagram in the book. Some will be written and due at the start of class.  Others will require a presentation.
 
 ## Individual/Group Term Paper
 
@@ -104,47 +80,22 @@ paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
 1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-dropbox in D2L by _October 24th_. Students will have a 30 minute review meeting with the instructor during that week. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
+dropbox in D2L by _October 23th_. Students will have a 30 minute review meeting with the instructor during that week. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
 
-2. A revised abstract must be submitted by _October 28th_ and will be published in the “Final Abstracts”
+2. A revised abstract must be submitted by _October 27th_ and will be published in the “Final Abstracts”
 dropbox in D2L. Abstracts will be discussed in class on October 30th. Ideally, two reviewers will be
 assigned to each paper and no reviewer will be assigned more than one paper, but this may not happen depending on the balance of single and multi-author papers.
 
-3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 4th_ and should be provided in “Bibliography” dropbox in D2L.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
-
+3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 3rd_ and should be provided in “Bibliography” dropbox in D2L.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
 4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
-to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 7th through the November 16th_ unless the author team wants to schedule something earlier.
+to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 6th through the November 10th_ unless the author team wants to schedule something earlier.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
-The instructor will make additional comments after the reports are received.
+5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 17th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. 
 
-6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 2nd at 8pm_. Term papers
-must be less than 20 pages.  The submission must include a separate document addressing the reviewers issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
-
-## Referee Reports
-
-A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an academic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (http://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf).
-
-All referee reports will be distributed to authors.  These reports have 5pm deadlines so they can be distributed to the authors that evening.
-
-+ A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
-report must be less than five pages. This is due by _5pm on November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L dropbox .
-
-+ A referee report on a student’s or group’s final paper. This will be a second review of the paper you
-previously reviewed. The report must be less than five pages. This referee report will be delivered by,
-_by 5 pm on December 8th_ and must be submitted to "Referee Report of Final Paper" D2L dropbox.  
-
-The reports will be evaluated on a 0 to 5 scale with the following rubric.
-
-  + 0 Points Base
-  + 1 Points Rudimentary synopsis and minor criticism of the paper.
-  + 2 Points Report gives an accurate synopsis of paper and the contribution it makes to the literature.
-  + 3 Points 2 AND identifies and explains weaknesses in the analysis or gaps in the literature.
-  + 4 Points 3 AND provides suggested articles to be included and several options that would improve
-analysis.
-  + 5 Points Exemplary example of 4.
+6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 1st at 8pm_. Term papers
+must be less than 20 pages.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 
 # Topics and Readings
@@ -215,6 +166,8 @@ Each topic has some readings that both undergraduates and graduate students will
         + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf
         +
 
+    + Greenhouse Gas Emissions
+    + Effect of Wind and Solar on Labor and Houseing Markets
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
 
@@ -249,8 +202,8 @@ The course requires a term paper.  It is a good idea to do some broad reading to
 
 + Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
   
-+ When completing assignments *The work must be authentically and genuinely your own or group. In other words, if you are copying answers you found online, it is not your work.*
-  
++ When completing online quizzes or other assignments, you may use your book, wiki, calculator, spreadsheets, notes, or other resources as long as it is not another student or person.  *The work must be authentically and genuinely your own. In other words, if you are copying answers you found online, it is not your work.*
+
 + Go to office hours at the first sign of trouble -- not as a last resort.
 
 + In this classroom, we support and value diversity.  To do so requires that we:
@@ -265,7 +218,7 @@ The course requires a term paper.  It is a good idea to do some broad reading to
    For additional information, please see the Office of Affirmative Action \& Equal Opportunity at http://www.pdx.edu/diversity/affirmative-action.
 
 
-+ Accommodations are collaborative efforts between students, faculty, and the Disability Resource Center.  If you have a documented disability and require accommodation, you must arrange to meet with the course instructor prior to or within the first week of the term.  The documentation of your disability must come in writing from the Disability Resource Center (Faculty letter).  Students who believe they are eligible for accommodations but who have not yet obtained approval through the DRC should contact the DRC immediately.  Reasonable and appropriate accommodations will be provided for students with documented disabilities.  For more information on the Disability Resource Center, please see http://www.drc.pdx.edu. 
++ Accommodations are collaborative efforts between students, faculty, and the Disability Resource Center.  If you have a documented disability and require accommodation, you must arrange to meet with the course instructor prior to or within the first week of the term.  The documentation of your disability must come in writing from the Disability Resource Center (Faculty letter).  Students who believe they are eligible for accommodations but who have not yet obtained approval through the DRC should contact the DRC immediately.  Reasonable and appropriate accommodations will be provided for students with documented disabilities.  For more information on the Disability Resource Center, please see http://www.drc.pdx.edu/. 
 
 + Academic honesty is expected and required of students enrolled in this course.  Suspected academic dishonesty in this course will be handled according to the procedures set out in the Student Code of Conduct.
 
