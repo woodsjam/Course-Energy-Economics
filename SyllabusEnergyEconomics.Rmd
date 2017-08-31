@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC438/538 Fall 2016"
+title: "Syllabus EC438/538 Fall 2017"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -16,9 +16,9 @@ The official description of the course is:
 
 > Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
 
-Since I am teaching this course for the first time, there will be changes from previous terms and I will be making official changes in description and prerequisites during the year.  
+<!-- Since I am teaching this course for the first time, there will be changes from previous terms and I will be making official changes in description and prerequisites during the year.   -->
 
-This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural,  and telecommunications.  The order of the courses has changed to reflect the evolving nature of the field.
+This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity and natural gas.  The order of the courses has changed to reflect the evolving nature of the field.
 
 <!-- ## New Kind of Slash Course -->
 
@@ -210,6 +210,7 @@ Each topic has some readings that both undergraduates and graduate students will
         + Dubin, Jeffrey A., and McFadden Daniel L. "An Econometric Analysis of Residential Electric Appliance Holdings and Consumption." Econometrica 52.2 (1984): 345-62. http://stats.lib.pdx.edu/proxy.php?url=http://www.jstor.org/stable/1911493
         + David R. Kamerschen, David V. Porter, The demand for residential, industrial and total electricity, 1973–1998, Energy Economics, Volume 26, Issue 1, January 2004, Pages 87-100, http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/S0140-9883(03)00033-1
         + RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS), EIA. https://www.eia.gov/consumption/residential/index.cfm We will use this as an example of end use modeling as well as survey data collection and estimation.
+        + The National Standard Practice Manual https://nationalefficiencyscreening.org/national-standard-practice-manual/
         
     + Distributed Generation and Microgrids
         + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf

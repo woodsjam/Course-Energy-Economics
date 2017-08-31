@@ -26,4 +26,6 @@ Joskow, Paul L., and Catherine D. Wolfram. "Dynamic pricing of electricity." The
 
 Sensfuß, Frank, Mario Ragwitz, and Massimo Genoese. "The merit-order effect: A detailed analysis of the price effect of renewable electricity generation on spot market prices in Germany." Energy policy 36.8 (2008): 3086-3094.
 
+Kverndokk, Snorre, Knut Einar Rosendahl, and Thomas F. Rutherford. "Climate policies and induced technological change: Which to choose, the carrot or the stick?." Environmental and Resource Economics 27.1 (2004): 21-41.
 
+Rogers, Jennifer, Sari Fink, and Kevin Porter. Examples of wind energy curtailment practices. No. NREL/SR-550-48737. National Renewable Energy Laboratory (NREL), Golden, CO., 2010.
