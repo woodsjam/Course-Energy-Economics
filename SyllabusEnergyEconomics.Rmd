@@ -156,17 +156,23 @@ Each topic has some readings that both undergraduates and graduate students will
         + Energy Primer, Ch 4.
         + Smith, James L.. 2009. "World Oil: Market or Mayhem?" Journal of Economic Perspectives, 23(3): 145-64. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.3.145
         + Baumeister, Christiane and Lutz Kilian. 2016. "Forty Years of Oil Price Fluctuations: Why the Price of Oil May Still Surprise Us." Journal of Economic Perspectives, 30(1): 139-60. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.139
-    
+
+    + Intro to Externalities and Public Goods
+        + Dahl, Ch 11 - 12.
+        + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
+        + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
+
+    + Distributed Energy Resources and Microgrids
+        + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf
+        
+
+  
 + Topic Options, Voted on in Class
     + Financial Markets
         + Energy Primer, Ch 5.
         + Dahl, Ch 18 - 19.
         + Knittel, Christopher R. and Robert S. Pindyck. 2016. "The Simple Economics of Commodity Price Speculation." American Economic Journal: Macroeconomics, 8(2): 85-110. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/mac.20140033
         + Deng, Shi-Jie, and Shmuel S. Oren. "Electricity derivatives and risk management." Energy 31.6 (2006): 940-953. http://stats.lib.pdx.edu/proxy.php?url=http://www.sciencedirect.com/science/article/pii/S0360544205000496
-    + Intro to Externalities and Public Goods
-        + Dahl, Ch 11 - 12.
-        + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
-        + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
     + Natural Gas Outside the US
         + Dahl, Ch 9 - 10.   
         + "International Energy Outlook", 2016, EIA, Ch 3. (https://www.eia.gov/forecasts/ieo/nat_gas.cfm)
@@ -190,10 +196,6 @@ Each topic has some readings that both undergraduates and graduate students will
         + RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS), EIA. https://www.eia.gov/consumption/residential/index.cfm We will use this as an example of end use modeling as well as survey data collection and estimation.
         + The National Standard Practice Manual https://nationalefficiencyscreening.org/national-standard-practice-manual/
         
-    + Distributed Generation and Microgrids
-        + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf
-        +
-
 
 The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
 
