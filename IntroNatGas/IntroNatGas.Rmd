@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Where is it produced? Just conventional
-![](http://dualstack.prod-http-80-test-412114078.us-east-1.elb.amazonaws.com/w/images/1/13/EIA-conventional-gas.pdf)
+<!-- ![](http://dualstack.prod-http-80-test-412114078.us-east-1.elb.amazonaws.com/w/images/1/13/EIA-conventional-gas.pdf) -->
 
 ## More in the shale areas.
 ![](https://www.eia.gov/todayinenergy/images/2015.04.17/main.png)
@@ -62,7 +62,7 @@ There is a weekly report on storage by EIA http://www.eia.gov/dnav/ng/hist/nw2_e
 
 ## Part of Henry Hub LA
 
-![](http://www.2b1stconsulting.com/wp-content/uploads/2012/05/Henry-Hub-Picture.jpg)
+<!-- ![](http://www.2b1stconsulting.com/wp-content/uploads/2012/05/Henry-Hub-Picture.jpg) -->
 
 ## Getting to Prices
 + You will see wellhead prices, but

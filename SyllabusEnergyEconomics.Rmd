@@ -37,14 +37,12 @@ As with most economics courses, the more background you bring to the class, the 
 
 # Contact Information
 
-The best ways of contacting me, in decreasing order of effectiveness:
+Communication will be handled through slack https://psuenergyeconomics.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
-+ IM/hangout: woodsj@pdx.edu
-+ Phone/text: (503) 465-4883
-+ Email:woodsj@pdx.edu (Answered only on M W and F)
-+ D2L email: Do not use.  I will not respond.
+Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels. If you have a personal message that is not intended for others, send a direct message. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
 
-You are encouraged to use the IM function of your PSU email account, or text, rather than email. This will allow me to get back to you more quickly and more conversationally. Please be aware that I will likely not reply till the next day if you IM me after 5pm or on the weekend.  
+Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.  
+
 
 Office Hours:
 
@@ -64,7 +62,7 @@ This class will be taught as a collaborative seminar with limited traditional le
 there will be a considerable amount of writing and analysis, presentations by teams of student researchers
 and several referee reports. Nearly all work product will be made public to the class, though your grade will not.
 
-+ Various Team Assignments in total: 25%
++ Homework Assignments in total: 25%
 + Final Draft of Term Paper: 20%
 + Draft Term Paper: 15%
 + Presentation of Paper Topic: 15%
@@ -75,27 +73,6 @@ and several referee reports. Nearly all work product will be made public to the 
 
 Term papers, referee reports and bibliographies will be turned in a D2L dropbox as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  While this seems harsh, missing a deadline means that other students have less time to complete their work.
 
-## Regular Team Assignments
-
-Teams will be assigned by the instructor after the first week of class. They will be composed of at least one
-graduate student and one undergraduate student. Assignments will be made based a survey of completed
-math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to
-succeed.
-
-The teams are intended to encourage cooperative learning where graduate students can assist undergraduate
-students with concepts they are unsure of and those with exceptional skills can share insight with
-others.
-
-A team may remove a member by an anonymous 3/4th majority vote of a current members. Removed
-members will act as a team of one until other teams remove members or students join the class. Removed
-members may join other teams by an anonymous 3/4th majority vote of the receiving team. All votes will
-be conducted by the instructor should two students on a team request a vote. The instructor reserves the
-right to reassign students to teams should there be large differences in team size.
-
-Regular team assignments will be a diverse selection of activities that will range from creating a day ahead electricity forecast, explaining a crack spread with current data, or just sorting out a nasty diagram in the book.
-
-Grad students will also be formed into teams for assignments that are specific to them.
-
 ## Individual/Group Term Paper
 
 The largest assignment will be a term paper. The term paper may be
@@ -104,28 +81,28 @@ paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
 1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-dropbox in D2L by _October 24th_. Students will have a 30 minute review meeting with the instructor during that week. These meetings will be scheduled in class on October 17th. Scope and depth changes will be agreed to in the meeting.
+dropbox in D2L by _October 23rd_. Students will have a 30 minute review meeting with the instructor during that week. These meetings will be scheduled in class on October 16th. Scope and depth changes will be agreed to in the meeting.
 
-2. A revised abstract must be submitted by _October 28th_ and will be published in the “Final Abstracts”
-dropbox in D2L. Abstracts will be discussed in class on October 30th. Ideally, two reviewers will be
+2. A revised abstract must be submitted by _October 30th_ and will be published in the “Final Abstracts”
+dropbox in D2L. Abstracts will be discussed in class on November 1st. Ideally, two reviewers will be
 assigned to each paper and no reviewer will be assigned more than one paper, but this may not happen depending on the balance of single and multi-author papers.
 
-3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 4th_ and should be provided in “Bibliography” dropbox in D2L.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
+3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 6th_ and should be provided in “Bibliography” dropbox in D2L.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
 
 4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation
-to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 7th through the November 16th_ unless the author team wants to schedule something earlier.
+to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 6th through the November 15th_ unless the author team wants to schedule something earlier.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
+5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 17th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
 The instructor will make additional comments after the reports are received.
 
-6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 2nd at 8pm_. Term papers
+6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 8th at 8pm_. Term papers
 must be less than 20 pages.  The submission must include a separate document addressing the reviewers issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 ## Referee Reports
 
-A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an academic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (http://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf).
+A referee report is a critical examination of an academic paper.  There is a split in their purpose, help the editor make a determination or help the author, but in either case, you typically make the deepest read of an academic paper when you review it.  The official guidance from the AEA is (https://www.aeaweb.org/content/file?id=222) but there is some more detailed guidance here that is more helpful to authors (NEWLINKHERE).
 
 All referee reports will be distributed to authors.  These reports have 5pm deadlines so they can be distributed to the authors that evening.
 

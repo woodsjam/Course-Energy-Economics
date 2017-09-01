@@ -284,7 +284,7 @@ Beyond getting the specification wrong, which you usually support with several s
 
 Don't get cocky.
 
-What we are going to do next is read in some real data and you will for homework estimate something that looks like either supply or demand but will be neither.  Why, because supply and demand determine price and quantity simultaneously, that means that something either price or quantity is endogenous.  At this point, you are at about 1910 as far as standard econometric practice.
+What we are going to do next is read in some real data that looks like either supply or demand but will be neither.  Why, because supply and demand determine price and quantity simultaneously, that means that something either price or quantity is endogenous.  At this point, you are at about 1910 as far as standard econometric practice.
 
 # Real Data
 
@@ -326,12 +326,12 @@ CoalProduction <- Coal %>% filter(MSN == "CLPRPUS")
 
 ```
 
-+ Note that you have monthly data but that the annual data is shown as month 13.  Grab all of the observations with month equal to 13.
++ Note that you have monthly data but that the annual data is shown as month 13.  Grab all of the observations with month not equal to 13.
 
 ```{r}
 library(stringr)
 
-CoalProduction <- CoalProduction %>% filter(str_sub(as.character(YYYYMM),5 ) == "13")
+CoalProduction <- CoalProduction %>% filter(str_sub(as.character(YYYYMM),5 ) != "13")
 
 ```
 
@@ -340,7 +340,7 @@ CoalProduction <- CoalProduction %>% filter(str_sub(as.character(YYYYMM),5 ) == 
 ```{r}
 CoalProduction <- CoalProduction %>% select(YYYYMM, Value)
 
-names(CoalProduction) <- c("RawYear", "ProductionKShortTon")
+names(CoalProduction) <- c("RawMonth", "ProductionKShortTon")
 summary(CoalProduction)
 ```
 
@@ -357,7 +357,7 @@ Play around with this doing one function at a time to see what each does and wha
 
 ```{r}
 
-CoalProduction <- CoalProduction  %>% mutate(Year = as.numeric(str_sub(as.character(RawYear),0,4 )))
+CoalProduction <- CoalProduction  %>% mutate(Year = as.numeric(str_sub(as.character(RawMonth),0,4 ))) %>% mutate(Month = as.numeric(str_sub(as.character(RawMonth),5)))
 
 
 summary(CoalProduction)
@@ -367,36 +367,55 @@ summary(CoalProduction)
 
 ```{r}
 library(Quandl)
-Prices <- Quandl("EPI/152")
+Prices <- Quandl("EIA/COAL")
 
 summary(Prices)
 
 ```
++ Lets make a picture
 
+```{r}
+library(ggplot2)
+plot(Prices)
+
+```
+
++ Story time on the picture
 
 + As before we will convert the year to a numeric value.
 
 ```{r}
-Prices$Year <- as.numeric(str_sub(Prices$Year,0,4))
+library(lubridate)
+# Prices$Year <- as.numeric(str_sub(Prices$Year,0,4))
+
+Prices <- Prices %>% mutate(Month = month(`Week Ended`) )  %>% mutate(Year = year (`Week Ended`))
 
 
 ```
 
-+ And simplify the names.
++ Now we are going to get monthly averages
 
 ```{r}
-names(Prices) <- c("Year", "PriceMBTU")
+Prices <- Prices %>% group_by(Month, Year) %>% summarise_all(mean)
+
 
 ```
 
-Please note that we don't have the price per short ton of coal.  What we have is the price per million BTUs (MMBTU), which is a measure of energy content.  The BTUs per short ton of coal (2000 lbs) is about 20 MMBTUs but varies from place-to-place, year-to-year and type of coal (See table 3-4).
+For illustrative purposes lets let stick with one price and then merge the price and volume data. 
+
+
+```{r}
+Prices <- Prices %>% select(Year, Month,Price = `Central Appalachia 12,500 Btu, 1.2 SO2` )
+
+```
+
 
 + Merge the two data frames
 
 ```{r}
 summary(CoalProduction)
 summary(Prices)
-CoalMarket <- inner_join(Prices, CoalProduction, by ="Year")
+CoalMarket <- inner_join(Prices, CoalProduction, by =c("Year","Month"))
 
 summary(CoalMarket)
 
@@ -404,7 +423,7 @@ summary(CoalMarket)
 
 Lets look at the data.
 ```{r}
-pairs(~ Year+ PriceMBTU + ProductionKShortTon, data = CoalMarket)
+pairs(~ Year+ Price + ProductionKShortTon, data = CoalMarket)
 
 ```
 
