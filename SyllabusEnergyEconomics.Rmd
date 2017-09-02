@@ -161,6 +161,7 @@ Each topic has some readings that both undergraduates and graduate students will
         + Dahl, Ch 11 - 12.
         + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
         + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
+        + Cullen, Joseph A., and Erin T. Mansur. Inferring carbon abatement costs in electricity markets: A revealed preference approach using the shale revolution. No. w20795. National Bureau of Economic Research, 2014. http://www.dartmouth.edu/~mansur/papers/cullen_mansur_gasprices.pdf
 
     + Distributed Energy Resources and Microgrids
         + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf
