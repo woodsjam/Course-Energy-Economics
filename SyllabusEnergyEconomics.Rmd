@@ -71,7 +71,7 @@ and several referee reports. Nearly all work product will be made public to the 
 + Referee Report(s) of Draft Paper(s): 15%
 + Referee Report(s) of Final Paper(s): 5%
 
-Term papers, referee reports and bibliographies will be turned in a D2L dropbox as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  While this seems harsh, missing a deadline means that other students have less time to complete their work.
+Term papers, referee reports and bibliographies will be turned in a D2L assignment folder as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  While this seems harsh, missing a deadline means that other students have less time to complete their work.
 
 ## Individual/Group Term Paper
 
@@ -94,10 +94,10 @@ assigned to each paper and no reviewer will be assigned more than one paper, but
 to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 6th through the November 15th_ unless the author team wants to schedule something earlier.
 Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
-5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 17th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L dropbox.
+5. A draft of the paper must be published in the “Draft Papers” dropbox in D2L by _5 pm on November 17th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. The professor will distribute a copy to referees. The referees will deliver a referee report on your draft by _November 23rd_  to the "Referee Report of Draft Paper" D2L assignment folder.
 The instructor will make additional comments after the reports are received.
 
-6. The final paper must be published to the “Final Papers” dropbox in D2L by _December 8th at 8pm_. Term papers
+6. The final paper must be published to the “Final Papers” D2L assignment folder by _December 1th at 8pm_. Term papers
 must be less than 20 pages.  The submission must include a separate document addressing the reviewers issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 ## Referee Reports
@@ -107,11 +107,11 @@ A referee report is a critical examination of an academic paper.  There is a spl
 All referee reports will be distributed to authors.  These reports have 5pm deadlines so they can be distributed to the authors that evening.
 
 + A referee report on a student’s or group’s draft paper. You will be assigned a paper to review. The
-report must be less than five pages. This is due by _5pm on November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L dropbox .
+report must be less than five pages. This is due by _5pm on November 23rd_ and must be submitted to "Referee Report of Draft Paper" D2L assignment folder .
 
 + A referee report on a student’s or group’s final paper. This will be a second review of the paper you
 previously reviewed. The report must be less than five pages. This referee report will be delivered by,
-_by 5 pm on December 8th_ and must be submitted to "Referee Report of Final Paper" D2L dropbox.  
+_by 5 pm on December 7th_ and must be submitted to "Referee Report of Final Paper" D2L assignment folder.  
 
 The reports will be evaluated on a 0 to 5 scale with the following rubric.
 
@@ -130,8 +130,10 @@ Do not let this section alarm you.  We will only address part of this outline in
 
 Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each. Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
 
+Please note that this syllabus has avoided some of the more technical theoretical work.
+
 + Introduction of Core Topics
-    + Starting on Topic   
+    + Introduction to Energy   
         + "Energy Primer: A Handbook of Energy Market Basics", FERC, 2015 (http://www.ferc.gov/market-oversight/guide/energy-primer.pdf), Chapter 1
         + Dahl, Ch 1-2.
         + Good article for those considering regression based empirical paper. Murray, Michael P.. 2006. "Avoiding Invalid Instruments and Coping with Weak Instruments." Journal of Economic Perspectives, 20(4): 111-132. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.20.4.111
@@ -151,6 +153,8 @@ Each topic has some readings that both undergraduates and graduate students will
         + Covert, Thomas, Michael Greenstone and Christopher R. Knittel. 2016. "Will We Ever Stop Using Fossil Fuels?" Journal of Economic Perspectives, 30(1): 117-38. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117
         + Borenstein, Severin. 2012. "The Private and Public Economics of Renewable Electricity Generation." Journal of Economic Perspectives, 26(1): 67-92. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.67
         + Puller, Steven L. and Jeremy West. 2013. "Efficient Retail Pricing in Electricity and Natural Gas Markets." American Economic Review, 103(3): 350-55. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.350
+        + Seeto, Dewey, Chi-Keung Woo, and Ira Horowitz. "Time-of-use rates vs. Hopkinson tariffs redux: An analysis of the choice of rate structures in a regulated electricity distribution company." Energy Economics 19.2 (1997): 169-185. http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0140988396010146
+        + Couture, Toby, and Yves Gagnon. "An analysis of feed-in tariff remuneration models: Implications for renewable energy investment." Energy policy 38.2 (2010): 955-965. http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0301421509007940
     + Oil
         + Dahl, Ch 7.
         + Energy Primer, Ch 4.
@@ -165,8 +169,8 @@ Each topic has some readings that both undergraduates and graduate students will
 
     + Distributed Energy Resources and Microgrids
         + Federal Energy Regulatory Commission. "The potential benefits of distributed generation and rate-related issues that may impede their expansion." USDOE,(Ed.) (2007). https://www.ferc.gov/legal/fed-sta/exp-study.pdf
+        + Basak, Prasenjit, et al. "A literature review on integration of distributed energy resources in the perspective of control, protection and stability of microgrid." Renewable and Sustainable Energy Reviews 16.8 (2012): 5545-5556. http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S1364032112003772
         
-
   
 + Topic Options, Voted on in Class
     + Financial Markets
@@ -188,7 +192,6 @@ Each topic has some readings that both undergraduates and graduate students will
         + Gaudet, Gérard. "Natural resource economics under the rule of Hotelling." Canadian Journal of Economics/Revue canadienne d'économique 40.4 (2007): 1033-1059. http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2007.00441.x/full
     + Supply and Cost Curves
         + Dahl Ch 15
-        
     + Energy Demand
         + Dahl Ch 16
         + Allcott, Hunt and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Economic Perspectives, 26(1): 3-28. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.3

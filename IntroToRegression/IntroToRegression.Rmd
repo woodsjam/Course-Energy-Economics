@@ -380,7 +380,7 @@ plot(Prices)
 
 ```
 
-+ Story time on the picture
++ Story time on the picture.  What do you see?  What stories come to mind?
 
 + As before we will convert the year to a numeric value.
 
