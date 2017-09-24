@@ -101,3 +101,26 @@ There are many technical conditions but "leaving out one or more" is easy one to
 + Rejecting the null, instruments are not  correlated with IV errors, means that at least one of the instruments are endogenous.  
 + Note that if it fails, you don't know  which one is bad.
 
+# Ok, thats the stats
+
++ The remainder of the support for the instruments is a logical argument.
+    + You need to have a story of why the instrument is correlated with the RHS endogenous variable but not LHS.
+    + Missing variable bias is a thing with instruments too, so don't leave a variable out.
++ Look at the first stage regression.  Do the parameter estimates make sense?
++ Try other instruments.
+    + If they pass the logic and Sargon's J over identification test.
+    + and they give similar results, you look good.
+    + Try some bad ones too.
+    
+    
+# Be conservative in interpretation of  significance
+
++ IV estimates are consistent but always biased.
++ Hahn Hauseman (2005) Bias $E(\beta^{2SLS}_1) - \beta_1 \approx \frac{lp ( 1- \tilde{R}^2)}{n \tilde{R}^2 }$
+    + More instruments, l, more bias
+    + Higher first stage $R^2$ less bias.
+    + More correlation between endogenous and error, $|\rho|$ more bias.
+    + More observations, n, less bias
++ In Other Words (IOW) -- if the first stage $R^2$ is high, you have a minimal set off  instruments and plenty of observations, go nuts.
++ Otherwise, envision your p-values on your parameter estimates as lower.
++ Random suggestion, try bootstrapping the errors.
