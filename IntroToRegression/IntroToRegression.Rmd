@@ -25,7 +25,6 @@ print("No Echo")
 ```
 
 
-
 # Assignment and Access 
 
 1. Lets start with a few R conventions.  Lets start with scalars.  '<-' is the assignment operator in R.  '=' also works but '==' is used for comparisons.
