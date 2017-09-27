@@ -95,7 +95,7 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 
 # Incentivized Polls
 
-+ Guess Jamie's BMI.  Closest to the actual gets $10.
++ Guess Jamie's BMI.  Closest to the actual gets $1.
 + Skin in the game gives incentive for more thought.
 + Only works when you will eventually find out actual.
 + Oddly works better if you don't know how people are betting.
@@ -121,7 +121,7 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 + Book gives some examples.
 + Ask a bunch of experts about their best judgement and summarize
 + Often expanded as a Delphi Survey
-+ For comically bad forecast see "Results of the Delphi IX Survey of Oil Forecasts" California Energy Commission, 1997.
++ For comically bad forecast see "Results of the Delphi IX Survey of Oil Forecasts" California Energy Commission, 1997. http://www.energy.ca.gov/reports/DELPHI-9.PDF
 
 # Delphi Surveys
 
@@ -187,6 +187,7 @@ Matrix Form
 $x=Ax +d$ is solved as $x=(I-A)^{-1}d$
 
 d is what you need to fight the war.
+X is what you need to produce to get d.
 
 # Warnings about the next models in book
 
@@ -253,6 +254,9 @@ d is what you need to fight the war.
     + You come to data with a model, you just don't know it.
     + The data never speak for themselves. You use data to test/support/refute hypotheses/theories.
 + Using more than one model or technique and getting the same general result helps. It shows that your conclusion about reality is resilient to the implicit modeling assumptions.
+
+# Overarching (Con't)
+
 + Keep in mind that modeling is an iterative process often driven by the researcher.
     + You try a model and then refine it based on the results.
     + It is an iterative process.

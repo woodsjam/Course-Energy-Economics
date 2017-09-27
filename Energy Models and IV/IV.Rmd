@@ -33,7 +33,7 @@ This translates into the idea that the errors and the exogenous variables have t
 
 # How can they be not independent?
 
-+ Many ways but the one we are looking at is that one or more of the RHS variables is determined by the interaction with some other regression equation.
++ Many ways, but the one we are looking at is that one or more of the RHS variables is determined by the interaction with some other regression equation.
 
 # Why IV?
 
@@ -97,7 +97,7 @@ $$var(\beta_{OLS}) = s^2 \left[ X'X \right]^{-1}$$
 IV Variance includes the instruments
 
 $$var(\beta_{OLS}) = s^2 \left[ X'(Z(Z'Z)^{-1}Z'     )      X \right]^{-1}$$
-The gunk in the middle, $Z(Z'Z)^{-1}Z'$ is projection,$Pr$, or hat matrix.  It turns data into its estimated values
+The gunk in the middle, $Z(Z'Z)^{-1}Z'$ is a projection,$Pr$, or hat matrix.  It turns data into its estimated values.
 
 # Projection or Hat Matrix
 
@@ -109,8 +109,8 @@ It turns observed into estimated.
 
 # Projection matrices are funny
 
-+ They are symmetric $Pr = 'Pr$
-+ They are idempotent $Pr 'Pr = Pr$
++ They are symmetric $Pr = Pr'$
++ They are idempotent $Pr Pr' = Pr$
 + $Pr X = X(X'X)^{-1}X'X = X$
 
 # Algebra Details
