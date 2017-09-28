@@ -1,0 +1,159 @@
+---
+title: "Notes on How to Write a Literature Review"
+author: "James Woods"
+date:
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+A literature review is part of every research paper.  It provides the setting for the rest of the paper and shows how your original contribution fits in with existing knowledge and makes the case that your contribution is original and moves the frontiers of knowledge.
+
+It can also be a stand-alone paper that organizes a body of knowledge, drawing connections between publications that may not be obvious to people reading the individual papers and books.  
+
+The organization could historical, showing how thought on a topic changes over time.  It could explain differences in thought and methodology about a single topic and attempt to unify the discussion about key points.
+
+In any case, a literature review is not a simple recitation, paper after paper, repeating what each said.  A good literature review adds something.  It provides the conversation between the papers, as if the authors were debating with each other.
+
+# How to Start
+
+Don't start with a thesis; start with a paper that you like.  Think of it as a seed.
+
+If you look at the syllabus, besides a lot of assigned readings, you will see a listing of major journals in the field and you will see a listing of review articles, which are another name for literature review.
+
+Find a paper that you like.  If you are fascinated about urban vs rural differences in household energy use, find a paper that investigates that.  If you want to know if wind generation has an effect on housing prices, find a good paper that investigates that.
+
+In any case, start with a seed paper.
+
+## Find how that paper links to the literature
+
+Every paper comes with its own literature review and its own list of sources -- the bibliography.  
+
+Look at the cited articles and books in the paper you choose.  Those are the papers that the author used to frame their argument and make the case that their contribution was original.  It is also helped the authors frame the research question in their own mind.
+
+After a paper is published, other people will read it and use it to change what they think about the topic.  Many will then cite the seed paper in later works.  Your next step is to look at the papers that cite your seed paper.
+
+Thankfully, Google scholar (https://scholar.google.com) takes care of much of that for you.  It is not the only way to follow the citation chain but it is the most convenient.  Each citation will have a link that gives a listing of the papers that cited that have cited it.
+
+In summary, the bibliography lets you see what led up to the paper, and google scholar lets you see how the world reacted to it.
+
+## Read and Make Notes
+
+Start reading the articles. I don't mean a deep reading.  Use the multi-pass process that I described in class:
++ Read the title and abstract
++ Read the section headings
++ Read the introduction
++ Read the conclusion
++ Look at the figures
++ Look at the equations
++ Skim the whole thing
++ Read it but don't freak out if you don't get everything.
+    + Keep notes on your reactions, how the topic connects back and questions (My personal notes on papers are filled with profanity)
+    + Repeat as time allows.
+
+As you read you will notice that you can start categorizing papers.  There is no one way of categorizing.  You could do it chronologically by decade, or by school of thought, or by statistical technique used, or pro or con, just pick something that works to organize them.
+
+While you are reading make notes.  
+
++ How are key terms are defined
++ What are some key statistics.
++ Keep an eye out for good quotes.
++ Analyze the papers a bit.  Some are better than others and make notes on why the good ones are good and the bad ones are bad.
++ Look for trends over time on how a topic is treated.  
++ Look for a hole in the literature.  Is there a topic that has been missed?  That would be a great motivation for a later original contribution to the literature.
+
+Once you read enough, you can start to put together a thesis and actually construct a literature review.
+
+# Starting on the Paper
+
+The step-by-step process in the syllabus is a good model for how to write a literature review.
++ Abstract
++ Bibliography
++ Annotated Bibliography
++ First Draft
++ ...
++ Final Draft.
+
+The abstract is the short, elevator pitch, that summarizes your thinking on a topic.
+
+Your abstract will be revised many times before the final draft, but you need a solid abstract before you start just to make sure your topic is paper sized and not something that requires multiple books to treat.  
+
+The usual problem with undergraduates is that they try to write very short papers about very broad topics and end up with a very poor product.
+
+Get narrow. 
+
+Get tractable.
+
+Once you have a reasonable abstract you can start building your literature review.
+
+## Bibliography and Annotated Bibliography
+
+Look at the all the papers you have read and decide which ones you want to use in your literature review.  If your answer is "all them", you have not read enough.  Go back and read some more.
+
+The sole exception to this rule is if you doing a meta-analysis, which treats a literature statistically.
+
+Now, it is time to go back over the papers that you listed in the bibliography and construct an annotated bibliography.
+
+### Annotated Bibliography
+
+An annotated bibliography should provide a brief descriptive and evaluative statement about the article and should indicate how you intend to use the paper.
+
+The course syllabus has a few links how to construct an annotated bibliography.  
+
+Annotated bibliographies are often not in the usual citation order. You can almost think of this as the first outline of your paper.    
+
+You can organize them according to the argument you intend to make: Statistics, European perspectives, American perspectives, Latin American perspectives, Contrasting the perspectives, for example or chronologically if you are looking at trends over time.
+
+The important part is categorizing the papers according to your argument, pulling out what is important from each, and then figuring out how you will use them in the final paper.
+
+## Write
+
+Just write.  Somewhere down the line you developed a system for getting writing done.  If you are lucky, it is a good system, if not, you have to change it.
+
+I usually start with a rough outline then add in graphics, tables, and data analysis.  I then add a bunch of details to the the outline, and, once that feels reasonable, start adding paragraphs.
+
+There is no need to write in order.  Pick a part of the outline and write on that topic.  Don't edit it.  Don't try to make it perfect.  Just write.  If every other sentence is good -- fabulous.  The point is to spend a little time each day writing a new section of your paper.  I don't even spell check until I'm done writing for the day.
+
+After you are tired of writing, go back to what you wrote the day before and edit that.
+
+Don't edit anything you wrote that day.  Edit something that you have to read fresh.  Edit something that you don't remember _exactly_ what you meant when you wrote it.  It helps to get you to approach the text like a reader will.
+
+At this point you are getting the idea that writing will take many days. By this time, I know almost all of you will not follow this advice.  
+
+That is the reason that faculty dread term papers. Students bang out a draft the night before, brag about pulling an all nighter, and then faculty then suffer through poor drafts.
+
+This is not to your advantage.  
+
+The usefulness of my comments is usually proportional to the effort you put into the paper.  If I spot a paper that clearly went from blank page to my inbox in under 24 hours, my comments are very generic and hardly specific to the topic.  They are often are just links back to guidance on how to write a literature review and some ego preserving comments about, 'clearly early work'.  
+
+There is little guidance I can give beyond this because there is so little there.
+
+Good papers, where it is clear that the source material has been read and thought has gone into the argument get the most help.  I edit the paper at the point.  I give missed references.  I clarify and correct your interpretation of statistics.  
+
+I may spend only ten minutes reading and commenting on poorly written paper but I'll spend an hour on a good one.
+
+It short, the less time you put into your paper before it gets to me, the less help you get from me, and the more work you have to do before the final draft.
+
+# What Does a Literture Review Look like?
+
+The easiest way to learn what is in a literature review is to look at some that have been published.  A quick google scholar search gives a long listing (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&as_vis=1&q=%22energy+economics%22+literature+review&btnG=).  
+
+You can, almost, take one at random.  Say for example Greening, Lorna A., David L. Greene, and Carmen Difiglio. "Energy efficiency and consumption—the rebound effect—a survey." Energy policy 28.6 (2000): 389-401 (http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0301421500000215).
+
+The paper has a solid outline.  It starts with an introduction to the problem and then starts discussion the typology of rebounds.  It is clear that while they were reading the papers they figured out that authors were using "rebound effect" differently and part of the difference in the conclusions was because they were using the same word for many different concepts.  They also noted that the authors were connecting "rebound effects" to other concepts in different ways.
+
+They were making the papers talk to each other about how their definitions and scope was different.  That is something you could not get from reading the individual papers.  That is what a literature review adds.
+
+The empirical evidence section is subdivided logically by end-use, e.g., space heating, and then provides tables summarizing how the data and analysis differ across papers.
+
+Table 1 summarizes method, sample size, effect size, and the existence of control group. Table two gives the years of data, effect size and the scope of data.   The tables are used to frame the discussion that follows.  A table alone is never sufficient.  It should be used to make the text clearer not a substitute for the text.  
+
+In each case they explain why the papers produced different empirical results and gave reasons for the similarities when they exist.
+
+You can see very similar patterns in the other literature reviews.
+
+The best summary of a good literature review is that it does not just explain what each paper said.  It has to teach something you wouldn't notice from just reading the papers one by one.  It has to provide the conversation between the authors.
+

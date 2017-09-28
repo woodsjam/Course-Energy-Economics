@@ -1,0 +1,110 @@
+---
+title: "Intro To Coal"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# What is Coal?
+
++ Start with boggy land.
++ The decaying plants turn into peat.
++ The peat gets burried
++ Over  time, millions of years, turns into coal.
++ More time and more pressure (most of the time deeper), better coal.
+
+Better means higher carbon content and BTU/lb
+
+
+# What are the Kinds of Coal?
+
+In general, the deeper the coal the older it is and the more likely it is higher quality. The names vary by country and the number of grades (ranks) differs by country.
+
++ Anthracite: Highest quality
++ Bituminous
++ Sub-Bituminous
++ Lignite: Lowest quality
+
+# Coal is often separated into two major groups.
+
++ Metalurgical Coal: Expensive and almost pure carbon, used to make steel.  
+    + Coke, which is cooked coal, like charcoal is cooked wood, is  a frequent subsitute.
++ Steam Coal: Used in electricity production.
+    + "Steam Coal" is  different depending  on the country.
+    
+# Pictures: Peat
+
+![](https://static1.squarespace.com/static/55f2f390e4b07f7a5942082d/t/55f9d5a7e4b077743814a8a2/1442436526696/?format=1500w)
+
+# Pictures: Anthracite
+
+![](https://media1.britannica.com/eb-media/51/127751-004-97D5367E.jpg)
+
+# Pictures: Bituminous
+![](https://upload.wikimedia.org/wikipedia/commons/2/20/Coal_bituminous.jpg)
+
+# Pictures: Lignite
+![](http://geology.com/rocks/pictures/coal-lignite-380.jpg)
+
+
+# Heat Content, Sulfur, Carbon.
+
++ Heat content, kJ/kg or  BTU/lb in merican, varies a little bit within category.  
+    + 1 BTU = 1.055 kJ
+    + 1 BTU is enough to raises one lb of water 1 F.
+    + EIA swaps from BTU/ton to BTU/lb frequently.  
+    + (short) ton = 2000 lbs
++ Sulfer can vary widely but except for lignite is less than 1%.  This is a polutant.
++ Carbon content virtually defines the ranks.
+
+# The Numbers
+
+Type    | Carbon%   |BTU/ton    |
+-----   |-----      |-----      |
+Lignite |30%        |10K -15K   |
+Sub-Bituminous|40%  |16K -20K   |
+Bituminous| 50%-70% |22K -30K   |
+Anthracite| 90%+    | 28K+      |
+
+
+# Where do you find it in the US?
+
+# Where is it mined?
+
+# Underground Fires
+
++ Coal fires are a thing.  The most famous US fire is Centralia, which started in 1962.
++ The most famous world wide is Mt Wingen in  New South Wales, which has been buring for 6,000 years.
++ There are a few thousand burning at any given moment.
+    + Besides CO2 and SOX
+    + Mercury
+
+# How is it transported?
+
+# Why coal?
+
+Historical point of view:
++ Coal burns hotter than wood, but so does charcoal.
++ Coal (anthrocite) burns with less ash and smoke than wood, but so does charcoal.
++ Charcoal requires a lot of wood to make.
+
+
+# Metalurgical Uses
+
+# Household heating
+
+# Steam Power
+
+# Electrical Generation
+
+# US Production
+
+# BLM and Leases
+
+# Price and Production History
+
+# Exports
+
+
