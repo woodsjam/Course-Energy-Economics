@@ -43,6 +43,7 @@ In summary, the bibliography lets you see what led up to the paper, and google s
 ## Read and Make Notes
 
 Start reading the articles. I don't mean a deep reading.  Use the multi-pass process that I described in class:
+
 + Read the title and abstract
 + Read the section headings
 + Read the introduction
@@ -70,6 +71,7 @@ Once you read enough, you can start to put together a thesis and actually constr
 # Starting on the Paper
 
 The step-by-step process in the syllabus is a good model for how to write a literature review.
+
 + Abstract
 + Bibliography
 + Annotated Bibliography
