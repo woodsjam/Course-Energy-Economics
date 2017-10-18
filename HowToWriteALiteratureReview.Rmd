@@ -111,7 +111,7 @@ The important part is categorizing the papers according to your argument, pullin
 
 ## Write
 
-Just write.  Somewhere down the line you developed a system for getting writing done.  If you are lucky, it is a good system, if not, you have to change it.
+Just write.  Somewhere down the line you developed a system for getting writing done.  If you are lucky, it is a good system, if not, you have to change it.    
 
 I usually start with a rough outline then add in graphics, tables, and data analysis.  I then add a bunch of details to the the outline, and, once that feels reasonable, start adding paragraphs.
 

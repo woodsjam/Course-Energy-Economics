@@ -5,8 +5,6 @@ date: ""
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
@@ -16,7 +14,9 @@ The official description of the course is:
 
 > Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
 
-<!-- Since I am teaching this course for the first time, there will be changes from previous terms and I will be making official changes in description and prerequisites during the year.   -->
+<!-- Since I am teaching this course for the first time, there
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE) will be changes from previous terms and I will be making official changes in description and prerequisites during the year.   -->
 
 This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity and natural gas.  The order of the courses has changed to reflect the evolving nature of the field.
 

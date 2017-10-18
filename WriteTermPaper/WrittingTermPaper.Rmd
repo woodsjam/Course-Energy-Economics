@@ -1,0 +1,214 @@
+---
+title: "The Term Paper"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Yes there is a term paper
+
++ For most of you, this is a literature review.
++ You may, work in a team of three if you are doing an empirical paper.
+    + This means data handling a regressions.
+    + I don't recommend this unless you have taken two terms of econometrics.
+    
+# What is a Literature Review
+
++ Part of every research paper
+    + Provides the setting
+    + Shows how the paper fits in with existing literature
++ Can also be a stand alone paper
+    + Never a paper by paper recitation
+    + Make the papers talk to each other.
+
+
+Main purpose is to draw connections between publications that may not be obvious from reading them individually.
+    
+# These are Suggestions
+
++ There are many approaches to writing your literature review term paper.
++ This is _a_ recommendation.
+
+
+# Start with a seed paper
+
++ Start with a paper you like.
++ The paper should come from one of the Energy Economics oriented journals listed on the syllabus or one of the general interest economics journals.
++ If your paper is not from one of those journals
+    + Your paper may be engineering or business but not economics.
+    + Your paper may not be economics
+
+Think of the paper as a seed.  Your are going to grow a literature review from that paper.
+
+# Mine the bibliography
+
++ Every paper comes with a literature review and bibliography
++ Look at the literature review
+    + They cited similar papers to establish how the paper fits in the literature.
+    + Grab what you need.
+    + Ignore the general references, e.g., this is how you add two numbers together.
+    
+You now have  a few more papers to read on the same topic.
+    
+# Find out What People Thought of the Paper After
+
++ People will read your seed paper and write new ones.
++ They will then include it in a literature review
++ Look the paper up on Google scholar (https://scholar.google.com) and find out who cited your seed paper.
++ Choose some of those papers to read.
+
+You now have even more papers to read.
+
+# Read and Make Notes
+
+These are not all the papers you will read, but it will get you started.
+
+Use the multi-step process:
+
++ Read the title and abstract
++ Read the section headings
++ Read the introduction
++ Read the conclusion
++ Look at the figures
++ Look at the equations
++ Skim the whole thing
++ Read it but don't freak out if you don't get everything.
+    + Keep notes on your reactions, how the topic connects back and questions (My personal notes on papers are filled with profanity)
+    + Repeat as time allows.
+
+
+# While Reading Take Notes
+
++ How are key terms are defined?
++ What are some key statistics?
++ Keep an eye out for good quotes.
++ Analyze the papers a bit.  Some are better than others and make notes on why the good ones are good and the bad ones are bad.
++ Look for trends over time on how a topic is treated.  
++ Look for a hole in the literature.  Is there a topic that has been missed?  That would be a great motivation for a later original contribution to the literature.
+
+# You will Notice Patterns
+
++ Could be a chronological pattern, how people think of a topic changes over time.
++ Could break into schools of though, fresh water vs salt water.
++ Technique, regression or simulation, etc.
++ Pro vs con
+
+# Writting a Paper is a Process
+
+After high school, you don't just write a paper in one night, in one draft.  That said, we see a lot of those.
+
++ Break the habit.
++ It will work for a while, but the inability to manage a project that take more than a few days will limit you in life.
+
+
+# The Process
+
++ Abstract
++ Bibliography
++ Annotated Bibliography
++ First Draft
++ ...
++ Final Draft.
+
+# The Abstract
+
+Revised many times before the final draft
+
++ Start with one
++ Make sure your topic is not too big for a paper.
++ Get Narrow
+
+Undergraduates try to write very short papers about very broad topics and end up with a very poor product.
+ 
+# Bibliography
+
+Out of the papers you have read, pick the ones you want to use.
+
++ If your answer is "all them", you have not read enough.  Go back and read some more.
++ The sole exception to this rule is if you doing a meta-analysis, which treats a literature statistically.
+
+# Annotated Bibliography
+
+A brief descriptive and evaluative statement about each article and indication of how you will use it.
+
++ Typically not in citation order
++ Organized according to how you will use them in an argument. For example, 
+    + Statistics
+    + European vs American vs Latin American perspectives
++ Categorize by your argument.
+
+The annotated bibliography is basically your first outline of the paper.
+
+# Write
+
++ If you have a system that works use it.
++ If you think your system works, question it.
+    + Some of your system are very high school.
+    + They kinda work
+    + Microwaving a burrito will get you dinner, but hardly constitutes cooking or an effective lifestyle.
+    
+# A suggestion
+
+I start with a rough outline and then:
+
++ Add graphics, tables and data analysis
++ Add a bunch of details to the outline
++ Start adding paragraphs
+
+Just write:
+
++ Don't have to write in order.
++ Do not make it perfect
++ Write
++ If every other sentence is readable -- great.
++ Write every day.
+
+# Editing
+
++ Don't edit till you are done writing for the day.
++ Edit what you wrote the day before.
+    + Helps make it more readable.
+    + Puts you in the readers' shoes.
+    
+# Faculty Perspectives
+
++ We don't hate term papers because we are lazy.
++ We hate them because we get high school quality and high school effort work.
++ Faculty comments are
+    + More useful the more effort you put in.
+    + I'll spend a few hours on a good paper, making comments, finding new references that fit the topic.
+    + Poor papers will only get general, basically copy and paste, comments.
+    
+A hurried, night before, draft paper will set you behind since you will get less help  from me.
+
+# Translating Faculty Comments
+
++ "Clearly Early Work" = Bet you started this last night.
++ "Watch your citations" = Not sure if you were never taught how to cite or were attempting to plagiarize.
++ "Nice!" = Seriously, I didn't think of that and am impressed.
++ "Tell me more" = "Expand" = I have no idea what you are saying because you were so brief. 
+
+Many of us have gotten so cynical, we assume the worst but we try not to let on.
+
+
+# A literature Review Chosen at Random
+
+Greening, Lorna A., David L. Greene, and Carmen Difiglio. "Energy efficiency and consumption—the rebound effect—a survey." Energy policy 28.6 (2000): 389-401 (http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0301421500000215)
+
+# Comments
+
+Solid outline
+
++ Typology of rebounds
++ "Rebound effect" used differently across papers
++ Discussed how definitions and scope are different across papers -- made them talk to each other.
++ Organized literature review by end-use.
++ Nice use of tables to summarize differences.
+
+# In the end
+
+Teach me something I would not have noticed by reading the individual papers.
+
+
+
