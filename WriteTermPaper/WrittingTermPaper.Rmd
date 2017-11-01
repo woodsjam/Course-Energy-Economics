@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 + For most of you, this is a literature review.
 + You may, work in a team of three if you are doing an empirical paper.
-    + This means data handling a regressions.
+    + This means data handling and regressions.
     + I don't recommend this unless you have taken two terms of econometrics.
     
 # What is a Literature Review
@@ -37,7 +37,7 @@ Main purpose is to draw connections between publications that may not be obvious
 + The paper should come from one of the Energy Economics oriented journals listed on the syllabus or one of the general interest economics journals.
 + If your paper is not from one of those journals
     + Your paper may be engineering or business but not economics.
-    + Your paper may not be economics
+    + Your paper may not be energy
 
 Think of the paper as a seed.  Your are going to grow a literature review from that paper.
 
@@ -210,5 +210,9 @@ Solid outline
 
 Teach me something I would not have noticed by reading the individual papers.
 
+# Action
+
++ Schedule Bibliography discussion times.
++ Give me your seed paper.
 
 
