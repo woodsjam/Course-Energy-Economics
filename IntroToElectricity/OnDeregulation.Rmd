@@ -214,4 +214,16 @@ Low income households would see bills roughly double in that system.
 + More variable renewable (Solar and Wind) will make MC real-time prices more variable.
 
 # About those rooftop PV systems
+
++ Most operate under net metering rules.
+    + Run the meter backwards when generation is greater than use.
+    + Popular in average cost areas with increasing block tariffs.
++ Borenstein (2015) https://pdfs.semanticscholar.org/2994/e6255314c3011f5ae90b8788af85e18d7777.pdf
+    + CA installations were usually by those with very high consumption in expensive tiers.
+    + Installations were targeted to move  down to lower tiers.
+    + Bill savings were double avoided cost, i.e., marginal cost, of $0.10 kWh.
+    
+In short, lots of installations because of AC pricing rather than MC pricing.
+
+    
     

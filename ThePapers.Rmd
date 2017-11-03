@@ -1,27 +1,37 @@
 ---
-title: "Matching Papers and Reviewers"
+title: "Papers, Reviewers, and Presentation Dates"
 output:
   pdf_document: default
 ---
+Keep in mind that the presentations should be a little on the ugly side.  Focus on where you are and what you need help on.
 
-# The Papers
+Reviewers should be watching the papers and the annotated bibliographies closely.  Remember that a good reviewer will probably give the author some references they missed.  The key is to be both critical and helpful.
+
 
 + Cody -- How energy efficient is rental housing and the appliances they use?  Lots of data handling of the RECS data.  Some econometrics or t-tests depending on approach.
-
-\vspace{1 in}
+    + Reviewer: Kyle
+    + Presentation: Nov 15th
 
 + Barbara  -- Earthquakes and natural gas.  Depending on some phone calls, may turn into learning about REMI and finding other regional economic models of natural disaster interruption of natural gas.  Intuition says they have does this for Portland.
-
-\vspace{1 in}
+    + Reviewer: Victoria
+    + Presentation: Nov 13th
 
 + Kyle  -- Rural electrification in India.  Will focus on wood but really looking at reliability trade offs.
-\vspace{1 in}
+    + Reviewer: Joshua
+    + Presentation: Nov 15th
 
 + Victoria -- Environmental Kuznets curve.  As income increases, environment gets worse then better.  Does not always happen that way. Usually works with cute and visible.
-\vspace{1 in}
+    + Reviewer: Barbara
+    + Presentation: Nov 13th
 
 + Hannah -- How to deal with the duck curve?  Probably deal with RTO/ISO operations with focus not on load or peak load but ramping rates.
-\vspace{1 in}
+    + Reviewer: Matt
+    + Presentation: Nov 15th
 
 + Jason -- Meta-analysis of the costs of green mining technology.  Costs are all over the map.  Classic motivation for meta-analysis.
- 
+    + Reviewer: Cody
+    + Presentation: Nov 6th
+
++ Matt -- China's transition to renewable
+    + Reviewer: Hannah
+    + Presentation: Nov 8th
