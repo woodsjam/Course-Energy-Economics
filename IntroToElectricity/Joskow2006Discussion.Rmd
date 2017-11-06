@@ -40,4 +40,29 @@ https://www.ferc.gov/CalendarFiles/20050719123006-RM01-12-000.pdf
 + This is a nice discussion of how the parts work together.
 
 
+# Retail Prices
+
+# Specification
+
+![](MetricsSpec1.PNG)
+
+# Variables
+
+![](MetricsSpec2.PNG)
+
+# Residential 
+
+![](PreResults.PNG)
+
+# Residential
+
+![](PostResults.PNG)
+
+# Industrial
+
+![](IndustrialPre.PNG)
+
+# Industrial
+
+![](IndustrialPost.PNG)
 
