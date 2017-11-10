@@ -1,0 +1,36 @@
+---
+title: "Feed-In Tarrifs"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Discussion of
+
+Couture, Toby, and Yves Gagnon. "An analysis of feed-in tariff remuneration models: Implications for renewable energy investment." Energy policy 38.2 (2010): 955-965
+
+#
+
+![](FixedPriceFIT.PNG)
+
+#
+
+![](FixedPriceInflationFIT.PNG)
+
+#
+
+![](FrontLoadedFIT.PNG)
+
+#
+![](SpotMarketGapFIT.PNG)
+
+#
+![](PremPriceFIT.PNG)
+
+#
+![](PremiumFIT.PNG)
+
+#
+![](PercentRetailFIT.PNG)
