@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Oil"
 author: "James Woods"
-date: "November 1, 2016"
+date: ""
 output: beamer_presentation
 ---
 
@@ -55,7 +55,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + Shale oil with limited transportation means WTI tends to be lower by a few dollars.
     + Will likely change
         + More pipelines
-        + Recent repeal of _mostly_ prohibited export of crude.
+        + Recent (2016) repeal of _mostly_ prohibited export of crude.
 
 + There are smaller price points by city and region
 + Many are specified as blends of typical out put of various regions.
@@ -98,11 +98,11 @@ knitr::opts_chunk$set(echo = FALSE)
     
 + We hold massive inventories of oil and gas
     + https://www.eia.gov/petroleum/supply/weekly/pdf/table1.pdf
-        + Domestic production 8.504 MMbd
-        + Imports 6.601 MMbd
+        + Domestic production 9.645 MMbd
+        + Imports 6.796 MMbd
     + Inventory
-        + Crude 1,162.2 MMb, about 77 days of inventory
-        + Gasoline 226 MMb at 9 MMbd or 25 days of inventory
+        + Crude 1,128.2 MMb, about 116 days of inventory
+        + Gasoline 210.4 MMb at 9 MMbd or 24 days of inventory
 
 ## Textbook focues on Monopoloy models and Anti-trust
   
@@ -114,7 +114,7 @@ knitr::opts_chunk$set(echo = FALSE)
       + When there were a few international cartels, yes
   + The political models of OPEC are also good for a few limited time periods
   
-## The Paper Focuses on some inventory aguments
+## Smith, James L.. (2009) Focuses on some inventory aguments
 
 + There is a strong desire to hold inventories of oil.
 + The size of inventories depends on expectations about
@@ -146,7 +146,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 + Adaptive Expectations: Make guesses based on the past
 
-+ Paper adds the idea of Who's expectations because how they form expectations is different.
++ Smith, (2009) adds the idea of Who's expectations because how they form expectations is different.
 
 ## VARs Vector Auto Regressions 
 
@@ -201,6 +201,7 @@ Use:
 
 
 ## The 1973/74 Oil Crisis
+
 + Timing and location does not work for war driven supply shock.
 + Prices received by governments was fixed in the 1971 Tehran/Tripoli agreements
     + Inflation hits and real prices are low
@@ -228,7 +229,7 @@ Use:
 + Two shocks
     + Commodity demand increase (2/3 increase)
     + Expectation shock (1/3 increase)
-        + If a disruption can happen in Iran then it can happen anywhere.
+        + If a disruption can happen in Iran, then it can happen anywhere.
         + Explore more
         + Increase Inventory
 
