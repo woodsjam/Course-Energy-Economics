@@ -149,7 +149,7 @@ We are trying to do cap and trade with a collar but there are complications:
 # Current State of Affairs
 
 + There is a placeholder bill from the 2017 session SB 1070 "Cap and Invest" (https://olis.leg.state.or.us/liz/2017R1/Measures/Overview/SB1070)
-+ They have been holding workgroups to explore the ideas and get feedback (https://www.oregonlegislature.gov/helm/Pages/clean-energy.aspx)
++ They have been holding work groups to explore the ideas and get feedback (https://www.oregonlegislature.gov/helm/Pages/clean-energy.aspx)
     + Meeting material and video online.
     + If you have the time watch the videos
         + "Steakholder" group with a few experts thrown in
@@ -160,7 +160,7 @@ We are trying to do cap and trade with a collar but there are complications:
 
 # Major Questions
 
-+ What goeslegislation and what is rule making?
++ What goes in legislation and what is rule making?
 
 # Wait...Rule making?
 
@@ -263,7 +263,7 @@ The intent is to require allowances for:
 + Motor Vehicle Fuel
 + Point  sources more than 20kT $CO_2$
 
-Note that aggriculture and Forrestry are not connected to this system. A firm level list is on p. 69 (http://www.oregon.gov/deq/FilterDocs/ghgmarketstudy.pdf)  
+Note that agriculture and Forestry are not connected to this system. A firm level list is on p. 69 (http://www.oregon.gov/deq/FilterDocs/ghgmarketstudy.pdf)  
 
 # Point of Regulation
 
@@ -281,11 +281,11 @@ Key Needs:
 + Must cover out of purchases
 + Must cover in-state IOU generation
 
-Complicatons:
+Complications:
 
 + Some generation is gas fired (Avoid double counting)
 + Out of state purchases must not run afoul of the commerce clause (Interstate trade is Federal)
-+ Cogen?
++ Co-gen?
 + Bonneville Power Administration (Federal) is a balancing authority
 + Wheeling (Generated out of state, passing through but to elsewhere.)
 
@@ -305,7 +305,7 @@ Complications:
 + Pipelines (https://www.eia.gov/state/maps.php?v=Petroleum) 
 + Trucking
 
-Complicatons:
+Complications:
 
 + Dyed (untaxed diesel)
 + Oregon Constitution requires use of "Fuel taxes" on highways.
@@ -313,6 +313,7 @@ Complicatons:
 # Point of Regulation Other
 
 Mish mash of:
+
 + Concrete
 + Chemicals
 + Landfill
@@ -323,7 +324,7 @@ This is hard
 
 Compound concept
 
-+ Businesses leaving regulated area to produce same GHG emissons outside cap and trade area.
++ Businesses leaving regulated area to produce same GHG emissions outside cap and trade area.
 + Shifting contracts so lower carbon is counted in Oregon and higher carbon is counted elsewhere.
 + Washing the source of emissions.
 
@@ -336,13 +337,13 @@ Complications:
 
 + GHG allowances are one price, we could be low on others.
 + Current thought is to do this based on NAICS codes
-+ Or, individuals but renormed/assessed periodicatlly
++ Or, individuals but renormed/assessed periodically
 
-Problem goes away with greater coverage of cap and trade accross states.
+Problem goes away with greater coverage of cap and trade across states.
 
 # Shifting Contracts (Mostly Electricity)
 
-Remember that electricty comes from everywhere.  Electrons are not 'green' and 'brown', but contracts are.
+Remember that electricity comes from everywhere.  Electrons are not 'green' and 'brown', but contracts are.
 
 Example:
 
@@ -403,7 +404,7 @@ Note that this is risk free.
 
 + Both are expensive
     + IOUs have purchased new generation and long-term contracts
-    + These costs are already imbedded in utility rates.
+    + These costs are already embedded in utility rates.
 
 Would you have committed to natural gas if you knew cap and trade was on the way?
 
@@ -414,16 +415,17 @@ Would you have committed to natural gas if you knew cap and trade was on the way
     + Easy
 + Give them credit for reductions:
     + Give them an allowance credit -- every year -- for the the difference between coal generation and natural gas.
-    + Give them allowance credit -- every year -- for the avoided $CO_2$ emmissions.
+    + Give them allowance credit -- every year -- for the avoided $CO_2$ emissions.
     + Real  coal phase-out and RPS.
+    + Similar to how going beyond  RPS is treated  now.
 
 # Two Phrases you missed: "Give Allowances", "Banking"
 
 + Banking
     + Ability to save allowances from one year and apply to another.
 
-+ How to distribute allowances is not guided by microeconomic theory
-    + Theory says it doesn't matter for price, with some caveates.
++ How to distribute allowances is not guided by microeconomics theory
+    + Theory says it doesn't matter for price, with some caveats.
     + How they are allocated determines who gets the benefits.
           + State sells all -- State gains
           + Given to utility --  utility shareholders/consumers gain.
@@ -443,11 +445,94 @@ Would you have committed to natural gas if you knew cap and trade was on the way
         + 10% less every year.
         + 1 T 2018 allowance is worth .9 T in 2019, .81 in 2020 ,...
 
-# Transition Considerations
-
 # Consignment, Free Allocations, Direct Expenditures
 
-# Related Reserves for High Costs
+There are a few ways to allocate ownership of "allocations" (Sorry about allocate being used two ways)
+
++ Free allocations: Given to those intended  to use the proceeds for their self interest.
+    + Current intent is for EITE industries
++ Sale by the state:  Used to generate revenue for the state
+    + Current for  majority of allowances.
++ Consignment: Given to a party so that the proceeds of the sale can be used to benefit others.
+    + Current for IOUs and LDCs for the benefit of  low-income household transition.
+
+# Theory:  Coase Theorem
+
++ If you can establish property rights on an externality (like cap and trade)
++ If transaction costs are small
++ The allocation of the rights don't matter, you will get an efficient, Pareto optimal, allocation.
+
+Pareto optimal means no one can be made better off without making someone else worse off.
+
+# Quick example
+
+Values:
+
++ Alice values quiet $5
++ Bob values throwing a party $8 (Parties are loud)
+
+Note that social welfare is maximized by throwing a party (\$8 gain to society vs \$5 gain for no party)
+
+# There is a right to Quiet
+
++ Bob still wants a party.
++ Bob offers Alice money, up to $8, to be able to throw a party.
++ Alice accepts, $5.
+
+Summary:
+
++ Alice does not get quiet but gets \$5 for a net of \$0
++ Bob gets a party and gets benefits of \$8 for the party less the \$5 to Alice or \$3.
+
+Note:  Party is socially optimal.
+
+# There is a right to Party
+
++ Alice offers Bob $5 to not have a party.
++ Bob does not accept and throws a party.
+
+Summary:
+
++ Alice does not get quiet and has net welfare of \$0.
++ Bob gets a party and has net welfare of \$8.
+
+Note: Party is socially optimal.
+
+#  Summary
+
++ The allocation of property rights (Party or Quiet) does not matter for what happens -- a party is thrown.
++ What matters is the allocation of the benefits.
+    + Right to quiet:  Alice $0, Bob $3, Party
+    + Right to party:  Alice $0, Bob $8, Party
++ If trade is not allowed:
+    + Right to quiet:  Alice $5, Bob $0, No party
+    + Right to party:  Alice $0, Bob $8, Party    
+
+
+# Could there be a problem with market power?
+
++ Is there a problem with giving allowances to large emitters?
++ Is there a problem with consignment?
+
+# Answer: It depends.
+
+Key question:  Can those that receive a lot of free allowances leverage market power in either the product or allowance market, to produce market power in the other?
+
+Keep in mind, this is why CA wanted to make sure they connected to other states -- they were afraid of the exercise of market power.
+
+# There are regulatory policies that can help
+
++ Anti-fraud and manipulation requirements: 17 CFR 36.6 has regs that can help.
++ Full access to trades
++ Frequent, daily, reporting of transactions prices and volumes
++ Connecting to the Chicago Climate Futures Exchange like CA will also put trades under greater scrutiny.
++ Regularly reporting emissions.
+
+
+JUST PUT IT IN THE RULES:  No colluding.
+
+# Transition Considerations
+
 
 # What the Markets Look Like
 
@@ -480,8 +565,6 @@ Little action because the price of allowances are not high.  On the floor.
 # The Offset Markets and Clawback
 
 # California's Offset Reduction
-
-
 
 + Allowance allocation
 
