@@ -1,26 +1,15 @@
 ---
 title: "Traditional Oil"
 author: "James Woods"
-date: "November 7, 2016"
+date: ""
 output: beamer_presentation
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Next Topic
 
-+ Financial Markets. Black-Scholes and the odd products that are available with electricity and oil.
-+ Intro to Externalities and Public Goods.  Carbon taxes, cap and trade and renewable portfolio standards.
-+ Natural Gas Outside the US.  Reading in syllabus is minimal but will expand.
-+ Price Controls and Subsidies (Not Carbon Taxes and Implicit Subsidies).  Reading in syllabus is minimal but will expand.
-+ Market Monitoring.  EIA reports and the possibility of reading through the Enron scandal in the Fortnightly.
-+ Hotelling's Rule and Dynamic Extraction.
-+ Supply and Cost Curves.  Book has a lot of present value calculations and will give some of the how to on creating the levelized cost estimates.
-+ Energy Demand.  My favorite topic.  This includes energy efficiency.
-+ Distributed Generation.  Lots of dockets in NY about this as well as the reactions of Hawaii to massive rooftop solar.
-
-## Last Week
+## Last Lecture
 
 + We looked at the changes in oil prices from the point of view of a more competitive model with expectations and inventory demand driving changes.
 + Has an Occam's razor advantage over the monopoly models commonly offered.

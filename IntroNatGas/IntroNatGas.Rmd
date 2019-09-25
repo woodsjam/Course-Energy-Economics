@@ -10,25 +10,25 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Where is it produced? Just conventional
-![](http://dualstack.prod-http-80-test-412114078.us-east-1.elb.amazonaws.com/w/images/1/13/EIA-conventional-gas.pdf)
+![](https://www.lib.utexas.edu/maps/united_states/us_gas_production_in_conventional_fields-2009.jpg)
 
 ## More in the shale areas.
-![](https://www.eia.gov/todayinenergy/images/2015.04.17/main.png)
+![](https://www.eia.gov/maps/images/shale_gas_lower48.jpg)
 
 ## Fracking Well. Will see with oil well with associated gas
 
-![](http://geology.com/research/images/gas-well-rig.jpg)
+![](https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2012/06/12/47784444-Nat-gas-fracking-the-well.jpg)
 
-## How do you move it within the US? Pipelines (Interstate only).
-![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/dependstates.gif)
+## How do you move it within the US? Pipelines.
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/47/Natural_gas_pipelines_map.png)
 
 ## What about those pipelines?
 + There are more intrastate pipelines than shown, plenty in TX and CA but also other states
-+ Read more here https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/transcorr.html
-    + Picture pipes ranging from a foot to three+ feet for trunk lines.
-    + Compressor stations every 50-100 miles, ~1,500 total
-    + 200 psi to 1,500 depending
-+ They are privately owned https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/MajorInterstatesTable.html
++ Picture pipes ranging from a foot to three+ feet for trunk lines.
++ Compressor stations every 50-100 miles, ~1,500 total
++ 200 psi to 1,500 depending
++ They are privately owned 
     + Open access, posted prices, is a thing.
     + For intrastate, within, state PUC regulate
     + For interstate, FERC regulates (You can find current Tariffs at http://etariff.ferc.gov/TariffList.aspx)
@@ -58,11 +58,12 @@ There is a weekly report on storage by EIA http://www.eia.gov/dnav/ng/hist/nw2_e
 
 
 ## Hubs, where transactions are made
-![](https://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/images/MarketCenterHubsMap.gif)
+
+![](MarketCenterHubsMap.gif) 
 
 ## Part of Henry Hub LA
 
-![](http://www.2b1stconsulting.com/wp-content/uploads/2012/05/Henry-Hub-Picture.jpg)
+![](PartHH.PNG)
 
 ## Getting to Prices
 + You will see wellhead prices, but
@@ -131,19 +132,3 @@ Minimizing Transaction Cost often means vertically integrating:
   + Information is contained in prices
   + There are a lot of prices
   + Complex trading floor operations to control cost and risk.
-
-## Question 1
-
-Give a quick overview of the arguments in this paper.
-
-
-Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. http://www.sciencedirect.com/science/article/pii/S104061901630121X
-
-
-## Question 2
-
-Give a quick overview of the arguments in this paper.
-
-
-Joskow, Paul L.. 2013. "Natural Gas: From Shortages to Abundance in the United States." American Economic Review, 103(3): 338-43. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.338
-

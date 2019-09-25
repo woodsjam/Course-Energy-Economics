@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Oil"
 author: "James Woods"
-date: "November 1, 2016"
+date: ""
 output: beamer_presentation
 ---
 
@@ -12,8 +12,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Oil is for Cars
 
 + Keep in mind that oil is primarily a transportation fuel.
-    + Yes, some diesel and even crude is used for electricity production (5%), but
+    + Yes, some diesel and bunker oil is used for electricity production (5%), but
     + mostly we make gasoline and other commodities out of it.
+
++ Two common measurements
+    + US 42 gallon barrels when speaking to a merican or reporting numbers to them.
+    + Elsewhere you talk about cubic meters
+    + You will also see metric ton measurements in some areas.
+    + Note this is two volume and one mass measurement and densities are not uniform.
+
++ Barrel is abbreviated bbl
+    + Mbbl is thousand barrels not a million (Breaks the metric code)
+    + MMbbl is million barrels.
+    + Mbd is million barrels a day but so is MMbbl/day
 
 
 ## Oil is not a uniform commodity
@@ -44,16 +55,27 @@ knitr::opts_chunk$set(echo = FALSE)
     + Shale oil with limited transportation means WTI tends to be lower by a few dollars.
     + Will likely change
         + More pipelines
-        + Repeal of _mostly_ prohibited export of crude.
+        + Recent (2016) repeal of _mostly_ prohibited export of crude.
 
 + There are smaller price points by city and region
 + Many are specified as blends of typical out put of various regions.
 
+## The Ban and Repeal
+
++ Banned most exports of crude oil in 1975 as reaction to OPEC.
++ Could still export products, e.g., gasoline.
++ Problems
+    + The US is huge.
+    + Not always an easy way to get crude to refiners within the country.
+    + AK refineries have 270K BBL day capacity about the same as one refiner in CA.
+    + Refiners specialized in heavier sour oil.
+    + Fracking produces ligher oil but you couldn't export it
++ As of 2016 we export.
 
 ## Location
 
 + Refineries are tuned to a specific kind of oil
-    + If density or sulfur changes too much they have to remodel or variable suffer a cost hit.
+    + If density or sulfur changes too much they have to change and that costs
 + Oil in new areas needs transport
     + Truck
     + Rail
@@ -76,11 +98,11 @@ knitr::opts_chunk$set(echo = FALSE)
     
 + We hold massive inventories of oil and gas
     + https://www.eia.gov/petroleum/supply/weekly/pdf/table1.pdf
-        + Domestic production 8.504 MMbd
-        + Imports 6.601 MMbd
+        + Domestic production 9.645 MMbd
+        + Imports 6.796 MMbd
     + Inventory
-        + Crude 1,162.2 MMb, about 77 days of inventory
-        + Gasoline 226 MMb at 9 MMbd or 25 days of inventory
+        + Crude 1,128.2 MMb, about 116 days of inventory
+        + Gasoline 210.4 MMb at 9 MMbd or 24 days of inventory
 
 ## Textbook focues on Monopoloy models and Anti-trust
   
@@ -92,7 +114,7 @@ knitr::opts_chunk$set(echo = FALSE)
       + When there were a few international cartels, yes
   + The political models of OPEC are also good for a few limited time periods
   
-## The Paper Focuses on some inventory aguments
+## Smith, James L.. (2009) Focuses on some inventory aguments
 
 + There is a strong desire to hold inventories of oil.
 + The size of inventories depends on expectations about
@@ -124,7 +146,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 + Adaptive Expectations: Make guesses based on the past
 
-+ Paper adds the idea of Who's expectations because how they form expectations is different.
++ Smith, (2009) adds the idea of Who's expectations because how they form expectations is different.
 
 ## VARs Vector Auto Regressions 
 
@@ -179,6 +201,7 @@ Use:
 
 
 ## The 1973/74 Oil Crisis
+
 + Timing and location does not work for war driven supply shock.
 + Prices received by governments was fixed in the 1971 Tehran/Tripoli agreements
     + Inflation hits and real prices are low
@@ -206,7 +229,7 @@ Use:
 + Two shocks
     + Commodity demand increase (2/3 increase)
     + Expectation shock (1/3 increase)
-        + If a disruption can happen in Iran then it can happen anywhere.
+        + If a disruption can happen in Iran, then it can happen anywhere.
         + Explore more
         + Increase Inventory
 
@@ -252,7 +275,3 @@ Use:
     + $16 because of shale boom
     + $9 Storage (expectation) shock.
     
-## We Will Talk about the Monopoly Power Perspectives on Monday
-
-+ Read Dahl Ch 7 
-+ Vote on a topic to work on on top of the papers and presentations.

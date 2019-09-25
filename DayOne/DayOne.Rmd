@@ -1,0 +1,140 @@
+---
+title: "Introduction"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Note on Class Slides
+
++ They are intended to go along with what I say, they are not a substitute.
++ I don't do pretty
++ I don't do fancy
++ There are always typos.
+
+# Energy Economics
+
+Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
+
++ We will be looking at energy markets specifically at the start of class but some of the more interesting topic are in the "consequences of production and use"
+    + Is Fracking a "resource curse"?
+    + Does development of wind resources have an effect on real estate prices?
++ The field has a mix of:
+    + Powerful econometrics
+    + Microeconomic theory
+    
+We will be tuning the class to your level of expertise and filling in the blanks as we go.
+
+# Where I am coming from
+
++ Started in energy at the California Energy Commission back in the mid 90s.
+    + Transportation energy use, choice, and simulation
+    + Market transformation
+    + Feebates
++ Energy efficiency evaluation
++ Conservation behavior
+
+In short, I come from the consumption side, not the production side.
+
+# Where can you take this knowledge
+
++ Energy Efficiency evaluation 
+    + Plenty of local firms do this (Many former students)
+    + Energy Trust (A few here)
++ Utilities
+    + Northwest Natural 
+    + PGE, Pacificorp
++ Government
+    + Oregon department of energy
+    + Many opportunities as Cap and Trade takes off
++ Other For Profit
+    + Anything related to home automation.
+    + Use off high frequency meter data.
++ Non-profit
+    + Plenty but Carbon  Offset certification and evaluation is a growing industry.
+    
+# Warnings
+
++ I'm Dyslexic.  If you see a slide without a typo -- be amazed.
++ Don't think that you have to understand everything
+    + You should read everything.
+    + I usually read things over and over again and learn new things every time.
+    + If you understand half -- amazing.
+    + The more you read, the easier it is to learn more.  It really builds on itself.
++ Don't be afraid to Google a picture or an article to help you understanding something in class.
+    + You need to learn how to help yourself.
+    + Learned helplessness is a pet peeve of  mine.
++ Do not wait till the last minute  
+    + Don't make an optimistic, tightly scheduled plans.
+    + No plan survives contact with reality
+    + Start everything as early as possible.
+
+# Look at Course Requirements and the Syllabus
+
+A few things of note
+
++ There is a term paper and homework but no exam.
++ Presentations
++ My contention is that if you are good with theoretical models, empirical models or explaining them to others, you are employable.
+    + The last one is frequently forgotten.
+    + They are often the highest fliers in the industry.
++ I will be adding significant material on Cap and Trade
+    + Workshops in the Oregon legislature are going on right now.
+    + Prepping a bill for the 2018 session.
+
+# Lets see where you are
+
+Time to take the pre-test.
+
++ Does not count for your grade
++ Don't freak out if you can't do all of it.
++ You should be able to do at least one.
++ Just taking a class and getting an A does not mean you remember or can use the skills.
+
+I'm trying to sort out how to dial in lecture and where I need to add skills.  
+
+# Reading for Wednesday
+
+Read Dahl Ch 1-2.  It is about 40 pages.
+
+DON'T PANIC
+
+# How to Read Academic Papers
+
+It is a multipass system.
+
++ Read the Title and abstract (Papers)
++ Read the section headings
++ Read the introduction
++ Read the conclusion
++ Look at the figures
++ Look at the equations
++ Skim the whole thing
++ Read it but don't freak out if you don't get everything.
+    + Keep notes on your reactions, how the topic connects back and questions (My personal notes on papers are filled with profanity)
+    + Repeat as time allows.
+
+You, and the author, will never fully understand the paper/chapter.
+
+# Wednesday and Monday
+
++ There is a homework due on Monday.
++ Wednesday I will have a lecture on :
+    + The last part of chapter 2 on modeling, i.e., the topic of the homework.
+    + IV estimation an option on the homework.
++ We will reserve some time to peak at the papers you found for the Homework.
+    + Hint: This is like a marshmallow test for procrastination.
+
+# Monday's Homework
+
++ Take a look 
++ Pick a paper, the linked journals in the syllabus are a good source.
++ Pick something that interests you.
++ Make a bare bones presentation.  Don't get fancy
+    + You can use a piece of paper on the overhead
+    + You can chalk and talk with a handout
+    + If you spend more time on formatting than content, you did it wrong.
+
+# Questions    
