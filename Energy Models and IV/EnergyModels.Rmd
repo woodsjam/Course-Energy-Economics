@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + Cram a line though the data.
   
   
-```{r Trend, echo=FALSE, message=FALSE,fig.width=6, fig.height=4}
+```{r Trend, echo=FALSE, message=FALSE,fig.width=5, fig.height=3,warning=FALSE}
 library(dplyr)
 Coal <- read.csv("https://www.eia.gov/totalenergy/data/browser/csv.cfm?tbl=T06.01")
 CoalProduction <- Coal %>% filter(MSN == "CLPRPUS") 
@@ -134,6 +134,18 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
     
 + Ask for another guess.
 + Report the new distribution or repeat if desired.
+
+# Bayesian Truth Serum
+
+This works best with multiple choice questions
+
+The idea is that if you hold a particular belief, you are more likely to think that others agree.
+
+
++ Ask each person what they think is most likely.
++ Ask them about what others think -- the probability distribution.
++ Do some Bayes law majik.
+
 
 
 # Scenario Planning

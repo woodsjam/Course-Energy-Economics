@@ -27,7 +27,7 @@ As with most economics courses, the more background you bring to the class, the 
 
 # Contact Information
 
-Communication will be handled through slack https://NAMEHERE.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://psuenergyecon.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
 Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
 
@@ -51,7 +51,7 @@ This text will be heavily supplemented with material from the Energy Information
 
 # Assessments and Grade Policy
 
-This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing and analysis, presentations by teams of student researchers and several referee reports. Nearly all work product will be made public to the class, though your grade will not.
+This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing and analysis, presentations by teams of student researchers. Nearly all work product will be made public to the class, though your grade will not.
 
 + Discussion and Assignments (in total): 45%
 + Final Draft of Term Paper: 20%
@@ -93,14 +93,12 @@ assignment folder in D2L. Abstracts will be discussed in class on October 30th.
 
 3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 1st at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
-4. Authors and co-authors that are pursuing an empirical paper must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.
-
-Additional problem solving presentations are encouraged. Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
+4. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
 
 5. A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
 
 6. The final paper must be published to the “Final Papers” assignment folder in D2L by _December 6th at 5pm_. Term papers
-must be less than 20 pages exclusing bibliography.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
+must be less than 20 pages excluding bibliography.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 
 # Topics and Readings

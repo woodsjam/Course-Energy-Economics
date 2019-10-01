@@ -1,24 +1,34 @@
 ---
 title: "Introduction"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Note on Class Slides
 
-+ They are intended to go along with what I say, they are not a substitute.
-+ I don't do pretty
-+ I don't do fancy
-+ There are always typos.
+# Plan for the Day
+
++ Walk through the syllabus
++ Take a pre-test on econ and statistics skills
++ Divide up into groups
+
+# Syllabus
+
+You can find the syllabus here and any slide here (https://github.com/woodsjam/Course-Energy-Economics)
+
++ There is also a link in D2L
++ Some slides are up there but not all.
+
+
 
 # Energy Economics
 
 Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
 
-+ We will be looking at energy markets specifically at the start of class but some of the more interesting topic are in the "consequences of production and use"
++ We will be looking at energy markets specifically at the start of class, but some of the more interesting topic are in the "consequences of production and use"
     + Is Fracking a "resource curse"?
     + Does development of wind resources have an effect on real estate prices?
 + The field has a mix of:
@@ -27,33 +37,23 @@ Economics and structure of energy markets, with a focus on electricity. Examines
     
 We will be tuning the class to your level of expertise and filling in the blanks as we go.
 
-# Where I am coming from
+# Who Am I?
 
-+ Started in energy at the California Energy Commission back in the mid 90s.
-    + Transportation energy use, choice, and simulation
-    + Market transformation
-    + Feebates
-+ Energy efficiency evaluation
-+ Conservation behavior
++ Ph.D. Economist, UC Davis
++ First generation college.
++ Background in energy conservation and program evaluation consulting going back to the early 90s.
+    + Projects were multidisciplinary. Rarely did a project not involve, economists, engineers and others.
+    + ETO external review committee
+    + I have steel toed boots.
+    
++ Former:
+    + Oregon HECC commissioner
+    + Parkrose School Board Chair
+    + Multiple non-profit boards
+    + County Budget Committees
+    + Legislative Candidate.
++ Hobbies: Painfully Stereotypical Portlander
 
-In short, I come from the consumption side, not the production side.
-
-# Where can you take this knowledge
-
-+ Energy Efficiency evaluation 
-    + Plenty of local firms do this (Many former students)
-    + Energy Trust (A few here)
-+ Utilities
-    + Northwest Natural 
-    + PGE, Pacificorp
-+ Government
-    + Oregon department of energy
-    + Many opportunities as Cap and Trade takes off
-+ Other For Profit
-    + Anything related to home automation.
-    + Use off high frequency meter data.
-+ Non-profit
-    + Plenty but Carbon  Offset certification and evaluation is a growing industry.
     
 # Warnings
 
@@ -63,7 +63,10 @@ In short, I come from the consumption side, not the production side.
     + I usually read things over and over again and learn new things every time.
     + If you understand half -- amazing.
     + The more you read, the easier it is to learn more.  It really builds on itself.
-+ Don't be afraid to Google a picture or an article to help you understanding something in class.
+
+# Warnings (Con't)
+
++ Don't be afraid to Google a picture or an article to help you understand something in class.
     + You need to learn how to help yourself.
     + Learned helplessness is a pet peeve of  mine.
 + Do not wait till the last minute  
@@ -71,18 +74,150 @@ In short, I come from the consumption side, not the production side.
     + No plan survives contact with reality
     + Start everything as early as possible.
 
+
+# Where can you take this knowledge
+
++ Energy Efficiency evaluation 
+    + Plenty of local firms do this (Many former students)
+    + Energy Trust of Oregon (ETO)
++ Utilities
+    + Northwest Natural 
+    + PGE, Pacificorp
++ Government
+    + Oregon department of energy
+    + PUC
+    + Many opportunities as Cap and Trade takes off
++ Other For Profit
+    + Anything related to home automation.
+    + Use off high frequency meter data.
+    + Carbon Offset certification and evaluation.
+    
 # Look at Course Requirements and the Syllabus
 
 A few things of note
 
-+ There is a term paper and homework but no exam.
-+ Presentations
-+ My contention is that if you are good with theoretical models, empirical models or explaining them to others, you are employable.
++ There is a term paper.
++ Reading discussion with some outside prep.
++ My contention is that if you are good with theoretical models or empirical models or explaining them to others, you are employable.
     + The last one is frequently forgotten.
     + They are often the highest fliers in the industry.
-+ I will be adding significant material on Cap and Trade
-    + Workshops in the Oregon legislature are going on right now.
-    + Prepping a bill for the 2018 session.
+
+
+# Prerequisites
+
++ Undergrad Students: EC 311/415
++ Graduate Students: NONE except graduate standing
+
+The usual pattern is the undergrads are econ majors and know 201 material and some 311.  Grad students tend to be engineers with less econ but more math than the undergrads.
+
+
+
+# Contact Information
+
++ My office is in CH 241-O.
++ Drop in office hours are Monday 3:00 PM - 4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ If you can't attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points. 
+
+Meetings can be via phone or even the hangout/meet function in your pdx.edu email.
+
+I will also keep Slack up during office hours to answer questions.
+
+# Slack
+
+I avoid email since it is a trash heap and a constant distraction.
+
++ The class will use slack https://psuenergyecon.slack.com
++ Handles direct messages, forum style responses.
++ You should be able to sign up with your pdx.edu account
++ Can access via webpage, apps in Android and iOS.
++ Linked in d2l.
++ Officially supported PSU software
++ Common in industry
++ Many of you already use it.
+
+# Hints on Slack
+
++ Prefer #general to direct messaging me.
+    + Questions about course material is for #general
+    + Questions about your grade or anything private is for @woodsj
++ "I can't find it anywhere" is usually answered with:
+    + A link to a google search.
++ Don't start and end with, "I got 7 but the key shows 245.  What did I do wrong?"
+    + Show your work.  The fix is often a single parameter.
++ Provide full text of the question you are working on.
+
+In short, make it easy for someone to help you.
+
+# More Slack Hints
+
++ Rants and bellyaching put you at the bottom of the queue or off the queue.
++ Night before a deadline?  You are on your own.
++ Set personal Do Not Disturb times.  It it defaults to 10pm -8am
+
+
+# Textbook 
+
+# Adding Material As We Go
+
+Course has not been taught since 2016 because of low enrollment.
+
++ Add newer articles to existing, but many in the syllabus are classics and very readable.
++ Hot topics in Oregon:
+    + Transportation Electrification
+    + Joining the CAISO
+    + Cap and Trade
+
+
+
+# What a Class Meeting Looks Like
+
++ Framing lecture that is no more than an hour.
++ Break into discussion groups.
++ Questions randomly given out
++ Each group has a scribe that will summarize discussion in a shared google doc for the class
++ I bounce from group to group pushing conversation to make sure y'all have actual read the material
++ Share out and take questions from other groups.
++ Future readings
+
+# Mix-in options
+
++ I give out a few questions ahead of time
++ I give out specific questions for groups to prep and present.  Longer lead time on this so you can meet.
+
+# Course Structure
+
+
++ Introductory reading in energy covering Coal, Natural Gas, Electricity and Oil.
++ The big push is some work on your own in an area that interests you.
+    + Supports on how to write a research paper.
+    + Encouragement to browse/read widely to find an interesting paper topic.
+    + Create a narrowly framed abstract
+    + Cut it down more after meeting with me.
+    + Create an annotated bibliography, basically an outline with citations and how you will use them in the paper
+    + Draft Paper
+    + Final paper with separate document explaining how you addressed my comments on your draft.
+
+
+# The Term Paper
+
++ Literature review or empirical paper
++ Lit Reviews are single author.
++ Empirical, which means econometrics and data handling, may have up to three authors.
++ Keep it under 20 pages not including bibliography.
+
+The intent is to be able to take it to a conference or use as evidence that you can write when looking for a job.
+
+# Help?
+
++ Library guy will give a talk on the how-to part of a literature review.
++ Handout from me.
++ Syllabus has links to major journals and working paper archives that cover energy.
++ A few hint books.  McCloskey for all and one chapter from Wooldridge's econometrics book for those doing empirical papers. 
+
+
+
+# Questions    
+
 
 # Lets see where you are
 
@@ -90,16 +225,18 @@ Time to take the pre-test.
 
 + Does not count for your grade
 + Don't freak out if you can't do all of it.
-+ You should be able to do at least one.
-+ Just taking a class and getting an A does not mean you remember or can use the skills.
++ They are pitched a little high.
 
 I'm trying to sort out how to dial in lecture and where I need to add skills.  
 
+# Lets Break Into-Groups
+
+
 # Reading for Wednesday
 
-Read Dahl Ch 1-2.  It is about 40 pages.
-
-DON'T PANIC
++ Read Dahl Ch 1-2.  It is about 40 pages.
++ "Energy Primer: A Handbook of Energy Market Basics", Ch 1.  About 3 pages
++ DON'T PANIC
 
 # How to Read Academic Papers
 
@@ -118,23 +255,4 @@ It is a multipass system.
 
 You, and the author, will never fully understand the paper/chapter.
 
-# Wednesday and Monday
 
-+ There is a homework due on Monday.
-+ Wednesday I will have a lecture on :
-    + The last part of chapter 2 on modeling, i.e., the topic of the homework.
-    + IV estimation an option on the homework.
-+ We will reserve some time to peak at the papers you found for the Homework.
-    + Hint: This is like a marshmallow test for procrastination.
-
-# Monday's Homework
-
-+ Take a look 
-+ Pick a paper, the linked journals in the syllabus are a good source.
-+ Pick something that interests you.
-+ Make a bare bones presentation.  Don't get fancy
-    + You can use a piece of paper on the overhead
-    + You can chalk and talk with a handout
-    + If you spend more time on formatting than content, you did it wrong.
-
-# Questions    
