@@ -121,7 +121,7 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 + Book gives some examples.
 + Ask a bunch of experts about their best judgement and summarize
 + Often expanded as a Delphi Survey
-+ For comically bad forecast see "Results of the Delphi IX Survey of Oil Forecasts" California Energy Commission, 1997. http://www.energy.ca.gov/reports/DELPHI-9.PDF
++ For comically bad forecast see "Results of the Delphi IX Survey of Oil Forecasts" California Energy Commission, 1997.
 
 # Delphi Surveys
 

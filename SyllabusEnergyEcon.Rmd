@@ -114,11 +114,11 @@ Each topic has some readings that both undergraduates and graduate students will
     + Coal
         + Dahl, Ch 3.
         + Murray, Michael P.. 2006. "Avoiding Invalid Instruments and Coping with Weak Instruments." Journal of Economic Perspectives, 20(4): 111-132. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.20.4.111
-    + Natural Gas
+    + NaturaS104061901630121Xl Gas
         + Dahl, Ch 8.
         + Energy Primer, Ch 2.
         + Joskow, Paul L.. 2013. "Natural Gas: From Shortages to Abundance in the United States." American Economic Review, 103(3): 338-43. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.338
-        + Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. http://www.sciencedirect.com/science/article/pii/S104061901630121X
+        + Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. https://stats.lib.pdx.edu/proxy.php?url=https://www.sciencedirect.com/science/article/pii/
         
     + Electricity
         + Energy Primer, Ch 3. 

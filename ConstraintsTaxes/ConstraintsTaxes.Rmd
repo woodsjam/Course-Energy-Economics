@@ -1,0 +1,75 @@
+---
+title: "Constraints, Subsidies and Taxes"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Goals
+
++ Deep review of consumer and producer surplus
++ What they really mean
++ Work Examples
+
+
+# Welfare Measure
+
++ CS/PS is a welfare measure
++ There are others
+    + Compensating Variation -- How much money would be required after a changes in prices to give you the same utility.
+    + Equivalent Variation -- What you would pay to avoid the price change.
+    
+# Why CV or EV?
+
++ They use the expenditure function.
++ Capture general equilibrium effects
++ CS/PS only captures one market, CV and EV capture all markets.
++ Almost all the of the time CS/PS is not that far off.
+
+# Producer Surplus
+
++ $\int_{0}^{q} (p-S(q)) dq$
++ Roughly the area below price and above supply up to the quantity.
++ Gets complex when quantities and prices don't line up nice.
+
+# Decompose
+
++ Total Revenue (TR): p q
++ Variable Cost (VC): area under the supply curve
++ Producer surplus ($\Pi + FC$): Profit + FC
+
+$$\Pi = TR - (VC - FC)$$
+    
+# Consumer Surplus
+
++ Total Surplus: Area under the demand function up to q.
++ Total Surplus: Integral of D is the expenditure function, how much money to achieve a level of utility.
++ The benefit of being able to purchase
+
+Consumer surplus subtracts off what you pay and give net benefit of being able to buy in the market.
+
+# Example 1: Competitive Market
+
+# Example 2: Ceiling
+
+# Example 3: Ceiling but must provide 
+
+This is what happens when you keep gas or electricity cheap for locals. 
+
+
+
+# Example 4: Tax on Oil (No Trade)
+
+# Comments About Tax
+
++ Yes, there is deadweight loss.
++ Remember, the tax revenue should be paying for things that have value to society greater than cost.
+
+# Incidence: Who Pays?
+
+# Example 5: Export Oil
+
+# Example 6: Tax on Oil with Export Market
+

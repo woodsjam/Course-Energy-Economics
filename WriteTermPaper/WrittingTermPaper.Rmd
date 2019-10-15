@@ -210,9 +210,9 @@ Solid outline
 
 Teach me something I would not have noticed by reading the individual papers.
 
-# Action
+<!-- # Action -->
 
-+ Schedule Bibliography discussion times.
-+ Give me your seed paper.
+<!-- + Schedule Bibliography discussion times. -->
+<!-- + Give me your seed paper. -->
 
 
