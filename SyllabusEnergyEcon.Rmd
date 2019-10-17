@@ -109,7 +109,7 @@ Each topic has some readings that both undergraduates and graduate students will
 
 + Introduction of Core Topics
     + Starting on Topic   
-        + "Energy Primer: A Handbook of Energy Market Basics", FERC, 2015 (http://www.ferc.gov/market-oversight/guide/energy-primer.pdf), Chapter 1
+        + "Energy Primer: A Handbook of Energy Market Basics", FERC, 2015 (https://www.ferc.gov/market-assessments/guide/energy-primer.pdf), Chapter 1
         + Dahl, Ch 1-2.
     + Coal
         + Dahl, Ch 3.
