@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Where is it produced? Just conventional
 ![](https://www.lib.utexas.edu/maps/united_states/us_gas_production_in_conventional_fields-2009.jpg)
 
+
 ## More in the shale areas.
 ![](https://www.eia.gov/maps/images/shale_gas_lower48.jpg)
 
@@ -77,7 +78,8 @@ There is a weekly report on storage by EIA http://www.eia.gov/dnav/ng/hist/nw2_e
 + FERC for transportation tariffs (Regulated)
     + http://etariff.ferc.gov/TariffList.aspx
     + Some are fixed and some have a market rate component.
-    
++ EIA has easier access to prices https://www.eia.gov/dnav/ng/hist/rngwhhdM.htm
+
 It is hard to talk about gas separate from transportation.
     
 ## Intro Deregulation in Natural Gas    

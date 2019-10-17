@@ -60,7 +60,9 @@ This is what happens when you keep gas or electricity cheap for locals.
 
 
 
-# Example 4: Tax on Oil (No Trade)
+# Example 4: Export Oil
+
+# Example 5: Tax on Oil (No Trade)
 
 # Comments About Tax
 
@@ -69,7 +71,6 @@ This is what happens when you keep gas or electricity cheap for locals.
 
 # Incidence: Who Pays?
 
-# Example 5: Export Oil
-
 # Example 6: Tax on Oil with Export Market
 
+# Example 7: Rooftop Solar
