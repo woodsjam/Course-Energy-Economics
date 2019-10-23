@@ -52,7 +52,7 @@ Caveat IANAE and I will do thing like call current amps and the like. Also, this
 
 ## Picture for this
 
-![](http://images.slideplayer.com/17/5297074/slides/slide_27.jpg)
+![](slide_27.jpg)
 
 source: http://slideplayer.com/slide/5297074/
 
@@ -108,12 +108,12 @@ source: http://slideplayer.com/slide/5297074/
     + Used to follow the load.
 + Heat rate, BTU in/ BTU out, or BTU per kWh, only used for generation that uses a fuel.
     + It is impossible but 1 kW = 3412 BTU.
-    + Not so streigt forward  for renewables (http://www.eia.gov/totalenergy/data/annual/pdf/sec17.pdf)
+    + Not so straight forward  for renewables (http://www.eia.gov/totalenergy/data/annual/pdf/sec17.pdf)
     + Recent average from EIA, https://www.eia.gov/electricity/annual/html/epa_08_01.html
 
 ## Coal from the outside
 
-![](http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg)
+![](Asheville-coal-plant-e1432059203783.jpg)
 Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg
 
 ## Coal on the inside
@@ -131,7 +131,9 @@ Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e143205
 
 Radiation to heat water and then ...similar to coal.  Just a reaction chamber
 
-![](http://www.nuclear-power.net/wp-content/uploads/2014/11/inside_core.jpg?11abca)
+![](inside_core.jpg)
+
+source: http://www.nuclear-power.net
 
 ## Local Reactor Columbia Generating Station
 
@@ -176,9 +178,9 @@ Radiation to heat water and then ...similar to coal.  Just a reaction chamber
 ## Biomas One in Eugene. 30 MW and keeps catching on fire.
 
 
-![](http://www.woodbioenergymagazine.com/magazine/2009/summer/images/article-biomass-one-001.jpg)
+![](biomass1.jpg)
 
-source: http://www.woodbioenergymagazine.com/magazine/2009/summer/article-biomass-one.html
+source: http://nationalpublicenergy.com
 
 ## Geothermal
 
@@ -191,7 +193,9 @@ source: http://www.woodbioenergymagazine.com/magazine/2009/summer/article-biomas
 
 ## Neal Hot Spring in Malheur. 30 MW
 
-![](http://geo-energy.org/images/plants/Aidlin.jpg)
+![](Aidlin.jpg)
+
+Source: http://geo-energy.org
 
 ## Diesel and other Fuel Oils
 
@@ -220,8 +224,9 @@ source: http://www.woodbioenergymagazine.com/magazine/2009/summer/article-biomas
 
 So, you spin a turbine
 
-![](http://www.eia.gov/energyexplained/images/hydro%20copy.png)
+![](hydro-dam.png)
 
+Source: Tennessee Valley Authority
 
 ## Hydro can be complex
 
@@ -240,11 +245,11 @@ So, you spin a turbine
 
 ## Everything Comes with a cost
 
-![](https://d3n8a8pro7vhmx.cloudfront.net/hetchhetchy/pages/33/attachments/original/1415484942/taber_w_caption.png?1415484942)
+![](taber_w_caption.png)
 
 ## Wind
 
-+ You find a good wind resource NREL Class 3 and up (http://www.nrel.gov/gis/wind_detail.html)
++ You find a good wind resource NREL Class 3 and up (https://maps.nrel.gov/wind-prospector/)
 + Put up a suitably rated 1.5MW windmill. 8MW is the largest I've hear about for land based but read about a ~10MW off shore.
 + Maintain them, upgrade them and if need be demo them.
 
