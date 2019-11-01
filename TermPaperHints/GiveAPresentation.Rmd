@@ -1,0 +1,38 @@
+---
+title: "Presentation Guidelines"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# From the Syllabus
+
+4. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Dates_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
+
+# Details
+
+You need to drop your stress level on this.  These are not flashy presentations made to impress.  These are presentations where you show where you are now, and ask the class for help on what to do next or what you are having trouble understanding.  There are a lot of creative minds and expertise in the room.  Use it.
+
+You can pass the early drafts and annotated bibliographies to the class on slack.   There is no need to print.
+
++ Don't spend a lot of time framing the paper.  We generally know your topic and we have seen your abstract.  That is why they were handed out.
++ A slide or two on the frame is great. Just avoid the problem of having all frame and no picture.  I've seen a 20 slide presentation that had meat on  two lines of one slide -- the rest was frame and summary.  Nothing screams, "I forgot about this till last night", like that kind of presentation. Don't do this. 
++ Literature reviews should start with a key paper.  Summarize those findings.
++ Tell where that paper led you.  Maybe your paper was on the effect of transportation electrification on distribution expenditures, the poles and wires by your house.  You started thinking that there may be differences between investor owned utilities, IOUs, and consumer owned utilities, COUs, and so you found a few papers on that.  Then tell us what you found out about those differences.
++ The key motif is to not tell us what each paper says, we can all read the papers, but what happens when you look at them together when you are looking for connections and differences.
++ If there is something in a paper that you don't understand -- put it on a slide.  We can help. Be able to throw a link on slack so we can look.
++ End the presentation with what you are going to do next.  It could be things like, "I'm going to look for papers that focus on how the EU is addressing this issue.", or even, "I'm going to check the EIA data they cite and see if their forecasts were close."
+
+
+If you are working with data, there is a different game plan.
+
++ Start with same slide or two that frames your paper.
++ Tell us about the data.  Tell us where it comes from and what interesting variables you are playing with.
++ Descriptive stats of the data, mean and variance, in a simple table or even graphics if possible.
++ Give us some ideas about what you are going to do with the data. If you are going to look at the California RASS data and are looking at differences in rural and urban consumption -- say that.
++ These are likely to be regression based so talk about what you are trying to explain, the left-hand side, and how you are going to explain it, the right-hand side, and some ideas you have about transformations.
++ More than likely you will have to learn a new technique.  If you have not spotted what you need to learn, I'll give you some hints and help on how to do it.
++ Just like the literature review, ask for help when you don't understand things.
++ End with what you are going to do next.
