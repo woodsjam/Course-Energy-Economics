@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC438/538 Fall 2019"
+title: "Syllabus EC438/538 Fall 2020"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -27,21 +27,20 @@ As with most economics courses, the more background you bring to the class, the 
 
 # Contact Information
 
-Communication will be handled through slack https://psuenergyecon.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+<!-- Communication will be handled through slack https://psuenergyecon.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users -->
 
-Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
+<!-- Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings. -->
 
 
-Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.  
+<!-- Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.   -->
 
 
 Office Hours:
 
-+ My office is in CH 241-O.
-+ Drop in office hours are Monday 3:00-4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
-+ If you can’t attend regular office hours, please check my calendar http://https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week. 
 
-Office hours for XXXX, the teaching assistant,  will be posted on slack after the first week of class.  We will also post some hours where we will available interactively on slack.
++ There are no in-person office hours this term.  We will use Zoom to meet face to face. 
++ Drop in office hours are Monday 3-4pm and Tuesday 10am-11am through the last week of class. I will keep a Zoom meeting up during this time.
++ You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
 
 # Textbook and Other Resources
 
@@ -51,7 +50,7 @@ This text will be heavily supplemented with material from the Energy Information
 
 # Assessments and Grade Policy
 
-This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing and analysis, presentations by teams of student researchers. Nearly all work product will be made public to the class, though your grade will not.
+This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing and analysis and presentations. Nearly all work product will be made public to the class, though your grade will not.
 
 + Discussion and Assignments (in total): 45%
 + Final Draft of Term Paper: 20%
@@ -61,21 +60,28 @@ This class will be taught as a collaborative seminar with limited traditional le
 + Abstract: 2%
 
 
-Term papers and bibliographies will be turned in a D2L assignment folder as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  
+Term papers and bibliographies will be turned in online as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  
 
-## Discussion and Assignments
+## Discussion
 
-Class sessions may begin with an introductory lecture followed by discussions of the assigned readings.  Discussion will be facilitated by the instructor with the class being broken into semi-permanant teams who will be assigned specific questions about the readings.  These questions will often, but not always, be distributed to the class ahead of time.  
+Discussion will be facilitated by the instructor with the class being broken into semi-permanant teams who will be assigned specific questions about the readings.  These questions will often, but not always, be distributed to the class ahead of time.  
 
 After discussion the teams will publish a summary of their conclusions to the rest of the class and answer questions from the class about the summary.
 
-Teams will be assigned by the instructor during the first week of class. They will be composed of at least one graduate student and one undergraduate student. Assignments will be made based a survey of completed math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to succeed.
-
-The teams are intended to encourage cooperative learning where graduate students can assist undergraduate students with concepts they are unsure of and those with exceptional skills can share insight with others.
+Teams will be assigned by the instructor during the first week of class. Assignments will be made based a survey of completed math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to succeed.
 
 A team may remove a member by an anonymous 3/4th majority vote of current members. Removed members will act as a team of one until other teams remove members or students join the class. Removed members may join other teams by an anonymous 3/4th majority vote of the receiving team. All votes will be conducted by the instructor. The instructor reserves the right to reassign students to teams should there be large differences in team size.
 
-Teams are expected to create intuitive explanations, make critical statements, and field reasonable questions.  Performance will be evaluated by the instructor on a 0 to 5 scale.
+Teams are expected to create intuitive explanations, make critical statements, and field reasonable questions.  Performance will be evaluated by the instructor on a 0 to 5 scale.  Feedback from students in the form of Best and Worst group member will be collected at the end of the class meeting.
+
+## Assignments
+
+In class discussions are most effective when everyone has read the material before class.  In order to make this more likely there may be a small writing or problem solving  assignment associated with the readings.
+
+These questions may be microeconomic theory questions, interpretations of graphs and regression output in papers, etc. They will not be duplicates of the questions we will discuss in class.
+
+These will be due at the start of the class to avoid any confusion.
+
 
 
 ## Individual/Group Term Paper
@@ -83,23 +89,19 @@ Teams are expected to create intuitive explanations, make critical statements, a
 The largest assignment will be a term paper. The term paper may be
 either a literature review, in which case it _must_ be completed by an individual, or an empirical/theoretical
 paper which may have up to three co-authors. Graduate students
-must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
+must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.  
 
-1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-assignment folder in D2L by _October 16th at 5pm_. Students will have a 20 minute review meeting with the instructor during that week. These meetings will be scheduled for the week of the 21st. Scope and depth changes will be agreed to in the meeting.
+Key deadlines for the term paper are:
 
-2. A revised abstract must be submitted by _October 28th at 5pm_  in the “Final Abstracts”
-assignment folder in D2L. Abstracts will be discussed in class on October 30th. 
+1. Draft Abstract: _October 16th at 5pm_.
+1. 20-minute Abstract Review: _October 26th at 5pm_.
+1. Revised Abstract: _October 28th at 5pm_. 
+1. Annotated bibliography: _November 1st at 5pm_. 
+1. 20-Minute Presentation: _November 13th_.
+1. Draft Paper: _November 18th at 5 pm_. 
+1. Final Paper: _December 6th at 5pm_. 
 
-3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 1st at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
-
-4. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
-
-5. A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
-
-6. The final paper must be published to the “Final Papers” assignment folder in D2L by _December 6th at 5pm_. Term papers
-must be less than 20 pages excluding bibliography.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
-
+Term papers must be **less than 20 pages** excluding bibliography, but should be about 15 pages.  The submission must include a separate document addressing issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 # Topics and Readings
 
@@ -168,53 +170,11 @@ Each topic has some readings that both undergraduates and graduate students will
         + David R. Kamerschen, David V. Porter, The demand for residential, industrial and total electricity, 1973–1998, Energy Economics, Volume 26, Issue 1, January 2004, Pages 87-100, http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/S0140-9883(03)00033-1
         + RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS), EIA. https://www.eia.gov/consumption/residential/index.cfm We will use this as an example of end use modeling as well as survey data collection and estimation.
    
-# Term Paper Resources
-        
-The course requires a term paper.  It is a good idea to do some broad reading to see the breadth of topics in energy economics, which roughly means the economic effects of using and generating energy.  Here are some sources for keeping up on current events and research topics.
-
-+ A list of energy related glossaries http://dahl.mines.edu/GlossaryLinks.pdf.  Some of the links are 404 but the one at the California Energy Commission is pretty good.
-+ EIA Today in Energy (https://www.eia.gov/todayinenergy/) New topics every day.
-+ Journals that focus on energy economics issues
-    + Energy Economics http://www.journals.elsevier.com/energy-economics/
-    + The Energy Journal https://www.jstor.org/journal/energyj
-    + Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
-    + Energy: The International Journal has economics and engineering http://www.journals.elsevier.com/energy/
-    + Energy Policy http://www.journals.elsevier.com/energy-policy/
-    + Utilities Policy for more electricity focused reading http://www.journals.elsevier.com/utilities-policy/
-
-+ Working Paper Sources
-    + IDEAS has a curated weekly summary of energy working papers https://ideas.repec.org/n/nep-ene/
-    + r/EconPapers has a weekly summary of working papers from National Bureau of Economic Research (NBER).  They usually lead with energy and natural resource economics https://www.reddit.com/r/EconPapers.
-    
-+ The Journal of Economic Perspectives (https://www.jstor.org/journal/jeconpers) has many easy to read symposia and review articles.  Here are a few from the last decade or so. Some of these are already included in the readings.
-    + SYMPOSIUM: OIL AND GAS MARKETS WINTER 2016 (https://www.jstor.org/stable/i40149800)
-    + SYMPOSIUM: TRADING POLLUTION PERMITS WINTER 2013 (https://www.jstor.org/stable/i40086192)
-    + SYMPOSIUM: ENERGY CHALLENGES WINTER 2012 (https://www.jstor.org/stable/i40064264)
-    + SYMPOSIUM: CLIMATE CHANGE SPRING 2009 (https://www.jstor.org/stable/i27740519)
-
-+ Data
-    + OpenEI http://en.openei.org/wiki/Main_Page
-    + EIA https://www.eia.gov Just go to a topic and look for the data tab.
-    + Quandl https://www.quandl.com/ Has data on many topics and is an easy way to bring in macroeconomic data.
-    
-## Guidance on Writing and Referee Reports
-
-Because term papers are rarer than they were in the past, I will be providing a lot of supports to make sure you can pull this off. The subject matter librarian for economics will give a seminar on how to conduct a literature review.  I will also have handouts on how to write a literature review.
-
-In addition there are two sources in the library reserve that are very helpful.  First, McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
-
-The second resource in the library reserve is a Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.
-
 
 # Other Rules
 
-+ The use of laptops in class is encouraged nearly to the point of being demanded. The instructor will often assign scribes to publish notes of a discussion
 
-+ Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
-  
 + When completing online quizzes or other assignments, you may use your book, wiki, calculator, spreadsheets, notes, or other resources as long as it is not another student or person.  *The work must be authentically and genuinely your own. In other words, if you are copying answers you found online, it is not your work.*
-
-+ Go to office hours at the first sign of trouble -- not as a last resort.
 
 + In this classroom, we support and value diversity.  To do so requires that we:
 
