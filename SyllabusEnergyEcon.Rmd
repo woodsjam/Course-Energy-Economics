@@ -38,7 +38,7 @@ As with most economics courses, the more background you bring to the class, the 
 Office Hours:
 
 
-+ There are no in-person office hours this term.  We will use Zoom to meet face to face. 
++ There are no in-person office hours this term.  We will use Zoom to meet face-to-face. 
 + Drop in office hours are Monday 3-4pm and Tuesday 10am-11am through the last week of class. I will keep a Zoom meeting up during this time.
 + You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
 
@@ -76,7 +76,7 @@ Teams are expected to create intuitive explanations, make critical statements, a
 
 ## Assignments
 
-In class discussions are most effective when everyone has read the material before class.  In order to make this more likely there may be a small writing or problem solving  assignment associated with the readings.
+In-class discussions are most effective when everyone has read the material before class.  In order to make this more likely there may be a small writing or problem solving  assignment associated with the readings.
 
 These questions may be microeconomic theory questions, interpretations of graphs and regression output in papers, etc. They will not be duplicates of the questions we will discuss in class.
 
@@ -101,7 +101,7 @@ Key deadlines for the term paper are:
 1. Draft Paper: _November 18th at 5 pm_. 
 1. Final Paper: _December 6th at 5pm_. 
 
-Term papers must be **less than 20 pages** excluding bibliography, but should be about 15 pages.  The submission must include a separate document addressing issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
+Term papers must be **less than 20 pages** excluding bibliography, but should be about 15 pages.  The final submission must include a separate document addressing issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 # Topics and Readings
 
@@ -116,28 +116,26 @@ Each topic has some readings that both undergraduates and graduate students will
     + Coal
         + Dahl, Ch 3.
         + Murray, Michael P.. 2006. "Avoiding Invalid Instruments and Coping with Weak Instruments." Journal of Economic Perspectives, 20(4): 111-132. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.20.4.111
-    + NaturaS104061901630121Xl Gas
+    + Natural Gas
         + Dahl, Ch 8.
         + Energy Primer, Ch 2.
         + Joskow, Paul L.. 2013. "Natural Gas: From Shortages to Abundance in the United States." American Economic Review, 103(3): 338-43. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.338
         + Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. https://stats.lib.pdx.edu/proxy.php?url=https://www.sciencedirect.com/science/article/pii/S104061901630121X
-        
     + Electricity
         + Energy Primer, Ch 3. 
-        + Dahl, Ch 5-6.   
+        + Dahl, Ch 5-6.
         + Joskow, Paul L. "Markets for power in the United States: An interim assessment." The Energy Journal, Vol. 27, No. 1. http://economics.mit.edu/files/1184
         + Joskow, Paul L.. 2012. "Creating a Smarter U.S. Electricity Grid." Journal of Economic Perspectives, 26(1): 29-48. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.29
         + Covert, Thomas, Michael Greenstone and Christopher R. Knittel. 2016. "Will We Ever Stop Using Fossil Fuels?" Journal of Economic Perspectives, 30(1): 117-38. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117
         + Borenstein, Severin. 2012. "The Private and Public Economics of Renewable Electricity Generation." Journal of Economic Perspectives, 26(1): 67-92. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.67
         + Puller, Steven L. and Jeremy West. 2013. "Efficient Retail Pricing in Electricity and Natural Gas Markets." American Economic Review, 103(3): 350-55. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/aer.103.3.350
-        + Transportation Electrification ***NEED PAPER***
-        +
     + Oil
         + Dahl, Ch 7.
         + Energy Primer, Ch 4.
-        + Smith, James L.. 2009. "World Oil: Market or Mayhem?" Journal of Economic Perspectives, 23(3): 145-64. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.3.145
+        + Smith, James L 2009. "World Oil: Market or Mayhem?" Journal of Economic Perspectives, 23(3): 145-64. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.3.145
         + Baumeister, Christiane and Lutz Kilian. 2016. "Forty Years of Oil Price Fluctuations: Why the Price of Oil May Still Surprise Us." Journal of Economic Perspectives, 30(1): 139-60. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.139
-    
+    + Transportation Electrification
+        + **NEED PAPERS**
 + Topic Options, Voted on in Class
     + Financial Markets
         + Energy Primer, Ch 5.
@@ -149,10 +147,10 @@ Each topic has some readings that both undergraduates and graduate students will
         + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
         + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
     + Natural Gas Outside the US
-        + Dahl, Ch 9 - 10.   
-        + "International Energy Outlook", 2016, EIA, Ch 3. (https://www.eia.gov/forecasts/ieo/nat_gas.cfm)
+        + Dahl, Ch 9 - 10.
+        + "International Energy Outlook", 2019, EIA, Ch 3. (https://www.eia.gov/outlooks/ieo/pdf/ieo2019.pdf)
     + Price Controls and Subsidies (Not Carbon Taxes and Implicit Subsidies)
-        + Dahl, Ch 4   
+        + Dahl, Ch 4
         + Implementing Energy Subsidy Reforms Evidence from Developing Countries, Maria Vagliasindi, Washington : World Bank Publications 2012, Overview with countries devided between groups. http://search.library.pdx.edu/PSU:all:CP71205489150001451
     + Market Monitoring
         + Energy Primer, Ch 6.
@@ -162,7 +160,6 @@ Each topic has some readings that both undergraduates and graduate students will
         + Gaudet, Gérard. "Natural resource economics under the rule of Hotelling." Canadian Journal of Economics/Revue canadienne d'économique 40.4 (2007): 1033-1059. http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2007.00441.x/full
     + Supply and Cost Curves
         + Dahl Ch 15
-        
     + Energy Demand
         + Dahl Ch 16
         + Allcott, Hunt and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Economic Perspectives, 26(1): 3-28. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.26.1.3
