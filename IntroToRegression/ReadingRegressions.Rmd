@@ -1,0 +1,82 @@
+---
+title: "Reading Regression Output Without Taking Econometrics"
+author: "James Woods"
+date: ''
+output:
+  beamer_presentation: default
+  
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## Just Basics
+
+Doing Econometrics well is hard.
+
++ EC 460 will teach you the basics of single-equation regression, e.g., demand estimation, and how to fix some things.
++ Make you overconfident.
++ Functional work requires:
+    + Systems equation estimation, e.g., supply and demand at the same time.
+    + Discrete choice, e.g., Yes/No or make and model of a car. 
+    + Knowledge of how to get causality, experimental, e.g., RCT, and quasi-experimental methods, e.g., regression discontinuity.
+    
+## BASICS Single Equation
+
+Explain something, often called the left-hand side or endogenous variable, with explanatory, right-hand side or exogenous variables.
+
+$$Weight = \alpha + \beta Height + \epsilon$$
+
++ Weight is left-hand side
++ $\alpha$ intercept term, expected weight given you have no height. 
++ $\beta$ How much your weight increases for every inch of height.
++ $\epsilon$ How far off we were.
++ All the greek letters are random variables.  We estimate the means and variances of those.
+
+Generating Fake Data with Weight = 20 + 2.75 Height + n(0,40)
+
+## Fake Data
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+
+HWFake<- data.frame(Height = rnorm(mean = (12*5)+10, sd = 10, n= 100))
+                    
+HWFake$Weight <- 20 + rnorm(mean = 20, sd = 40, n = 100) + 2.75*HWFake$Height
+
+library(ggplot2)
+library(dplyr)
+
+HWFake %>%
+  ggplot(aes(x = Height, y = Weight)) +
+  geom_point() 
+  
+```
+
+
+## Regression Output
+
+```{r echo=FALSE, message=FALSE, warning=FALSE , results = "asis"}
+library(stargazer)
+
+stargazer(lm(Weight ~ Height, HWFake), header = FALSE )
+
+```
+
+## Parts
+
+Regression as a whole:
+
++ $R^2$ fraction of variation in LHS explained by variation in RHS.
+    + Because if you add more variables $R^2$ goes up, Adjusted $R^2$, penalizes for having more variables.
++ $F$ Difference between model that is mean of LHS alone, just the intercept, vs model with RHS.
+
+
+The parameters:
+
++ 
+    
