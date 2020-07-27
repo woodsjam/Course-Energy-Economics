@@ -52,15 +52,18 @@ This text will be heavily supplemented with material from the Energy Information
 
 This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing and analysis and presentations. Nearly all work product will be made public to the class, though your grade will not.
 
-+ Discussion and Assignments (in total): 45%
++ Discussion and Assignments (in total): 43%
 + Final Draft of Term Paper: 20%
 + Draft Term Paper: 15%
 + Presentation of Paper Topic: 15%
 + Annotated Bibliography: 3%
 + Abstract: 2%
++ Writing Sample: 2%
 
 
 Term papers and bibliographies will be turned in online as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  
+
+It is not possible to receive a passing grade in the course without turning in the final draft of the term paper.
 
 ## Discussion
 
@@ -82,8 +85,6 @@ These questions may be microeconomic theory questions, interpretations of graphs
 
 These will be due at the start of the class to avoid any confusion.
 
-
-
 ## Individual/Group Term Paper
 
 The largest assignment will be a term paper. The term paper may be
@@ -93,15 +94,85 @@ must complete an empirical/theoretical paper. Term paper preparation and evaluat
 
 Key deadlines for the term paper are:
 
-1. Draft Abstract: _October 16th at 5pm_.
-1. 20-minute Abstract Review: _October 26th at 5pm_.
-1. Revised Abstract: _October 28th at 5pm_. 
-1. Annotated bibliography: _November 1st at 5pm_. 
-1. 20-Minute Presentation: _November 13th_.
-1. Draft Paper: _November 18th at 5 pm_. 
-1. Final Paper: _December 6th at 5pm_. 
+1. Writing Sample: ***DATE***
+1. Draft Abstract: _October 16th () at 5pm_. (W4 sunday)
+1. 20-minute Abstract Review: _October 26th () at 5pm_.(w5 sunday)
+1. Revised Abstract: _October 28th () at 5pm_. (w5 Mon)
+1. Annotated bibliography: _November () 1st at 5pm_. (w5 Fri)
+1. 20-Minute Presentation: _November 13th ()_.(w7 wed)
+1. Draft Paper: _November 18th  () at 5 pm_.  (w8 mon)
+1. Final Paper: _December 6th at 5pm_. (w10 Fri)
 
-Term papers must be **less than 20 pages** excluding bibliography, but should be about 15 pages.  The final submission must include a separate document addressing issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
+The first step of the assignment, the writing sample, is intended to make sure that you know how to properly cite sources and other writing tasks that should have been been covered in your FRINQ and SINQ courses.  **If your writing sample is not where it should be, all the due dates for the paper are a week earlier and you will be required to schedule and attend a session at the Writing Center for each step in the term paper process.**
+
+Term papers must be **less than 20 pages** excluding bibliography, but should be at least 15 pages.  The final submission must include a separate document addressing issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
+
+## Planning for CoVID-19 Flexibility
+
+There is a good chance that some of us will get sick. The [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) are generally known and the effects are anything between minor and major, temporary and permanant, through to dead.
+
+I can't plan for every contingency and, as of writing this, PSU has not given much in the way of guidance. Here is my proposed plan for illness that lasts for less than and more than two weeks for both students and faculty.
+
+
+### Student is Ill for _Less_ than Two Weeks
+
+This is the, you are probably not going to die but feel really miserable type of experience.  It means you may miss a few homework assignments and discussions.  It could also mean that you get behind on your term paper.
+
+Here is what you do for class when you get sick:
+
+1. Notify Jamie (woodsj@pdx.edu) immediately.  This needs to be before the missed class.  
+    + Don't turn in the assignment just before the deadline and then send an email that you are ill and can't make it to class.
+    + If you turned in the homework the day before and then don't feel well the next day and have to email me, that is fine.
+1. Keep notifying Jamie when you are missing class because of illness.
+1. Sleep, heal, generally do what fixes you.
+1. You can keep turning in the assignments and get credit for them.
+1. If you don't turn in assignments while you are healing up, I will reweight your grade so you are not harmed.  Basically, if you think you can do better than your average, keep working.  If you think you will do worse -- go back to bed.
+
+You now feel better and you have missed four or fewer classes:
+
+1.  Notify Jamie (woodsj@pdx.edu) that you  are well and will return to class.
+1.  Immediately after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting for each of the discussion sessions you missed.
+        + If you have not completed the meetings within two weeks, you will not have another opportunity to make up the discussion assignment.
+    + There are no other times to meet. I built in maximum flexibility on my part.  If you can't find a spot, rearrange your schedule.
+    + Setting up these meetings is your responsibility.
+    + The calendar only goes out two weeks on purpose.  You need to catch up within two weeks.
+    + Let me know the exact article or chapter we will be discussing for each meeting.  There is a space on the scheduling form.
+1. Study the readings that you missed.
+1.  In any event, the meetings must be completed by the end of the last week of class. 
+    + There is not much I can do if you are ill for the last two weeks of class.  There is simply no time to make up the material.
+    
+
+The one-on-one meetings with me are intended to verify that you have done due diligence on the reading and are thinking about the issues at a college level and connecting them to what you know about economic theory and statistics. I will grade these meetings the same way I grade in class discussion.
+
+There is also the possibility that your illness will make it difficult to stay on schedule to complete your term paper. Because the term paper is a longer-term project, there is more time to catch up. When you are done with your illness that lasts four or fewer classes, you will have three options with respect to the term paper deadlines:
+
+1.  **Situation Normal**:  All remaining deadlines remain the same.
+1.  **I Can Recover**:  All remaining deadlines are pushed back a week, except for the final draft of the paper which is due three days later.
+1.  **Put This Over Here With the Rest of the Fire**:  All remaining deadlines are pushed back two weeks except for the final draft. _This is only available if the student is ill for at least three sessions._  The student will receive an incomplete in the course and must turn in the final draft of the paper by September 1st, 2021 to receive a course grade.
+
+You must indicate which option you want and can move back towards "Situation Normal" but not the other way.
+
+### Student is Ill for _More_ than Two Weeks
+
+This means you have missed more than 20% of the class.  That is hard to make up.  What you should do at this point is file a deadline appeal.  You do that online at https://www.pdx.edu/registration/DAC.
+
+Fill out the electronic form saying that you were sick and attach documentation about your illness.  They require documentation and there is a procedure if you physically can't fill out the form on your own because of your illness. If your appeal is accepted, then this class will be removed from your transcript, not even a _W_ will be there, and you will have the associated tuition and fees returned.
+
+Please contact financial aid and your scholarship funder to talk about financial implications.  The rules are likely to be in flux.
+
+### Jamie is Ill
+
+Here is where there is less certainty and less flexibility.  We don't really have the ability to have backup for all our courses. There is no backup for this class.
+
+I will make an announcement if I can't make it to our regular meeting time. In that case, the zoom meeting will be canceled and the discussions may or may not be rescheduled depending on class schedule. 
+
+If my illness extends beyond two absences, I will contact the chair of the department and work out what to do.  PSU has not done any contingency planning for faculty illness, incapacitation, hospitalization or death.  Sorry about not having details.
+
+### An Appeal
+
+All this flexibility comes at a cost to me.  I'm keeping large chunks of my calendar open for one-on-one meetings.  I have to review each article before the meetings and create new discussion questions for each person that gets behind.
+
+I am enthusiastic about helping students that take their education seriously and will aggressively defend and advocate for you in many ways.  
 
 # Topics and Readings
 
@@ -110,7 +181,7 @@ Do not let this section alarm you.  We will only address part of this outline in
 Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each. Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
 
 + Introduction of Core Topics
-    + Starting on Topic   
+    + Overview  
         + "Energy Primer: A Handbook of Energy Market Basics", FERC, 2015 (https://www.ferc.gov/market-assessments/guide/energy-primer.pdf), Chapter 1
         + Dahl, Ch 1-2.
     + Coal
@@ -134,8 +205,9 @@ Each topic has some readings that both undergraduates and graduate students will
         + Energy Primer, Ch 4.
         + Smith, James L 2009. "World Oil: Market or Mayhem?" Journal of Economic Perspectives, 23(3): 145-64. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.3.145
         + Baumeister, Christiane and Lutz Kilian. 2016. "Forty Years of Oil Price Fluctuations: Why the Price of Oil May Still Surprise Us." Journal of Economic Perspectives, 30(1): 139-60. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.139
+        + Venables, Anthony J. 2016. “Using Natural Resources for Development: Why Has It Proven So Difficult?” Journal of Economic Perspectives 30 (1): 161–84. https://www.aeaweb.org/articles?id=10.1257/jep.30.1.161 
     + Transportation Electrification
-        + **NEED PAPERS**
+        + Knittel, Christopher R. 2012. “Reducing Petroleum Consumption from Transportation.” Journal of Economic Perspectives 26 (1): 93–118. https://www.aeaweb.org/articles?id=10.1257/jep.26.1.93 
 + Topic Options, Voted on in Class
     + Financial Markets
         + Energy Primer, Ch 5.
@@ -146,12 +218,13 @@ Each topic has some readings that both undergraduates and graduate students will
         + Dahl, Ch 11 - 12.
         + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
         + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
+        + Goulder, Lawrence H. 2013. “Markets for Pollution Allowances: What Are the (New) Lessons?” Journal of Economic Perspectives 27 (1): 87–102. https://www.aeaweb.org/articles?id=10.1257/jep.27.1.87 
+        + Fisher-Vanden, Karen, and Sheila Olmstead. 2013. “Moving Pollution Trading from Air to Water: Potential, Problems, and Prognosis.” Journal of Economic Perspectives 27 (1): 147­–72. https://www.aeaweb.org/articles?id=10.1257/jep.27.1.147 
     + Natural Gas Outside the US
         + Dahl, Ch 9 - 10.
         + "International Energy Outlook", 2019, EIA, Ch 3. (https://www.eia.gov/outlooks/ieo/pdf/ieo2019.pdf)
     + Price Controls and Subsidies (Not Carbon Taxes and Implicit Subsidies)
         + Dahl, Ch 4
-        + Implementing Energy Subsidy Reforms Evidence from Developing Countries, Maria Vagliasindi, Washington : World Bank Publications 2012, Overview with countries devided between groups. http://search.library.pdx.edu/PSU:all:CP71205489150001451
     + Market Monitoring
         + Energy Primer, Ch 6.
         + Helman, Udi. "Market power monitoring and mitigation in the US wholesale power markets." Energy 31.6 (2006): 877-904. http://stats.lib.pdx.edu/proxy.php?url=http://dx.doi.org/10.1016/j.energy.2005.05.011

@@ -12,23 +12,42 @@ The largest assignment will be a term paper. The term paper may be
 either a literature review, in which case it _must_ be completed by an individual, or an empirical/theoretical paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
-1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts” assignment folder in D2L by _October 16th at 5pm_. Students will have a 20 minute review meeting with the instructor during that week. These meetings will be scheduled for the week of the 21st. Scope and depth changes will be agreed to in the meeting.
+The general parameters are that the final term paper should be between 15 and 20 pages long, excluding major graphics and bibliography.  Literature review papers should have at least 15 peer reviewed or government publications, as part of the review.
 
-1. A revised abstract must be submitted by _October 28th at 5pm_  in the “Final Abstracts”
+
+## The Writing Sample
+
+Your FRINQ and SINQ courses should have given you a foundation in more formal and academic writing, but it does not always stick.
+
+Each student will produce a document of at least a page but no more than two, excluding the bibliography, that cites at least two source sources correctly and intentionally does not cite a source for something that should have a citation.  Following the bibliography you should explain what was uncited and how it should have been cited.
+
+The topic should be vaguely energy related and the works cited don't have to be heavy handed.  I'm still waiting for someone to cite, "The Watchmen" or "There Will be Blood".
+
+This should be turned in the “Writing Sample” assignment folder in D2L by _October 2nd at 5pm_.
+
+If things are properly cited and the language is reasonable fluid -- you get full credit.  
+
+If things are not properly cited, you still get full credit, but all the deadlines except the final draft due date are one week earlier.  The intent is to give you an extra week between when I return the draft papers and when you have to turn in the final paper.  The earlier deadlines are given in parenthesis below.
+
+## Key Dates and Requirements
+
+1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts” assignment folder in D2L by _October 16th (October 9th) at 5pm_. Students will have a 20 minute review meeting with the instructor during that week. These meetings will be scheduled for the week of the 21st. Scope and depth changes will be agreed to in the meeting.
+
+1. A revised abstract must be submitted by _October 28th (October 21st) at 5pm_  in the “Final Abstracts”
 assignment folder in D2L. Abstracts will be discussed in class on October 30th. 
 
-1. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 1st at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
+1. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 1st (October )at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
-1. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
+1. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th (October ) through the November 13th (October )_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
 
-1. A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
+1. A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _5 pm on November 18th (October )_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
 
 1. The final paper must be published to the “Final Papers” assignment folder in D2L by _December 6th at 5pm_. Term papers
 must be less than 20 pages excluding bibliography.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
 # What is a Literature Review?
 
-Knowledge, in the form of an academic paper, does not exist in a vacuum.  It is builds on what is already known, presents new data, and remixes data and results to say something new.  Every academic paper has a literature review to explain where the paper fits in the literature and how it is related to existing knowledge.  Some papers are a wholely a litterature review.
+Knowledge, in the form of an academic paper, does not exist in a vacuum.  It is builds on what is already known, presents new data, and remixes data and results to say something new.  Every academic paper has a literature review to explain where the paper fits in the literature and how it is related to existing knowledge.  Some papers are a wholly a literature review.
 
 A good literature review does not just explain what each paper said;  it has to teach something you wouldn't notice from just reading the papers one-by-one.  It has to provide the conversation between the authors.
 
@@ -40,7 +59,6 @@ You can, almost, take one at random.  Say for example Greening, Lorna A., David 
 
 The paper has a solid outline.  It starts with an introduction to the problem and then starts discussion the typology of rebounds.  It is clear that while they were reading the papers they figured out that authors were using "rebound effect" differently and part of the difference in the conclusions was because they were using the same word for many different concepts.  They also noted that the authors were connecting "rebound effects" to other concepts in different ways.
 
-
 They were making the papers talk to each other about how their definitions and scope was different.  That is something you could not get from reading the individual papers.  They are all about the rebound effect but each one is talking about a slightly different rebound effect.
 
 The empirical evidence section is subdivided logically by end-use, e.g., space heating, and then provides tables summarizing how the data and analysis differ across papers.
@@ -51,7 +69,7 @@ You can see very similar patterns in the other literature reviews.
 
 In any case, a literature review is not a simple recitation, paper after paper, repeating what each said.  A good literature review adds something.  It provides the conversation between the papers, as if the authors were debating with each other.
 
-# How to Start Your Literature Review
+# How to Start Your Topic
 
 Don't start with a thesis; start with a paper that you like.  Think of it as a seed.
 
@@ -105,9 +123,9 @@ Once you read enough, you can start to put together a thesis and actually constr
 
 ##  Where to Find Energy Economics Papers
 
-When we talk about literature reviews were are, generally, talking about review of peer reviewed literature.  This is not about New York Times articles.  This is about written work that has been looked at and criticized by people that really understand the topic.  You can also include well respected think tanks or the publications of large NGOs with respected research and analysis departments.
+When we talk about literature reviews we are, generally, talking about review of peer reviewed literature.  This is not about New York Times articles.  This is about written work that has been looked at and criticized by people that really understand the topic.  You can also include well respected think tanks or the publications of large NGOs with respected research and analysis departments, and government publications.
 
-Energy economics is broad and what makes the literature so difficult to approach is that much of it looks like economics but isn't.  A quick way to tell is if the paper looks at behavior, institutions or welfare and cares about uncertainty and causality, it is probably economics.
+Energy economics is broad and what makes the literature so difficult to approach is that much of it looks like economics but isn't.  A quick way to tell is if the paper looks at behavior, institutions or welfare and cares about uncertainty and causality, it is probably economics. 
 
 Here are some good places to start your reading.  Just skim some titles and see what interests you.
 
@@ -185,7 +203,7 @@ Don't edit anything you wrote that day.  Edit something that you have to read fr
 
 At this point you are getting the idea that writing will take many days. By this time, I know almost all of you will not follow this advice.  
 
-That is the reason that faculty dread term papers. Students bang out a draft the night before and then faculty then suffer through poor drafts.
+That is the reason that faculty dread term papers. Students bang out a draft the night before and then faculty suffer through poor drafts.
 
 This is not to your advantage.  
 
@@ -202,7 +220,7 @@ It short, the less time you put into your paper before it gets to me, the less h
 
 # Term Paper Resources
 
-Because term papers are rarer than they were in the past, I will be providing a lot of supports to make sure you can pull this off. The subject matter librarian for economics will give a seminar on how to conduct a literature review.  I will also have handouts on how to write a literature review.
+Because term papers are rarer than they were in the past, I will be providing a lot of supports to make sure you can pull this off. The subject matter librarian for economics will give a seminar on how to conduct a literature review.  
 
 In addition there are two sources in the library reserve that are very helpful.  First, McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
 
@@ -224,5 +242,3 @@ The second resource in the library reserve is a Chapter 19 in Wooldridge's, "Int
     + EIA https://www.eia.gov Just go to a topic and look for the data tab.
     + Quandl https://www.quandl.com/ Has data on many topics and is an easy way to bring in macroeconomic data.
     
-
-
