@@ -92,18 +92,19 @@ either a literature review, in which case it _must_ be completed by an individua
 paper which may have up to three co-authors. Graduate students
 must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.  
 
-Key deadlines for the term paper are:
 
-1. Writing Sample: ***DATE***
-1. Draft Abstract: _October 16th () at 5pm_. (W4 sunday)
-1. 20-minute Abstract Review: _October 26th () at 5pm_.(w5 sunday)
-1. Revised Abstract: _October 28th () at 5pm_. (w5 Mon)
-1. Annotated bibliography: _November () 1st at 5pm_. (w5 Fri)
-1. 20-Minute Presentation: _November 13th ()_.(w7 wed)
-1. Draft Paper: _November 18th  () at 5 pm_.  (w8 mon)
-1. Final Paper: _December 6th at 5pm_. (w10 Fri)
+The first step of the assignment, the writing sample, is intended to make sure that you know how to properly cite sources and other writing tasks that should have been been covered in your FRINQ and SINQ courses.  **If your writing sample is not where it should be, all the due dates for the paper are up to a week earlier and you will be required to schedule and attend a session at the Writing Center for each step in the term paper process.**
 
-The first step of the assignment, the writing sample, is intended to make sure that you know how to properly cite sources and other writing tasks that should have been been covered in your FRINQ and SINQ courses.  **If your writing sample is not where it should be, all the due dates for the paper are a week earlier and you will be required to schedule and attend a session at the Writing Center for each step in the term paper process.**
+Key deadlines for the term paper are given below.  Deadlines in parentheses are for those students who's writing sample was not acceptable.  Please note that dates for returning my comments are included:
+
+1. Writing Sample: _October 7th at 5pm_. Graded by October 9th at 5pm
+1. Draft Abstract: _October 18th (October 14th) at 5pm_. Comments returned at Abstract Review Meeting.
+1. 20-minute Abstract Review: _October 23rd (October 20th) at 5pm_.
+1. Revised Abstract: _October 28th (Oct 22) at 5pm_.
+1. Annotated bibliography: _November 6th (October 30th)  at 5pm_. Comments returned by November 9th (November 2nd) at 8pm
+1. 20-Minute Presentation: _November 13th (November 6th)_.
+1. Draft Paper: _November 19th  (November 12th) at 5 pm_.  Comments returned by November 23rd (November 16th) 8pm.
+1. Final Paper: _December 4th at 5pm_. 
 
 Term papers must be **less than 20 pages** excluding bibliography, but should be at least 15 pages.  The final submission must include a separate document addressing issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
@@ -131,7 +132,7 @@ Here is what you do for class when you get sick:
 You now feel better and you have missed four or fewer classes:
 
 1.  Notify Jamie (woodsj@pdx.edu) that you  are well and will return to class.
-1.  Immediately after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting for each of the discussion sessions you missed.
+1.  _Immediately_ after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting for each of the discussion sessions you missed.
         + If you have not completed the meetings within two weeks, you will not have another opportunity to make up the discussion assignment.
     + There are no other times to meet. I built in maximum flexibility on my part.  If you can't find a spot, rearrange your schedule.
     + Setting up these meetings is your responsibility.
@@ -147,8 +148,8 @@ The one-on-one meetings with me are intended to verify that you have done due di
 There is also the possibility that your illness will make it difficult to stay on schedule to complete your term paper. Because the term paper is a longer-term project, there is more time to catch up. When you are done with your illness that lasts four or fewer classes, you will have three options with respect to the term paper deadlines:
 
 1.  **Situation Normal**:  All remaining deadlines remain the same.
-1.  **I Can Recover**:  All remaining deadlines are pushed back a week, except for the final draft of the paper which is due three days later.
-1.  **Put This Over Here With the Rest of the Fire**:  All remaining deadlines are pushed back two weeks except for the final draft. _This is only available if the student is ill for at least three sessions._  The student will receive an incomplete in the course and must turn in the final draft of the paper by September 1st, 2021 to receive a course grade.
+1.  **I Can Recover**:  All remaining deadlines are pushed back a week, except for the final draft of the paper which is due three days later.  This can only be done after the one-on-one meetings to discuss missed in-class discussions are scheduled.
+1.  **Put This Over Here With the Rest of the Fire**:  All remaining deadlines are pushed back two weeks except for the final draft which is put off for about a year. _This is only available if the student is ill for at least three consecutive sessions._  The student will receive an incomplete in the course and must turn in the final draft of the paper by September 1st, 2021 to receive a course grade.
 
 You must indicate which option you want and can move back towards "Situation Normal" but not the other way.
 
@@ -172,7 +173,7 @@ If my illness extends beyond two absences, I will contact the chair of the depar
 
 All this flexibility comes at a cost to me.  I'm keeping large chunks of my calendar open for one-on-one meetings.  I have to review each article before the meetings and create new discussion questions for each person that gets behind.
 
-I am enthusiastic about helping students that take their education seriously and will aggressively defend and advocate for you in many ways.  
+I am enthusiastic about helping students that take their education seriously and will aggressively defend and advocate for you in many ways. Make me feel like my effort was worth while.  This does not mean thanking me.  It means treating me like I'm someone trying to help you rather than a barrier you are trying to bypass with minimal effort.
 
 # Topics and Readings
 
