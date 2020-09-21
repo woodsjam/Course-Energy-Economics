@@ -23,7 +23,7 @@ This is a companion course to EC 437/537 which will address regulatory and compe
 
 The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites.  The graduate section requires only graduate standing.
 
-As with most economics courses, the more background you bring to the class, the more get from the class.  For this class, it means bringing a background in microeconomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or breaking out laptops for a tutorial on running regressions in R.
+As with most economics courses, the more background you bring to the class, the more get from the class.  For this class, it means bringing a background in microeconomic theory and econometrics.  Not all students will have a background in both and many of the graduate students from outside of economics will have neither.  Any technical skills that students are missing will be supplemented with in-class tutorials.
 
 # Contact Information
 
@@ -46,11 +46,11 @@ Office Hours:
 
 The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415. 
 
-This text will be heavily supplemented with material from the Energy Information Administration (EIA), journal articles and other resources available electronically through the library.
+This text will be heavily supplemented with material from the Energy Information Administration (EIA), journal articles and other resources available electronically through the library.  The goal is to keep the cost down.
 
 # Assessments and Grade Policy
 
-This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing and analysis and presentations. Nearly all work product will be made public to the class, though your grade will not.
+This class will be taught as a collaborative seminar with limited traditional lecture. There are no exams but there will be a considerable amount of writing, analysis and presentations.
 
 + Discussion and Assignments (in total): 43%
 + Final Draft of Term Paper: 20%
@@ -63,7 +63,20 @@ This class will be taught as a collaborative seminar with limited traditional le
 
 Term papers and bibliographies will be turned in online as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  
 
-It is not possible to receive a passing grade in the course without turning in an acceptable final draft of the term paper or missing the a lot of the in-class discussion and reading questions.
+It is not possible to receive a passing grade in the course if you don't in an acceptable final draft of the term paper, or miss  a lot of the in-class discussion and reading questions.
+
+## Grade Policy
+
+Grades will be assigned based on your rank in the class.  Nobody with fewer points than you will receive a higher grade than you. This does not mean that I have a target grade distribution.  It is completely possible for all the students in the class to earn As.  
+
+The last time I taught this class:
+
++ 10 students received As. Two of these students had their paper accepted at a conference. That paper informed PGE's Electric School Bus Project, an ongoing pilot to convert school buses from diesel to electric and support the electric grid in the summer.
++ One student received a C.  The student turned in a low-quality term paper, attended fewer classes than the students that received As but showed little evidence of having read the material.
++ Three received Fs after attending fewer than half the classes and turning in very low-quality term papers that resulted from not paying attention to the term paper requirements, feedback on what they wrote, and advice on how to improve the paper.
++ Three students received Incompletes (I) because they did not turn in a term paper but otherwise had acceptable work and would pass the course if they turned in the term paper. 
+
+Because of the three students that received Fs and the three that received incompletes, there are additional writing supports included in this class.  
 
 ## P/NP Grades 
 
@@ -76,9 +89,7 @@ Please consult your funder for potential financial implications of switching to 
 
 ## Discussion
 
-Discussion will be facilitated by the instructor with the class being broken into semi-permanant teams who will be assigned specific questions about the readings.  These questions will often, but not always, be distributed to the class ahead of time.  
-
-After discussion the teams will publish a summary of their conclusions to the rest of the class and answer questions from the class about the summary.
+Discussion will be facilitated by the instructor with the class being broken into semi-permanent teams who will be assigned specific questions about the readings. After discussion, the teams will publish a summary of their conclusions to the rest of the class and answer questions from the class about the summary.
 
 Teams will be assigned by the instructor during the first week of class. Assignments will be made based a survey of completed math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to succeed.
 
@@ -119,7 +130,7 @@ Term papers must be **less than 20 pages** excluding bibliography, but should be
 
 ## Planning for CoVID-19 Flexibility
 
-There is a good chance that some of us will get sick. The [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) are generally known and the effects are anything between minor and major, temporary and permanant, through to dead.
+There is a good chance that some of us will get sick. The [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) are generally known and the effects are anything between minor and major, temporary and permanent, and death.
 
 I can't plan for every contingency and, as of writing this, PSU has not given much in the way of guidance. Here is my proposed plan for illness that lasts for less than and more than two weeks for both students and faculty.
 
@@ -158,7 +169,7 @@ There is also the possibility that your illness will make it difficult to stay o
 
 1.  **Situation Normal**:  All remaining deadlines remain the same.
 1.  **I Can Recover**:  All remaining deadlines are pushed back a week, except for the final draft of the paper which is due three days later.  This can only be done after the one-on-one meetings to discuss missed in-class discussions are scheduled.
-1.  **Put This Over Here With the Rest of the Fire**:  All remaining deadlines are pushed back two weeks except for the final draft which is put off for about a year. _This is only available if the student is ill for at least three consecutive sessions._  The student will receive an incomplete in the course and must turn in the final draft of the paper by September 1st, 2021 to receive a course grade.
+1.  **Put This Over Here With the Rest of the Fire**:  All remaining term paper deadlines are pushed back two weeks except for the final draft which is put off for about a year. _This is only available if the student is ill for at least three consecutive sessions._  The student will receive an incomplete in the course and must turn in the final draft of the paper by September 1st, 2021 to receive a course grade.
 
 You must indicate which option you want and can move back towards "Situation Normal" but not the other way.
 
@@ -228,7 +239,7 @@ Do not let this section alarm you.  We will only address part of this outline in
         + Viscusi, W. Kip, Joseph E. Harrington, and John M. Vernon. Economics of regulation and antitrust. MIT press, 2005., Ch 21 http://search.library.pdx.edu/PSU:all:CP71189149050001451
         + Metcalf, Gilbert E.. 2009. "Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions." Journal of Economic Perspectives, 23(2): 5-27. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.23.2.5
         + Goulder, Lawrence H. 2013. “Markets for Pollution Allowances: What Are the (New) Lessons?” Journal of Economic Perspectives 27 (1): 87–102. https://www.aeaweb.org/articles?id=10.1257/jep.27.1.87 
-        + Fisher-Vanden, Karen, and Sheila Olmstead. 2013. “Moving Pollution Trading from Air to Water: Potential, Problems, and Prognosis.” Journal of Economic Perspectives 27 (1): 147­–72. https://www.aeaweb.org/articles?id=10.1257/jep.27.1.147 
+        + Fisher-Vanden, Karen, and Sheila Olmstead. 2013. “Moving Pollution Trading from Air to Water: Potential, Problems, and Prognosis.” Journal of Economic Perspectives 27 (1): 147–72. https://www.aeaweb.org/articles?id=10.1257/jep.27.1.147 
     + Natural Gas Outside the US
         + Dahl, Ch 9 - 10.
         + "International Energy Outlook", 2019, EIA, Ch 3. (https://www.eia.gov/outlooks/ieo/pdf/ieo2019.pdf)
