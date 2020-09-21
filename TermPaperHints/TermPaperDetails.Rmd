@@ -36,7 +36,7 @@ If things are not properly cited, you still get full credit, but all the deadlin
 1. Students will schedule a 20 minute review meeting with the instructor the following week. Meetings must be completed by _October 23rd (October 20th) at 5pm_. Scope and depth changes will be agreed to in the meeting.
 
 1. A revised abstract must be submitted by _October 28th (Oct 22) at 5pm_ in the “Revised Abstracts”
-assignment folder in D2L. Abstracts will be discussed in class on October 30th. 
+assignment folder in D2L. 
 
 1. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by  _November 6th (October 30th)  at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
@@ -88,7 +88,7 @@ Look at the cited articles and books in the paper you choose.  Those are the pap
 
 After a paper is published, other people will read it and use it to change what they think about the topic.  Many will then cite the seed paper in later works.  Your next step is to look at the papers that cite your seed paper.
 
-Thankfully, Google scholar (https://scholar.google.com) takes care of much of that for you.  It is not the only way to follow the citation chain but it is the most convenient.  Each citation will have a link that gives a listing of the papers that cited that have cited it.
+Thankfully, Google scholar (https://scholar.google.com) takes care of much of that for you.  It is not the only way to follow the citation chain, but it is the most convenient.  Each citation will have a link that gives a listing of the papers that cited in turn cited it.
 
 In summary, the bibliography lets you see what led up to the paper, and google scholar lets you see how the world reacted to it.
 
@@ -104,10 +104,10 @@ Start reading the articles. I don't mean a deep reading.  Use the multi-pass pro
 + Look at the equations
 + Skim the whole thing
 + Read it but don't freak out if you don't get everything.
-    + Keep notes on your reactions, how the topic connects back and questions (My personal notes on papers are filled with profanity)
+    + Keep notes on your reactions, how the topic connects back and questions (My personal notes on papers are filled with profanity.)
     + Repeat as time allows.
 
-Academic skimming is what allows faculty to keep up on the literature. It goes faster the more you know about a topic.  It is slow going when you are first learning a topic.  Each paper brings up new issues and new ideas.  After a while you will notice you go faster because fewer of the ideas in the paper are new.  One may be similar to another except the data is from another state.  Another may use a new statistical technique.  The more you know the faster it goes.  
+Academic skimming is what allows faculty to keep up on the literature. It goes faster the more you know about a topic.  It is slow going when you are first learning a topic.  Each paper brings up new issues and new ideas.  After a while, you will notice you go faster because fewer of the ideas in the paper are new to you.  One may be similar to another except the data is from another state.  Another may use a new statistical technique.  The more you know the faster it goes.  
 
 As you read, you will notice that you can start categorizing papers.  There is no one way of categorizing.  You could do it chronologically by decade, or by school of thought, or by statistical technique used, or pro or con, just pick something that works to organize them.
 
@@ -117,7 +117,7 @@ While you are reading make notes.
 + What are some key statistics.
 + Keep an eye out for good quotes.
 + Analyze the papers a bit.  Some are better than others and make notes on why the good ones are good and the bad ones are bad.
-+ Look for trends over time on how a topic is treated.  
++ Look for trends over time on how a topic is treated.
 + Look for a hole in the literature.  Is there a topic that has been missed?  That would be a great motivation for a later original contribution to the literature.
 
 Once you read enough, you can start to put together a thesis and actually construct a literature review.
@@ -134,7 +134,7 @@ Here are some good places to start your reading.  Just skim some titles and see 
     + Energy Economics http://www.journals.elsevier.com/energy-economics/
     + The Energy Journal https://www.jstor.org/journal/energyj
     + Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
-    + Energy: The International Journal has economics and engineering http://www.journals.elsevier.com/energy/
+    + Energy: The International Journal  http://www.journals.elsevier.com/energy/ This has economics and engineering
     + Energy Policy http://www.journals.elsevier.com/energy-policy/
     + Utilities Policy (for more electricity focused reading) http://www.journals.elsevier.com/utilities-policy/
 
@@ -164,11 +164,11 @@ Get narrow.
 
 Get tractable.
 
-Once you have a reasonable abstract you can start building your literature review.
+Once you have a reasonable abstract, you can start building your literature review.
 
 ## But I'm Working on an Empirical Paper
 
-If you want to work with data you still have to create a literature review but it is just part of your paper, not the whole thing.  You still need to situate what you are doing in the existing body of knowledge but after that the steps are a little different.
+If you want to work with data you still have to create a literature review but it is just part of your paper, not the whole thing.  You still need to situate what you are doing in the existing body of knowledge but after that, the steps are a little different.
 
 Chapter 19 of Wooldridge's, "Introductory Econometrics: A Modern Approach" has great advice on how to approach an empirical paper.  The book is on electronic reserve. 
 
@@ -210,13 +210,13 @@ This is not to your advantage.
 
 The usefulness of my comments is usually proportional to the effort you put into the paper.  If I spot a paper that clearly went from blank page to me in under 24 hours, my comments are very generic and hardly specific to the topic.  They are often are just links back to guidance on how to write a literature review and some ego preserving comments about, 'clearly early work'.  
 
-There is little guidance I can give beyond this because there is so little there.
+There is little guidance I can give beyond this because there is so little there. 
 
 Good papers, where it is clear that the source material has been read and thought has gone into the argument get the most help.  I edit the paper at the point.  I give missed references.  I clarify and correct your interpretation of statistics.  
 
-I may spend only ten minutes reading and commenting on poorly written paper but I'll spend an hour on a good one.
+I may spend only ten minutes reading and commenting on poorly written paper, but I'll spend an hour on a good one.
 
-It short, the less time you put into your paper before it gets to me, the less help you get from me, and the more work you have to do before the final draft.
+It short, the less time you put into your paper before it gets to me, the less help I can give you, and the more work you have to do before the final draft.  
 
 
 # Term Paper Resources
