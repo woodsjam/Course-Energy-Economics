@@ -27,26 +27,26 @@ As with most economics courses, the more background you bring to the class, the 
 
 # Contact Information
 
-<!-- Communication will be handled through slack https://psuenergyecon.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users -->
+Communication will be handled through slack https://psuenergyecon.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
-<!-- Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings. -->
+Slack will be used for IM, email and forum style communication.  It even handles voice calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
 
 
-<!-- Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.   -->
+Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.
 
 
 Office Hours:
 
 
 + There are no in-person office hours this term.  We will use Zoom to meet face-to-face. 
-+ Drop in office hours are Monday 3-4pm and Tuesday 10am-11am through the last week of class. I will keep a Zoom meeting up during this time.
++ Drop in office hours are Monday 3-4pm and Tuesday 10am-Noon through the last week of classes. I will keep a Zoom meeting up during this time.
 + You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
 
 # Textbook and Other Resources
 
 The main text for the course is Dahl, Carol. _International Energy Markets: Understanding Pricing, Policies, & Profits._ PennWell Books, 2015.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415. 
 
-This text will be heavily supplemented with material from the Energy Information Administration (EIA), the textbook authors website, and journal articles and other resources available electronically through the library.
+This text will be heavily supplemented with material from the Energy Information Administration (EIA), journal articles and other resources available electronically through the library.
 
 # Assessments and Grade Policy
 
@@ -63,7 +63,16 @@ This class will be taught as a collaborative seminar with limited traditional le
 
 Term papers and bibliographies will be turned in online as a pdf or a link to a google doc with PSU log in and granted comment privileges.  Malfunctioning links or corrupted files will be interpreted as a missed deadline and receive half the normal credit if corrected within 24 hrs. If a deadline is missed by more than 24 hrs, zero credit will be given.  
 
-It is not possible to receive a passing grade in the course without turning in the final draft of the term paper.
+It is not possible to receive a passing grade in the course without turning in an acceptable final draft of the term paper or missing the a lot of the in-class discussion and reading questions.
+
+## P/NP Grades 
+
+PSU's policy on how P/NP grades will be used during the COVID-19 pandemic is in flux.  For Fall term, P/NP grades will count as letter grades for satisfying major and degree requirements.  
+
+Most faculty expect there to be an asterisk on pandemic period grades, but we can't guarantee how they will be perceived outside PSU.
+
+Please consult your funder for potential financial implications of switching to P/NP.  Not all scholarships will fund P/NP courses, and the VA may ask for a return of tuition, fees and associated BAH payments if the student does not pass the course.
+
 
 ## Discussion
 
@@ -121,7 +130,7 @@ This is the, you are probably not going to die but feel really miserable type of
 
 Here is what you do for class when you get sick:
 
-1. Notify Jamie (woodsj@pdx.edu) immediately.  This needs to be before the missed class.  
+1. Notify Jamie (woodsj@pdx.edu or slack @woodsj) immediately.  This needs to be before the missed class.  
     + Don't turn in the assignment just before the deadline and then send an email that you are ill and can't make it to class.
     + If you turned in the homework the day before and then don't feel well the next day and have to email me, that is fine.
 1. Keep notifying Jamie when you are missing class because of illness.
@@ -131,15 +140,15 @@ Here is what you do for class when you get sick:
 
 You now feel better and you have missed four or fewer classes:
 
-1.  Notify Jamie (woodsj@pdx.edu) that you  are well and will return to class.
-1.  _Immediately_ after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting for each of the discussion sessions you missed.
+1.  Notify Jamie (woodsj@pdx.edu or slack @woodsj) that you  are well and will return to class.
+1.  _Immediately_ after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting *for each* of the discussion sessions you missed.
         + If you have not completed the meetings within two weeks, you will not have another opportunity to make up the discussion assignment.
     + There are no other times to meet. I built in maximum flexibility on my part.  If you can't find a spot, rearrange your schedule.
     + Setting up these meetings is your responsibility.
     + The calendar only goes out two weeks on purpose.  You need to catch up within two weeks.
     + Let me know the exact article or chapter we will be discussing for each meeting.  There is a space on the scheduling form.
 1. Study the readings that you missed.
-1.  In any event, the meetings must be completed by the end of the last week of class. 
+1.  In any event, the meetings must be completed by the end of the last week of class -- not final exam week. 
     + There is not much I can do if you are ill for the last two weeks of class.  There is simply no time to make up the material.
     
 
@@ -177,9 +186,8 @@ I am enthusiastic about helping students that take their education seriously and
 
 # Topics and Readings
 
-Do not let this section alarm you.  We will only address part of this outline in the class. As with most of my upper-division courses, we will complete a small subset at the start of the class and then vote on each succeeding topic. Each topic will have an assignment, usually working with real data or using a model from the readings.
+Do not let this section alarm you.  We will only address part of this outline in the class. Much of it is optional reading.  The details of what is required will be in D2L.
 
-Each topic has some readings that both undergraduates and graduate students will read and some that are specific to each. Note that some of these modules will be shared with the Public Utility Economics course and I will be adding optional topics and supplementary readings throughout the term.
 
 + Introduction of Core Topics
     + Overview  
