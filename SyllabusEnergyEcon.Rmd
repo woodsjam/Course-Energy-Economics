@@ -84,6 +84,7 @@ PSU's policy on how P/NP grades will be used during the COVID-19 pandemic is in 
 
 Most faculty expect there to be an asterisk on pandemic period grades, but we can't guarantee how they will be perceived outside PSU.
 
+
 Please consult your funder for potential financial implications of switching to P/NP.  Not all scholarships will fund P/NP courses, and the VA may ask for a return of tuition, fees and associated BAH payments if the student does not pass the course.
 
 
@@ -93,7 +94,7 @@ Discussion will be facilitated by the instructor with the class being broken int
 
 Teams will be assigned by the instructor during the first week of class. Assignments will be made based a survey of completed math, economics and statistics courses. The intent is to ensure that each team has the skills it needs to succeed.
 
-A team may remove a member by an anonymous 3/4th majority vote of current members. Removed members will act as a team of one until other teams remove members or students join the class. Removed members may join other teams by an anonymous 3/4th majority vote of the receiving team. All votes will be conducted by the instructor. The instructor reserves the right to reassign students to teams should there be large differences in team size.
+A team may remove a member by an anonymous simple majority vote of current members. Removed members will act as a team of one until other teams remove members or students join the class. Removed members may join other teams by an anonymous  vote of the receiving team. All votes will be conducted by the instructor. The instructor reserves the right to reassign students to teams should there be large differences in team size.
 
 Teams are expected to create intuitive explanations, make critical statements, and field reasonable questions.  Performance will be evaluated by the instructor on a 0 to 5 scale.  Feedback from students in the form of Best and Worst group member will be collected at the end of the class meeting.
 
@@ -152,7 +153,7 @@ Here is what you do for class when you get sick:
 You now feel better and you have missed four or fewer classes:
 
 1.  Notify Jamie (woodsj@pdx.edu or slack @woodsj) that you  are well and will return to class.
-1.  _Immediately_ after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting *for each* of the discussion sessions you missed.
+1.  _Immediately_ after that go to https://woodsj.youcanbook.me/ and schedule a 20 minutes meeting **for each** of the discussion sessions you missed.
         + If you have not completed the meetings within two weeks, you will not have another opportunity to make up the discussion assignment.
     + There are no other times to meet. I built in maximum flexibility on my part.  If you can't find a spot, rearrange your schedule.
     + Setting up these meetings is your responsibility.
@@ -165,7 +166,7 @@ You now feel better and you have missed four or fewer classes:
 
 The one-on-one meetings with me are intended to verify that you have done due diligence on the reading and are thinking about the issues at a college level and connecting them to what you know about economic theory and statistics. I will grade these meetings the same way I grade in class discussion.
 
-There is also the possibility that your illness will make it difficult to stay on schedule to complete your term paper. Because the term paper is a longer-term project, there is more time to catch up. When you are done with your illness that lasts four or fewer classes, you will have three options with respect to the term paper deadlines:
+There is also the possibility that your illness will make it difficult to stay on schedule to complete your term paper. Because the term paper is a longer-term project, there is more time to catch up. When you are done with your illness that lasts four or fewer classes in a row, you will have three options with respect to the term paper deadlines:
 
 1.  **Situation Normal**:  All remaining deadlines remain the same.
 1.  **I Can Recover**:  All remaining deadlines are pushed back a week, except for the final draft of the paper which is due three days later.  This can only be done after the one-on-one meetings to discuss missed in-class discussions are scheduled.
@@ -185,7 +186,7 @@ Please contact financial aid and your scholarship funder to talk about financial
 
 Here is where there is less certainty and less flexibility.  We don't really have the ability to have backup for all our courses. There is no backup for this class.
 
-I will make an announcement if I can't make it to our regular meeting time. In that case, the zoom meeting will be canceled and the discussions may or may not be rescheduled depending on class schedule. 
+I will make an announcement if I can't make it to our regular meeting time. In that case, the zoom meeting will be canceled and the discussions may or may not be rescheduled depending on class schedule and how far ahead I have prepared discussion questions. If I have already prepared questions, discussion will be led by the graduate assistant.
 
 If my illness extends beyond two absences, I will contact the chair of the department and work out what to do.  PSU has not done any contingency planning for faculty illness, incapacitation, hospitalization or death.  Sorry about not having details.
 
