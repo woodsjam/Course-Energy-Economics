@@ -175,4 +175,4 @@ Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e143205
     + Recover fly ash and sell it, great for concrete.
     + SOx, Mercury and other.  BTW Radiation
 
-# Get Hands Dirty with Data
+
