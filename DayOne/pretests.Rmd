@@ -1,6 +1,7 @@
 ---
 title: "Pre-test"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +20,11 @@ Show two sets of indifference curves, one where the two goods are very close sub
 
 ##
 
+##
+
 Using a reasonable set of indifference curves and budget constraint show the utility maximizing bundle.
+
+## 
 
 ## 
 
@@ -27,12 +32,17 @@ With a similar budget constraint and indifference curves show what happens to th
 
 ## 
 
+##
+
 With a similar budget constraint and indifference curves show what happens to the utility maximizing bundle when the price of the good on the horizontal axis increases after you purchases Z units. 
+
+##
 
 ##  Theory of the firm (Graphical)
 
 Show a set of cost curves, i.e., average cost, marginal cost, and average variable cost for some firm.
 
+## 
 
 ## 
 
@@ -40,12 +50,17 @@ With the same cost curves show demand and marginal revenue for a firm with marke
 
 ## 
 
+##
+
 Show profit maximizing output, profit, total cost and total revenue for this firm.
+
+##
 
 ## Theory of the firm (Math)
 
 The firm has a cost function, $Cost = 10 + 3 q$, and faces a demand function of $p = 30 - 2 q$.  What is profit maximizing output?
 
+##
 
 ## Theory of the individual (Calc)
 
@@ -59,6 +74,8 @@ What are the demands for $x_1$ and $x_2$
 & & x_1 + p x_2  \leq I
 \end{aligned}
 \end{equation*}
+
+##
 
 ## Econometrics
 
