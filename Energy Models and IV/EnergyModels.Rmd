@@ -1,6 +1,7 @@
 ---
 title: "Energy Models"
 output: beamer_presentation
+
 ---
 
 ```{r setup, include=FALSE}
@@ -89,7 +90,7 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 
 + Don't laugh, this works.
 + Old hands make very good guesses based on experience.
-+ GDP even has components that are based on analyst's best judgement.
++ GDP even has components that are based on analyst's best judgment.
 + This can be combined with incentivised polls or parimutuel betting to make it work better.
   + The Iowa Electronic Markets are a common example, though there are others. https://tippie.biz.uiowa.edu/iem/markets/ 
 
@@ -174,6 +175,7 @@ The idea is that if you hold a particular belief, you are more likely to think t
     + Create systems you can use when the situation is clearer.  Think peaking power plants that only run a few days a year.
 
 # I/O Models
+
 + Old school -- 1920s Leontief
 + Has an equilibrium concept
 + Assumes fixed ratios are used in production
@@ -186,6 +188,7 @@ The idea is that if you hold a particular belief, you are more likely to think t
 + Book has an overly long explanation.
 
 # Walk Through I/O model
+
 $x_1 = \alpha_{1,1} x_1 + \alpha_{1,2} x_2 + d_1$
 
 + $x_1$ is how much of good one that gets made.
@@ -221,7 +224,7 @@ X is what you need to produce to get d.
 
 + A typical Example is estimates of  Unit Energy Consumption (UECs)
     + The EIA Residential Energy Consumption Survey (RECS) http://www.eia.gov/consumption/residential/reports/2009/methodology-end-use.cfm
-    + California Residential Appliance Saturation Study (RASS) http://www.energy.ca.gov/appliances/rass/
+    + California Residential Appliance Saturation Study (RASS) https://ww2.energy.ca.gov/appliances/rass/
     
 + Check the details for RASS and see how they combine engineering estimates with regression analysis.     
     + http://www.energy.ca.gov/2010publications/CEC-200-2010-004/CEC-200-2010-004-V1.PDF.
@@ -245,7 +248,7 @@ X is what you need to produce to get d.
 + Old school experiments, A/B testing and more, run on people
 + Field experiments are common in economics now
     + Esther Duflo received the Bates Clark Award 2010
-    + Bluffstone in Econ is running two now in Ethiopia and Nepal.
+    + Bluffstone and others in Econ is running two now in Ethiopia and Nepal.
     
 + Typical Issues
     + Internal validity
