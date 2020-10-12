@@ -36,17 +36,17 @@ In general, the deeper the coal the older it is and the more likely it is higher
     
 # Pictures: Peat
 
-![](https://static1.squarespace.com/static/55f2f390e4b07f7a5942082d/t/55f9d5a7e4b077743814a8a2/1442436526696/?format=1500w)
+![](peat.jpg)
 
 # Pictures: Anthracite
 
-![](https://media1.britannica.com/eb-media/51/127751-004-97D5367E.jpg)
+![](Anthracite.jpg)
 
 # Pictures: Bituminous
-![](https://upload.wikimedia.org/wikipedia/commons/2/20/Coal_bituminous.jpg)
+![](Coal_bituminous.jpg)
 
 # Pictures: Lignite
-![](http://geology.com/rocks/pictures/coal-lignite-380.jpg)
+![](coal-lignite-380.jpg)
 
 
 # Heat Content, Sulfur, Carbon.
@@ -71,7 +71,7 @@ Anthracite| 90%+    | 28M+      |
 
 # Where do you find it in the US?
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/89/US-Coalbed-Gas-Fields.jpg)
+![](US-Coalbed-Gas-Fields.jpg)
 
 # How do you mine it?
 
@@ -86,7 +86,7 @@ Anthracite| 90%+    | 28M+      |
     
 # Mountaintop Removal
 
-![](https://earthjustice.org/sites/default/files/styles/media_slideshow/public/ovec_mtr12_1.jpg)
+![](ovec_mtr12_1.jpg)
 
 # Underground Fires
 
@@ -108,7 +108,7 @@ Keep in mind that transportation is often more expensive than mining.
 
 # Rail Map
 
-![](https://www.nap.edu/openbook/030911022X/xhtml/images/p200136eeg82001.jpg)
+![](p200136eeg82001.jpg)
 
 # A few comments on the map
 
@@ -117,9 +117,9 @@ That huge wave coming out of Wyoming wasn't there till the 90s.
 + That is Powder River
 + It has low sulfur and was not used until SOX controls on power plants were required in 1990.
 + Tends to be cheap
-      + BLM land
-      + Auctions on mining rights almost always had one bidder.
-      + Those mining rights are a current topic.
+  + BLM land
+  + Auctions on mining rights almost always had one bidder.
+  + Those mining rights are a current topic.
 
 # Burning Coal is a tradeoff
 
@@ -131,7 +131,7 @@ That huge wave coming out of Wyoming wasn't there till the 90s.
     + Less NOX and SOX
     + More particulates PM 10 and PM 2.5
 
-You either start with low sulfur coal, burn at lower temperature or scrub after.  Trad-offs depend on prices and technology.
+You either start with low sulfur coal, burn at lower temperature or scrub after.  Trade-offs depend on prices and technology.
 
 # Why coal?
 
@@ -149,11 +149,11 @@ We could not keep up with heating and steel demand.  The first industrialized co
 + UK would have run out of mill sites by 1830.
 + Even used intensive management like pollarding to produce more wood.
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b7/D%C3%BClmen%2C_Umland_--_2014_--_14.jpg){ width=50% }
+![](440px-Dülmen,_Umland_--_2014_--_7064.jpg){ width=50% }
 
 # Metalurgical Uses
 
-+ You need carbon, and other things, to turn iron into coal.  
++ You need carbon, and other things, to turn iron into steel.  
 + You also need carbon to smelt iron.
 + You need a lot of energy to do this.
 + Metallurgical coal is ~ \$200/ton.  Steam coal is <\$50/ton.
@@ -161,7 +161,7 @@ We could not keep up with heating and steel demand.  The first industrialized co
 
 # Electrical Generation from the outside
 
-![](http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg)
+![](Asheville-coal-plant-e1432059203783.jpg)
 Source: http://appvoices.org/images/uploads/2012/02/Asheville-coal-plant-e1432059203783.jpg
 
 # Coal on the inside
