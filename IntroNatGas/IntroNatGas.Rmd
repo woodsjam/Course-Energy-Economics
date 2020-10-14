@@ -10,19 +10,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Where is it produced? Just conventional
-![](https://www.lib.utexas.edu/maps/united_states/us_gas_production_in_conventional_fields-2009.jpg)
+![](us_gas_production_in_conventional_fields-2009.jpg)
 
 
 ## More in the shale areas.
-![](https://www.eia.gov/maps/images/shale_gas_lower48.jpg)
+![](shale_gas_lower48.jpg)
 
 ## Fracking Well. Will see with oil well with associated gas
 
-![](https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2012/06/12/47784444-Nat-gas-fracking-the-well.jpg)
+![](47784444-Nat-gas-fracking-the-well.jpg)
 
 ## How do you move it within the US? Pipelines.
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/47/Natural_gas_pipelines_map.png)
+![](Natural_gas_pipelines_map.png)
 
 ## What about those pipelines?
 + There are more intrastate pipelines than shown, plenty in TX and CA but also other states
@@ -36,19 +36,19 @@ knitr::opts_chunk$set(echo = FALSE)
     
 ## Compressors
 
-![](https://stateimpact.npr.org/pennsylvania/files/2014/08/Compressor2-620x410.jpg)
+![](Compressor2-620x410.jpg)
 
 ## Compressor Station
 
-![](http://www.gdacoalition.org/GDAC_Images/CompressorStation1.JPG)
+![](CompressorStation1.jpg)
     
 ## Storage is important
 
-![](https://www.eia.gov/todayinenergy/images/2015.11.16/chart3.png)
+![](chart3.png)
 
 ## Most Storage is just old gas wells
 
-![](http://www.energyinfrastructure.org/~/media/energyinfrastructure/images/ng-storage/updated-2-18/typeofngstoragegraphic-218.png?la=en)
+![](typeofngstoragegraphic-218.png)
 
 ## Storage is very seasonal
 
@@ -60,7 +60,7 @@ There is a weekly report on storage by EIA http://www.eia.gov/dnav/ng/hist/nw2_e
 
 ## Hubs, where transactions are made
 
-![](MarketCenterHubsMap.gif) 
+![](MarketCenterHubsMap.png) 
 
 ## Part of Henry Hub LA
 
@@ -109,9 +109,7 @@ It is hard to talk about gas separate from transportation.
         
 ## Transactions Cost Economics
 
-Goes back to Coase 1937 (Nobel).  Williamson (Nobel also). Elinor Ostrom (Nobel too).
-
-This just in Hart and Holstrom (2016 Nobel)
+Goes back to Coase 1937 (Nobel).  Williamson (Nobel also), Elinor Ostrom (Nobel too), Hart and Holstrom (2016 Nobel)
 
 Transactions are not cost free:
 
