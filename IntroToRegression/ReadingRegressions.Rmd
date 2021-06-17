@@ -2,8 +2,7 @@
 title: "Reading Regression Output Without Taking Econometrics"
 author: "James Woods"
 date: ''
-output:
-  beamer_presentation: default
+output: powerpoint_presentation
   
 
 ---

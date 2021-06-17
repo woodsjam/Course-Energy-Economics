@@ -1,9 +1,14 @@
 ---
 title: "Syllabus EC438/538 Fall 2020"
 author: "James Woods"
-date: ""
-output: pdf_document
+date: ''
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
 fontsize: 12pt
+sansfont
 ---
 
 ```{r setup, include=FALSE}

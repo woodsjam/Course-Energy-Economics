@@ -1,6 +1,7 @@
 ---
 title: "Intro To Coal"
-output: beamer_presentation
+output: powerpoint_presentation
+  
 ---
 
 ```{r setup, include=FALSE}

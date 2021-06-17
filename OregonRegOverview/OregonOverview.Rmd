@@ -48,6 +48,7 @@ The power that gets to your house could be:
 # Part of the Western Interconect
 
 ![](Nercmap.jpg)
+
 # The Interconnects
 
 + Everyone runs at 60 Hz
