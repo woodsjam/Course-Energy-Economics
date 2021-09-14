@@ -6,7 +6,7 @@ output:
   pdf_document: default
 fontsize: 12pt 
 ---
-
+1
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -19,7 +19,7 @@ The official description of the course is:
 
 This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural, and telecommunications. The order of the courses has changed to reflect the evolving nature of the field.
 
-I provide two paths through this course. The first path focuses on a term paper. The second is more focused on classroom discussion, homework and exams.
+I provide two paths through this course. The first path focuses on a term paper. The second is more focused on classroom discussion and exams.
 
 The term paper path requires some qualification steps. If quality and progress are not sufficient to produce a reasonable term paper, you will be shifted back to the second, more traditional path with significant make up work in the later half of the course.
 
@@ -27,11 +27,17 @@ The term paper path requires some qualification steps. If quality and progress a
 
 The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites. The graduate section requires only graduate standing.
 
+## Technology Requirements
+
+It is assumed that you can access the class via zoom and have a functioning web browser that can access google docs.  The slides are interactive and assume you have some kind of touch or pseudo-pen. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
+
+The technology requirements are your responsibility. 
+
 # COVID-19
 
 The PSU campus is set to open with all students and faculty vaccinated and that everything will go back to normal.
 
-If they mentioned a free pony -- I missed it.
+If they mentioned a pony -- I missed it.  We will take the more prudent approach and plan for quarantining and heterogeneous response to the vaccine.  In other words, we are planning for breakthrough infections and some people having a less effective response to the vaccines.
 
 ## Health and Safety
 
@@ -41,9 +47,12 @@ I will be applying an abundance of caution and planning for the possibility of a
 
 We will also be following a few simple practices:
 
--   Office hours will generally be held in covered rooftop area on the fourth floor of the Urban Center Building. I'll be easy to spot.
+- Monday office hours will generally be held in covered rooftop area on the fourth floor of the Urban Center Building as long as weather permits. I'll be easy to spot.
 
--   ~~If you have a cough, cold, runny nose or `think you are comming down with something`,~~ wear a mask in class or join remotely.
+- Tuesday office hours will be online only.
+
+- Wear a mask in class or join remotely.
+
 
 # Contact Information
 
@@ -58,7 +67,7 @@ Office Hours:
 
 # Basis for Grade
 
-The two paths through the class have many of the same requirements but very different emphasis.
+The two paths through the class have many of the same requirements but very different emphasis.  Previously the term paper was mandatory but last year a larger number of students simply never completed a term paper.
 
 Unless you opt-in to writing a term paper and show satisfactory preparation and performance, you will be on the Discussion and Exams path.
 
@@ -75,8 +84,8 @@ The proportion of your grade from each task is defined below.
 -   Table Read Creation and Leadership: 30%
 -   Table Read Participation: 10%
 -   Homework: 20%
--   Midterm (): 20%
--   Final () : 20%
+-   Midterm (Oct 27): 20%
+-   Final (Dec 9, 12:30-2:20) : 20%
 
 ## Basis for Grade; Term Paper
 
@@ -117,8 +126,8 @@ Your basis for grade will become:
 -   Table Read Creation and Leadership: 23%
 -   Table Read Participation: 20%
 -   Homework: 15%
--   Midterm (): 20%
--   Final () : 20%
+-   Midterm (Oct 27): 20%
+-   Final (Dec 9, 12:30-2:20) : 20%
 
 There will also be some reworking of the table read assignments. Those that continued on the exam path will have fewer assignments to allow those that did not have table read assignments, while they worked on term papers, to catch up.
 
@@ -136,17 +145,22 @@ Sticking with one option is easy.
 
 ## What Ifs
 
+-   Q: What if I am on the *term paper* system and I get sick? A: It depends on how severe it is. If it is something mild, less than two weeks, we can adapt. If it is severe, longer than two weeks, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back. 
+
+-   Q: What if I am on the *exam based* system and I get sick on exam day? A: It depends on how severe. If you can work, but should not be on campus, take the exam remotely. If it is more severe than that, you can do one, and only one, *make-up exam on November 24th*. If you are sick on make-up exam day and have a passing grade, we can give you an incomplete, if not, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back.
+
+
 # The In-class Experience
 
 ## Table Reads
 
 ## Exam Days
 
-For those on the exam path, there is both a midterm and a final exam in this class. These are different from the homework assignments, which focus on one chapter or article at a time. The questions will require you to synthesize what you have learned, comparing and contrasting, using models and data from multiple sources to support your argument.
+For those on the exam path, there is both a midterm and a final exam in this class. The questions will require you to synthesize what you have learned, comparing and contrasting, using models and data from multiple sources to support your argument.
 
 These are open-note, open-book exams, but that should indicate that these are more difficult questions. Don't expect to burn through some algebra problems. If you are familiar with Costa's levels of inquiry, these are level three questions. The homework will tend to be level two and one.
 
-A set of potential questions will be distributed ahead of the exams. Only a subset or variation of the questions will be chosen for the exam.
+A set of potential questions will be pinned in slack. Only a subset or variation of the questions will be chosen for the exam.
 
 On exam day a Google doc will be shared with you. You should complete your work in that document. If you need to include diagrams or mathematical derivations and don't want to spend the time you can do those on paper, take a photo and upload it to the associated D2L assignment folder. Each photo should be labeled, e.g., figure 1, with corresponding text in your Google doc to indicate where the figure should be included.
 
@@ -163,3 +177,43 @@ Since multiple students will be assigned the same sections of papers and textboo
 Each of you will have a single vote per section. The instructor will have 2 or 3 depending on the size of the class. Grades will be determined by an [instant runoff vote](https://en.wikipedia.org/wiki/Instant-runoff_voting).
 
 # Textbook and Other Resources
+
+The course is classically organized by fuel but I have rearranged the topics as they relate to more current issues. 
+
++ The death of coal?
+    + Why we started using coal?
+    + Who is still using coal and why.
+    + SOx trading.
+    + The rise of cheap natural gas and combined cycle natural gas in electricity generation.
+    + Where PV, wind, coal, nuclear fit in electricity dispatch
++ What is up with Texas?
+    + The basics of electricity generation, transmission and distribution.
+    + Deregulation
+    + Markets for power
+    + Markets for transmission
+    + Untangling the ERCOT heatwave and coldwave reaction. 
++ Carbon, the new energy market
+    + Basics for beginners
+    + How do you do Cost Benefit analysis with future generations.  I thought everyone liked pizza.
+    + Complications is implementing carbon cap and trade or taxes.
+    + The EU
+    + China
+    + How did we screw this up?
++ Transposition electrification
+    + The rise of cars and the infrastructure of cars.
+    + The 70s
+    + Markets for oil, oil prices and oil demand.
+    + The electric car
+    + What does EV infrastructure look like?
++ What does the future look like?  Shakes magic 8 ball.
+    + Distributed generation and storage.
+    + Its an EV.  Its a battery.  Its both.
++ Rural and other electrification efforts
+    + US rural electrification and our electricity technology
+    + Lights! Education! Health! But, for who?
+    + DC networks and distributed generation
++ PNW
+    + IOUs, PUDs and our old-school cost of service regulation
+    + The edge of the CAISO, the energy imbalance market
+    + Bonneville Power Administration, hydro power and international treaties
+    

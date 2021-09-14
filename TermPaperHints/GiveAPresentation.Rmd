@@ -7,9 +7,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# From the Syllabus
-
-> Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled completed by about _November 13th (November 6th)_ unless the author team wants to schedule something earlier.  The deadline is variable since we can only handle four presentations per class meeting. Early drafts and annotated bibliographies should be distributed before the presentation through slack the day before the presentation so that the class can review the material.
+Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
 
 # Details
 

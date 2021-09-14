@@ -1,0 +1,175 @@
+---
+title: "In-Class Meetings"
+output: pdf_document
+---
+
+We have been through remote learning for a few terms now and have seen how it can work and how it fails.  Zoom has made some face-to-face learning possible but it does not allow the kind of quick overlapping conversations that we can have in the real.  It has also exposed how ineffective the traditional sage-on-stage lectures are for most students.
+
+What we see as faculty is a bunch of black squares with video cameras off and microphones off, what I can off/off.  Some people will turn on microphones and interact with others when put in small 4 person breakout rooms, but there is still room for improvement.
+
+I understand the desire to turn off the mic and the camera and just listen.  I've been at a few seminars being an off/off.  It is far less stressful and exhausting.  I had doctor describe and hour of zoom as being as tiring as two hours in the real.
+
+What we have is a mass of trade-offs and externalities.
+
+If you keep on/on rather than off/off you are more likely to be engaged and learn, but on/on is more stressful than off/off.  Most students have been opting for off/off.
+
+Your off/off or on/on choice also has externalities.  Being on/on helps out your instructor with feedback cues and helps out other students in discussion. As with every good with a positive externality there is a less than socially optimal amounts of on/on students. 
+
+Rather than fight the decision of the majority of students to keep off/off, I will embrace it and find a way to make it more effective.  At the same time, I will fix a few other student engagement problems.  
+
+The plan I put forth below was inspired by silent meetings as practiced at Amazon and tested out in my Fall 2020, Energy Economics course. We will tweak the rules as we go along.  You can read about how this is implemented in general meetings [here](https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb).  We will be modifying it for a classroom setting.
+
+# What Class Looks Like
+
+Lets be clear, silent meetings are far from silent.  There is a lot of talking, but there are long periods where there is not much talking and plenty of writing.
+
+We will generally start with our pleasantries and then open up the table read.  The **table read**, a google doc, has been available for a few days.  It is a 5 or 6 page document that follows the outline of a chapter or paper.  In the document will be elaborations on arguments in the paper, links to external data or resources, proposed worked problems and a few probe questions.
+
+The first 30 minutes or so will be the class, mostly, silently reading the document and adding questions, requests for worked examples and diagrams, clarifications and objections. Students can also get started on some of these additions.
+
+After the first silent reading period is over, the **student owners**, defined below but basically the author, of each section will summarize the comments and suggestions for their sections.  Students may add other requests at this time.
+
+The student owners will then allocate the requested tasks.  The owner may complete a few of the tasks themselves and then request that  small groups be placed in a breakout room to fulfill a request -- like completing a worked example.
+
+We will iterate a few times.  After that the document remains live and available to help with homework and exams.
+
+# How Does This Help?
+
++ Reading material before class has become rare.  This gives some time in class to do the reading, much in the same way you did in high school. 
++ Reading is much faster than listening, so we can get more done during our in-class meetings, and does not penalize non-native English speakers.
++ You are not required to read either the document or the books and journal articles in class, but it becomes a more viable option.
++ Students can start commenting and asking questions about the read document, and the reading, before class starts and they can do some work on their own schedule.
++ Zoom hampers some communication.  Only one person can speak at a time unless people are in breakout rooms and those are hard to allocate on the fly.  Technically, zoom is great at one-to-many and one-to-one communication but terrible at many-to-many.  We can very easily all type comment and add to google documents.  We can do many-to-many.
++ The usual one-to-many mode of the classroom, where the instructor talks and you take notes, leads to zoning out. Even faculty do this in meetings.  Active reading, typing, and asking questions is just that -- active.  You are engaged in the course material rather than making sure you have perfect form on your plank.
++ Students that don't normally interact on camera are more likely to interact in text and be engaged with the class.
++ Links, new information and clarifications can be added on the fly for later use rather than the awkward audibles we use now.
++ Students are in charge of the table read  That means there is greater incentive to read and understand the material.  You have to be actively engaged to write a good table read.
++ If you still have questions after the class period on something in the read doc, you can still ask in the table read.
++ You can refer to the table read, which we all worked on, after class.
+ 
+# Implementation
+
+There will be some rules and timing issues around the creation of the table reads.
+
+1. About a week before the table reads will be used in class Jamie will produce a google doc that will include the headings of the chapter we will be studying or the paper we will be looking at.
+    1. You can insert figures, and [Equations](https://www.howtogeek.com/436537/how-to-use-the-equation-editor-in-google-docs/).
+    1.   Equations are \LaTeX based.
+
+1. Individual sections will be assigned to class members, the `student owners`, round-robin fashion alphabetically. You can't bow out or delay this.  You will have to do this several times during the term.  The exact number depends on how many people are in the class.
+
+1.  It is the students' responsibility to create the table read.  We will grade it using the rubric below.
+    1. If you need help, schedule a meeting with Jamie at https://woodsj.youcanbook.me/
+    1. Don't wait until the last minute. You can't knock this out in an hour or two and need to closely read more than just your section.
+    1.  You will need to seriously edit.  It is not write, done.  It is write, edit, edit, ..., done.
+    1.  Linking to parts of books, data, articles, other outside references, even other table reads is good.  Every section should probably have some, but they are for additional information.  Don't expect everyone to read that material.
+
+1.  Progress must be made on the table read **within three days** of assignment.
+    1. I will check in on the shared Google doc and if there is not some significant outline or bullet points, the student owner will receive a zero on the assignment.
+    1. Volunteers will be asked to step in on **day four** to take over the section to replace their lowest table read grade or zero.
+    1. If no volunteer is found by the end of day four, Jamie will complete the section of the table read and impose an additional Pigouvian penalty of reducing the former owner's median table read grade to zero, or if no table read grades are available, the lowest homework grade.
+
+1.  At the start of class    
+    1. Pleasantries.
+    1. Introduce the student owners of the read doc.
+    1. Everyone sets the document to "suggesting mode"
+    1. Set a 30 minute timer for the first read.
+
+1. The first read 
+    1.  Read
+    1. Never push the `resolve` button in comments.  It deletes the thread.
+
+1. Examples of what to do during a read
+    1.  What does this technical word mean?  I should do a quick search for a definition and link it.
+    1.  There must be a longer argument here, but I don't know it.  Ask for it to be added in a comment (ctrl+alt+m or insert:comment)
+    1.  That is a good probe question at the bottom of the section.  I will work on that in suggesting mode.  I may need some help, so I will add comments (ctrl+alt+m, or insert:comment) asking for help.
+    1.  This really needs a worked example.  Ask for one in the comments and then get started on the idea as an appendix at the bottom of the document.
+    1.  This would be better with a graphic.  I'll just add that.
+    1.  That worked example has a god step.  I will add in the details so others are not as confused as I am.
+
+
+1.  The first discussion 
+    1. One by one the student owners summarize the questions and concerns that other students have about their section, explaining what needs to be added.
+    1. New tasks and questions may arise at this point.
+    1. This task list will be added to the sections.
+    1. Breakout rooms are created and students join according to their preferences within limitations.
+    1. Set a 30 minute timer for the discussion
+
+1.  The Discussion
+    1.  In the break out rooms the student owners will facilitate and allocate the tasks, making sure to save the most difficult ones for themselves. In short, they start putting names to all the requests.
+    1. If there is is any discussion about difficulty, the other members can swap tasks with the student owner.  Essentially, this is a check on the student owner saving the easy tasks for themselves.
+    1.  Remember that the idea is to build off each others work.
+    1.  Technical worked examples will have their own appendix.
+    1.  Responses, or multiple responses, to prompt questions are added in that section.
+
+
+1. Return from Discussion and take a 10 minute break.
+
+1. Student owners share out
+
+1. Repeat the discussion as time allows.
+
+## After Class Use
+
+1. We will grade both the initial table read and your activity on the read in class according to the rubrics below.
+1. The documents remain open for additional questions. The additional questions should not be close duplicates of the homework or exam questions.
+1. You will have access to these documents for the remainder of the term.
+1. We may return to a table read at a later date to continue working.
+
+# Rubrics and Standards
+
+## Table Read Rubric
+
+1. 
+  1. Excellent:
+  1. Good:
+  1. Fair:
+  1. Poor:
+  
+
+1. Prompting Questions:
+    1. Excellent: Costa's level 3
+    1. Good: Costa's 2
+    1. Fair: Costa's level 1
+    1. Poor: No prompts
+1. Completeness:
+  1. Excellent: Most difficult passages explained with graph, equation when appropriate or detailed oral arguments.
+  1. Good: Some difficult passages explained with graph, equation when appropriate or detailed oral arguments. 
+  1. Fair: Identified difficult passages but did not expand on explanation.
+  1. Poor:
+1. Graphs 
+  1. Excellent:
+  1. Good:
+  1. Fair:
+  1. Poor:
+1. Explanation of math issues
+  1. Excellent:
+  1. Good:
+  1. Fair:
+  1. Poor:
+1. Identification of key outside sources
+  1. Excellent:
+  1. Good:
+  1. Fair:
+  1. Poor:
+1. Identification of key definitions
+  1. Excellent:
+  1. Good:
+  1. Fair:
+  1. Poor:
+1.  Grammar and fluency
+  1. Excellent:
+  1. Good:
+  1. Fair:
+  1. Poor:
+1. Clarity
+1. Interaction with other students during read through
+1. Delegation of tasks to others
+1. Preparedness for questions.
+  1. Excellent: Able to answer almost all questions posed by classmates
+  1. Good: Able to answer most questions posed by classmates
+  1. Fair: Able to answer a few questions posed by classmates
+  1. Poor: Unable to answer questions posed by classmates
+    
+
+## Participation Rubric
+

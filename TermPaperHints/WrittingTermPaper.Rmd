@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + For most of you, this is a literature review.
 + You may, work in a team of three if you are doing an empirical paper.
     + This means data handling and regressions.
-    + I don't recommend this unless you have taken two terms of econometrics.
+    + I don't recommend this unless you have taken econometrics.
     
 # What is a Literature Review
 
@@ -232,43 +232,5 @@ Solid outline
 # In the end
 
 Teach me something I would not have noticed by reading the individual papers.
-
-# Term Paper Dates and Details
-
-+ “Writing Sample” assignment folder in D2L by _TODAY at 5pm_.
-
-
-Just a quick page and a bit with bibliography.  Looking for fluid writing and ability to cite works correctly.  If not great, you have earlier due dates to give more time later and go to writing center.
-
-# Topic Development
-
-+  Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts” assignment folder in D2L by _October 18th (October 14th) at 5pm_. 
-
-+ Students will schedule a 20 minute review meeting with the instructor the following week. Meetings must be completed by _October 23rd (October 20th) at 5pm_. Scope and depth changes will be agreed to in the meeting.
-
-+ A revised abstract must be submitted by _October 28th (Oct 22) at 5pm_ in the “Revised Abstracts”
-assignment folder in D2L. 
-
-# Start Building the Paper
-
-+  A reasonably complete annotated bibliography will be submitted in D2L by  _November 6th (October 30th)  at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
-
-+ Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled completed by about _November 13th (November 6th)_ unless the author team wants to schedule something earlier.  
-
-# Getting the Paper Done
-
-+ A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _November 19th  (November 12th) at 5 pm_.  Comments returned by November 23rd (November 16th) 8pm.  These comments will need to be addressed in the final paper. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. 
-
-
-# Final Paper Just Like a Journal Article
-
-+ The final paper must be published to the “Final Papers” assignment folder in D2L by _December 4th at 5pm_. Final drafts should be between 15 and 20 pages long, excluding major graphics and bibliography.  Literature review papers should have at least 15 peer reviewed or government publications as part of the review. The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
- 
-
-
-<!-- # Action -->
-
-<!-- + Schedule Bibliography discussion times. -->
-<!-- + Give me your seed paper. -->
 
 
