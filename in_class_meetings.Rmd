@@ -9,14 +9,6 @@ What we see as faculty is a bunch of black squares with video cameras off and mi
 
 I understand the desire to turn off the mic and the camera and just listen.  I've been at a few seminars being an off/off.  It is far less stressful and exhausting.  I had doctor describe and hour of zoom as being as tiring as two hours in the real.
 
-What we have is a mass of trade-offs and externalities.
-
-If you keep on/on rather than off/off you are more likely to be engaged and learn, but on/on is more stressful than off/off.  Most students have been opting for off/off.
-
-Your off/off or on/on choice also has externalities.  Being on/on helps out your instructor with feedback cues and helps out other students in discussion. As with every good with a positive externality there is a less than socially optimal amounts of on/on students. 
-
-Rather than fight the decision of the majority of students to keep off/off, I will embrace it and find a way to make it more effective.  At the same time, I will fix a few other student engagement problems.  
-
 The plan I put forth below was inspired by silent meetings as practiced at Amazon and tested out in my Fall 2020, Energy Economics course. We will tweak the rules as we go along.  You can read about how this is implemented in general meetings [here](https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb).  We will be modifying it for a classroom setting.
 
 # What Class Looks Like
@@ -57,16 +49,16 @@ There will be some rules and timing issues around the creation of the table read
 
 1. Individual sections will be assigned to class members, the `student owners`, round-robin fashion alphabetically. You can't bow out or delay this.  You will have to do this several times during the term.  The exact number depends on how many people are in the class.
 
-1.  It is the students' responsibility to create the table read.  We will grade it using the rubric below.
+1.  It is the students' responsibility to create the table read. 
     1. If you need help, schedule a meeting with Jamie at https://woodsj.youcanbook.me/
     1. Don't wait until the last minute. You can't knock this out in an hour or two and need to closely read more than just your section.
-    1.  You will need to seriously edit.  It is not write, done.  It is write, edit, edit, ..., done.
+    1.  You will need to seriously edit.  It is not write, edit, done.  It is write, edit, edit, ..., done.
     1.  Linking to parts of books, data, articles, other outside references, even other table reads is good.  Every section should probably have some, but they are for additional information.  Don't expect everyone to read that material.
 
 1.  Progress must be made on the table read **within three days** of assignment.
     1. I will check in on the shared Google doc and if there is not some significant outline or bullet points, the student owner will receive a zero on the assignment.
     1. Volunteers will be asked to step in on **day four** to take over the section to replace their lowest table read grade or zero.
-    1. If no volunteer is found by the end of day four, Jamie will complete the section of the table read and impose an additional Pigouvian penalty of reducing the former owner's median table read grade to zero, or if no table read grades are available, the lowest homework grade.
+    1. If no volunteer is found by the end of day four, Jamie will complete the section of the table read and impose an additional Pigouvian penalty of reducing the former owner's median table read grade to zero.
 
 1.  At the start of class    
     1. Pleasantries.
@@ -114,62 +106,7 @@ There will be some rules and timing issues around the creation of the table read
 1. The documents remain open for additional questions. The additional questions should not be close duplicates of the homework or exam questions.
 1. You will have access to these documents for the remainder of the term.
 1. We may return to a table read at a later date to continue working.
-
-# Rubrics and Standards
-
-## Table Read Rubric
-
-1. 
-  1. Excellent:
-  1. Good:
-  1. Fair:
-  1. Poor:
-  
-
-1. Prompting Questions:
-    1. Excellent: Costa's level 3
-    1. Good: Costa's 2
-    1. Fair: Costa's level 1
-    1. Poor: No prompts
-1. Completeness:
-  1. Excellent: Most difficult passages explained with graph, equation when appropriate or detailed oral arguments.
-  1. Good: Some difficult passages explained with graph, equation when appropriate or detailed oral arguments. 
-  1. Fair: Identified difficult passages but did not expand on explanation.
-  1. Poor:
-1. Graphs 
-  1. Excellent:
-  1. Good:
-  1. Fair:
-  1. Poor:
-1. Explanation of math issues
-  1. Excellent:
-  1. Good:
-  1. Fair:
-  1. Poor:
-1. Identification of key outside sources
-  1. Excellent:
-  1. Good:
-  1. Fair:
-  1. Poor:
-1. Identification of key definitions
-  1. Excellent:
-  1. Good:
-  1. Fair:
-  1. Poor:
-1.  Grammar and fluency
-  1. Excellent:
-  1. Good:
-  1. Fair:
-  1. Poor:
-1. Clarity
-1. Interaction with other students during read through
-1. Delegation of tasks to others
-1. Preparedness for questions.
-  1. Excellent: Able to answer almost all questions posed by classmates
-  1. Good: Able to answer most questions posed by classmates
-  1. Fair: Able to answer a few questions posed by classmates
-  1. Poor: Unable to answer questions posed by classmates
     
 
-## Participation Rubric
+
 
