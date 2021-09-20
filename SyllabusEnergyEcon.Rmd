@@ -3,8 +3,9 @@ title: "Syllabus EC438/538 Fall 2021"
 author: "James Woods"
 date: ''
 output:
+  word_document: default
   pdf_document: default
-fontsize: 12pt 
+fontsize: 12pt
 ---
 1
 ```{r setup, include=FALSE}
@@ -62,7 +63,7 @@ Slack will be used for IM, email and forum style communication. It even handles 
 
 Office Hours:
 
--   In-person office hours are Monday 3:30-5:30pm on the rooftop area of the urban center building or online if we move to remote, and Tuesdays 10:00-11:30 on zoom only, through the last week of class.
+-   Office hours are Monday 3:30-5:30pm and Tuesdays 10:00-11:30 not including final exam week, on zoom only. 
 -   You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These will be online meetings through zoom.
 
 # Basis for Grade
@@ -86,6 +87,8 @@ The proportion of your grade from each task is defined below.
 -   Homework: 20%
 -   Midterm (Oct 27): 20%
 -   Final (Dec 9, 12:30-2:20) : 20%
+
+Homework will be irregular but significant.  Please do the homework.  The number of half, and frankly really bad, answers from chegg, course hero and google searches skyrocketed last year.  I'm not interested in giving feedback on found answers.  If your answer looks found, I'll skip it.  If there is not enough information to see what you did, skipping too many steps, I'll skip it.
 
 ## Basis for Grade; Term Paper
 
@@ -152,7 +155,11 @@ Sticking with one option is easy.
 
 # The In-class Experience
 
+My goal is to make this work if you are physically in the classroom or remote but it won't work when you are asynchronous. Catching up on videos may help with exams and homework but it will not help with your table read participation.
+
 ## Table Reads
+
+There is a longer explanation of the table reads
 
 ## Exam Days
 
