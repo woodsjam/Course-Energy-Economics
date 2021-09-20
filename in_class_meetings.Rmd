@@ -1,11 +1,11 @@
 ---
 title: "In-Class Meetings"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 ---
 
 We have been through remote learning for a few terms now and have seen how it can work and how it fails.  Zoom has made some face-to-face learning possible but it does not allow the kind of quick overlapping conversations that we can have in the real.  It has also exposed how ineffective the traditional sage-on-stage lectures are for most students.
-
-What we see as faculty is a bunch of black squares with video cameras off and microphones off, what I can off/off.  Some people will turn on microphones and interact with others when put in small 4 person breakout rooms, but there is still room for improvement.
 
 I understand the desire to turn off the mic and the camera and just listen.  I've been at a few seminars being an off/off.  It is far less stressful and exhausting.  I had doctor describe and hour of zoom as being as tiring as two hours in the real.
 
@@ -31,11 +31,11 @@ We will iterate a few times.  After that the document remains live and available
 + Reading is much faster than listening, so we can get more done during our in-class meetings, and does not penalize non-native English speakers.
 + You are not required to read either the document or the books and journal articles in class, but it becomes a more viable option.
 + Students can start commenting and asking questions about the read document, and the reading, before class starts and they can do some work on their own schedule.
-+ Zoom hampers some communication.  Only one person can speak at a time unless people are in breakout rooms and those are hard to allocate on the fly.  Technically, zoom is great at one-to-many and one-to-one communication but terrible at many-to-many.  We can very easily all type comment and add to google documents.  We can do many-to-many.
++ Zoom hampers some communication.  Only one person can speak at a time unless people are in breakout rooms.  Technically, zoom is great at one-to-many and one-to-one communication but terrible at many-to-many.  We can very easily all type comment and add to google documents.  We can do many-to-many.
 + The usual one-to-many mode of the classroom, where the instructor talks and you take notes, leads to zoning out. Even faculty do this in meetings.  Active reading, typing, and asking questions is just that -- active.  You are engaged in the course material rather than making sure you have perfect form on your plank.
 + Students that don't normally interact on camera are more likely to interact in text and be engaged with the class.
 + Links, new information and clarifications can be added on the fly for later use rather than the awkward audibles we use now.
-+ Students are in charge of the table read  That means there is greater incentive to read and understand the material.  You have to be actively engaged to write a good table read.
++ Students are in charge of the table read.  That means there is greater incentive to read and understand the material.  You have to be actively engaged to write a good table read.
 + If you still have questions after the class period on something in the read doc, you can still ask in the table read.
 + You can refer to the table read, which we all worked on, after class.
  
@@ -58,7 +58,7 @@ There will be some rules and timing issues around the creation of the table read
 1.  Progress must be made on the table read **within three days** of assignment.
     1. I will check in on the shared Google doc and if there is not some significant outline or bullet points, the student owner will receive a zero on the assignment.
     1. Volunteers will be asked to step in on **day four** to take over the section to replace their lowest table read grade or zero.
-    1. If no volunteer is found by the end of day four, Jamie will complete the section of the table read and impose an additional Pigouvian penalty of reducing the former owner's median table read grade to zero.
+    1. If no volunteer is found by the end of day four, Jamie will complete the section of the table read and impose an additional Pigouvian penalty of reducing one of the former owner's median table read grade to zero.
 
 1.  At the start of class    
     1. Pleasantries.
