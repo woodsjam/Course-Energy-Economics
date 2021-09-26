@@ -1,13 +1,13 @@
 ---
-title: "Syllabus EC438/538 Fall 2021"
+title: "Tentative Syllabus EC438/538 Fall 2021"
 author: "James Woods"
 date: ''
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 fontsize: 12pt
 ---
-1
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -30,7 +30,7 @@ The undergraduate section has microeconomic theory, EC 311, or the calculus base
 
 ## Technology Requirements
 
-It is assumed that you can access the class via zoom and have a functioning web browser that can access google docs.  The slides are interactive and assume you have some kind of touch or pseudo-pen. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
+It is assumed that you can access the class via zoom and have a functioning web browser that can access google docs when you are logged in on your @pdx.edu account.  The slides are interactive and assume you have some kind of touch or pseudo-pen interface. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
 
 The technology requirements are your responsibility. 
 
@@ -38,33 +38,69 @@ The technology requirements are your responsibility.
 
 The PSU campus is set to open with all students and faculty vaccinated and that everything will go back to normal.
 
-If they mentioned a pony -- I missed it.  We will take the more prudent approach and plan for quarantining and heterogeneous response to the vaccine.  In other words, we are planning for breakthrough infections and some people having a less effective response to the vaccines.
+If they mentioned a pony -- I missed it.  We will take the more prudent approach and plan for periodic quarantining and heterogeneous response to the vaccine .  In other words, I am planning for breakthrough infections and some people having a less effective response to the vaccines.
 
 ## Health and Safety
 
 Viri mutate. Large parts of the world, parts of our state, and many sub-populations, e.g., children, are unvaccinated. This gives rise to new strains and the *possibility* that our current vaccines are less effective against these emerging strains than the existing ones.
 
-I will be applying an abundance of caution and planning for the possibility of another move to fully remote learning as Fall continues. In the mean time I will set up the class so you can join remotely or in-person.
+I will be applying an abundance of caution and planning for the possibility of another move to fully remote learning as Fall continues. In the mean time I will set up the class so you can join remotely or in-person.  You can make the decision based on your risk and benefit perceptions.
 
 We will also be following a few simple practices:
 
-- Monday office hours will generally be held in covered rooftop area on the fourth floor of the Urban Center Building as long as weather permits. I'll be easy to spot.
-
-- Tuesday office hours will be online only.
+- Office hours will be online only.
 
 - Wear a mask in class or join remotely.
 
+- Feel sick? Could be allergies?  Could be hungover? Join remotely.
 
-# Contact Information
+  The university has a much longer statement, which you can read here 
 
-Communication will be handled through slack <http://woodseconomics.slack.com/>. You should have received an invitation, if not, just go to that URL and use this link () and your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
+  CLASSROOM REQUIREMENTS FOR ALL STUDENTS AND FACULTY DUE TO COVID-19
+  
+  The University has established rules and policies to make the return to the classroom as safe as possible. It is required for everyone to follow all the Return to Campus rules and policies. To participate in this class, PSU requires all students to comply with the following. 
 
-Slack will be used for IM, email and forum style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+  MASKS REQUIRED AT ALL TIMES IN CLASSROOM 
+  
+  Wear a mask or face covering indoors at all times. Your mask or face covering must be properly worn (fully covering nose and mouth and tight-fitting). Mesh masks, face shields, or face covering that incorporates a valve designed to facilitate easy exhalation are not acceptable. Because a mask must be worn in the classroom, there should be no eating or drinking in the classroom. If you have a medical condition or a disability that prevents you from wearing a mask or cloth face covering, you must obtain an accommodation from the Disability Resource Center (DRC) to be exempt from this requirement.
+  
+  CDC, State, and County guidance does not limit class size for in-person instruction or require physical distancing. 
+  
+  VACCINATION
+  
+  Be vaccinated against COVID-19 and complete the COVID-19 vaccination attestation form. Those students with medical or nonmedical exemptions or who will not be on campus at all must complete the process described on the “COVID-19 Vaccine Exemption Request Form” to establish those exemptions. 
+  
+  HEALTH CHECK, ILLNESS, EXPOSURE, OR POSITIVE TEST FOR COVID-19
+
+  Complete the required self-check for COVID-19 symptoms before coming to campus each day.
+  
+  If you are feeling sick or have been exposed to COVID-19, do not come to campus. Call The Center for Student Health and Counseling (SHAC) to discuss your symptoms and situation at 503-725-2800. They will advise you on testing, quarantine, and when you can return to campus.
+
+  If you test positive for COVID, report your result to SHAC and do not come to campus. SHAC will advise you on quarantine, notification of close contacts, and when you can return to campus. 
+
+  Please notify me (i.e. your instructor), should you need to miss a class period for any of these reasons so that we can discuss strategies to support your learning during this time. 
+ 
+  If I become ill or need to quarantine during the term, either I or the department chair will notify you via PSU email about my absence and how course instruction will continue. 
+
+  FAILURE TO COMPLY WITH ANY OF THESE RULES
+
+  As the instructor of this course, the University has given me the authority to require your compliance with these policies. If you do not comply with these requirements, I may ask you to leave the classroom, or I may need to cancel the class session entirely.
+
+  In addition, failure to comply with these requirements may result in a referral to the Office of the Dean of Student Life to consider charges under PSU's Code of Conduct. A student found to have violated a university rule (or rules) through the due process of student conduct might face disciplinary and educational sanctions (or consequences). For a complete list of sanctions, see Section 14 of the Student Code of Conduct & Responsibility.
+
+  GUIDANCE MAY CHANGE
+
+  Please note that the University rules, policies, and guidance may change at any time at the direction of the CDC, State, or County requirements. Please review the University’s main COVID-19 Response webpage and look for emails from the University on these topics.
+
+Communication will be handled through slack <http://woodseconomics.slack.com/>. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/economicswithwoods/shared_invite/zt-vlyqbhy9-MzpIkpy~EWpEu3_NrGJMng) and your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
+
+Slack will be used for IM, email and forum style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#macro_general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
 
 Office Hours:
 
--   Office hours are Monday 3:30-5:30pm and Tuesdays 10:00-11:30 not including final exam week, on zoom only. 
+-   Zoom office hours are Monday 3:30-5:30pm and Tuesday 10:00-11:30. There are no office hours final exam week.  
 -   You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These will be online meetings through zoom.
+
 
 # Basis for Grade
 
@@ -88,7 +124,7 @@ The proportion of your grade from each task is defined below.
 -   Midterm (Oct 27): 20%
 -   Final (Dec 9, 12:30-2:20) : 20%
 
-Homework will be irregular but significant.  Please do the homework.  The number of half, and frankly really bad, answers from chegg, course hero and google searches skyrocketed last year.  I'm not interested in giving feedback on found answers.  If your answer looks found, I'll skip it.  If there is not enough information to see what you did, skipping too many steps, I'll skip it.
+Homework will be irregular but significant.  Please do the homework.  The number of half, and frankly really bad, answers from chegg, course hero and google searches skyrocketed last year.  I'm not interested in giving feedback on found answers. 
 
 ## Basis for Grade; Term Paper
 
@@ -132,11 +168,11 @@ Your basis for grade will become:
 -   Midterm (Oct 27): 20%
 -   Final (Dec 9, 12:30-2:20) : 20%
 
-There will also be some reworking of the table read assignments. Those that continued on the exam path will have fewer assignments to allow those that did not have table read assignments, while they worked on term papers, to catch up.
+There will also be some reworking of the table read assignments. Those that continued on the exam path will have fewer assignments to allow those that did not have table read assignments while they worked on term papers to catch up.
 
 If you are transitioning back to the exam path from the term paper path, plan on a very serious workload commitment in the later half of the class to catch up.
 
-To be clear, transitioning away from the term paper is much harder than completing it or never starting.
+**To be clear, transitioning away from the term paper is much harder than completing it or never starting.**
 
 ## Which Path?
 
@@ -150,7 +186,7 @@ Sticking with one option is easy.
 
 -   Q: What if I am on the *term paper* system and I get sick? A: It depends on how severe it is. If it is something mild, less than two weeks, we can adapt. If it is severe, longer than two weeks, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back. 
 
--   Q: What if I am on the *exam based* system and I get sick on exam day? A: It depends on how severe. If you can work, but should not be on campus, take the exam remotely. If it is more severe than that, you can do one, and only one, *make-up exam on November 24th*. If you are sick on make-up exam day and have a passing grade, we can give you an incomplete, if not, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back.
+-   Q: What if I am on the *exam based* system and I get sick on exam day? A: It depends on how severe. If you can work, but should not be on campus, take the exam remotely. If it is more severe than that, you can do a *make-up exam on November 24th*. If you are sick on make-up exam day and have a passing grade, we can give you an incomplete, if not, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back.
 
 
 # The In-class Experience
@@ -159,7 +195,7 @@ My goal is to make this work if you are physically in the classroom or remote bu
 
 ## Table Reads
 
-There is a longer explanation of the table reads
+There is a longer explanation of the table reads here (https://github.com/woodsjam/Course-Energy-Economics/blob/master/in_class_meetings.pdf)
 
 ## Exam Days
 
@@ -167,9 +203,9 @@ For those on the exam path, there is both a midterm and a final exam in this cla
 
 These are open-note, open-book exams, but that should indicate that these are more difficult questions. Don't expect to burn through some algebra problems. If you are familiar with Costa's levels of inquiry, these are level three questions. The homework will tend to be level two and one.
 
-A set of potential questions will be pinned in slack. Only a subset or variation of the questions will be chosen for the exam.
+A set of potential questions will be pinned in slack. Only a subset of the questions or variations  will be chosen for the exam.
 
-On exam day a Google doc will be shared with you. You should complete your work in that document. If you need to include diagrams or mathematical derivations and don't want to spend the time you can do those on paper, take a photo and upload it to the associated D2L assignment folder. Each photo should be labeled, e.g., figure 1, with corresponding text in your Google doc to indicate where the figure should be included.
+On exam day a Google doc will be shared with you. You should complete your work in that document. If you need to include diagrams or mathematical derivations and don't want to spend the time you can do those on paper, take a photo and upload it to the associated D2L assignment folder or just use a jamboard. Each photo should be labeled, e.g., figure 1, with corresponding text in your Google doc to indicate where the figure should be included.
 
 As per normal, exams are intended to measure individual performance. The work you turn in should be authentically yours. Communication between students during the exam is not allowed.
 
@@ -185,42 +221,98 @@ Each of you will have a single vote per section. The instructor will have 2 or 3
 
 # Textbook and Other Resources
 
-The course is classically organized by fuel but I have rearranged the topics as they relate to more current issues. 
+The course is classically organized by fuel but I have rearranged the topics as they relate to more current issues. The main textbook should be thought of as a shared resource.
 
-+ The death of coal?
-    + Why we started using coal?
-    + Who is still using coal and why.
-    + SOx trading.
-    + The rise of cheap natural gas and combined cycle natural gas in electricity generation.
-    + Where PV, wind, coal, nuclear fit in electricity dispatch
-+ What is up with Texas?
-    + The basics of electricity generation, transmission and distribution.
-    + Deregulation
-    + Markets for power
-    + Markets for transmission
-    + Untangling the ERCOT heatwave and coldwave reaction. 
-+ Carbon, the new energy market
-    + Basics for beginners
-    + How do you do Cost Benefit analysis with future generations.  I thought everyone liked pizza.
-    + Complications is implementing carbon cap and trade or taxes.
-    + The EU
-    + China
-    + How did we screw this up?
-+ Transposition electrification
-    + The rise of cars and the infrastructure of cars.
-    + The 70s
-    + Markets for oil, oil prices and oil demand.
-    + The electric car
-    + What does EV infrastructure look like?
-+ What does the future look like?  Shakes magic 8 ball.
-    + Distributed generation and storage.
-    + Its an EV.  Its a battery.  Its both.
-+ Rural and other electrification efforts
-    + US rural electrification and our electricity technology
-    + Lights! Education! Health! But, for who?
-    + DC networks and distributed generation
-+ PNW
-    + IOUs, PUDs and our old-school cost of service regulation
-    + The edge of the CAISO, the energy imbalance market
-    + Bonneville Power Administration, hydro power and international treaties
++ Introduction to Energy: And then there was light, and fusion and diatoms and the carboniferous age.
+    + Dah, ch 2.  We will go light on the energy modeling section.
+
++ The death of coal:  A story of regulation or natural gas competition. Sulfer. Acid Rain. SOx trading. Cheap natural gas and fracking. The new dispatch with PV, wind, etc.
+    + Introduction to Coal, Dahl, ch 3.
+    + Introduction to Natural Gas Energy Primer ch 2 (https://www.ferc.gov/sites/default/files/2020-05/energy-primer.pdf)
     
+    <!-- + SOx trading. -->
+    <!-- + The rise of cheap natural gas and combined cycle natural gas in electricity generation. -->
+    <!-- + Where PV, wind, coal, nuclear fit in electricity dispatch -->
+    
++ What is up with Texas? How to generate, transmit and distribute electricity.  Degregulation. ISO/RTOs and ERCOT. Markets for power and transmission. The heat. The cold.
+
+    <!-- + The basics of electricity generation, transmission and distribution. -->
+    <!-- + Deregulation -->
+    <!-- + Markets for power -->
+    <!-- + Markets for transmission -->
+    <!-- + Untangling the ERCOT heatwave and coldwave reaction.  -->
+    
++ Carbon, the new energy market: Recall from EC201 about Pigouvian taxes...  Complications in implementation. The EU. China. How did we screw this up?
+
+    <!-- + Basics for beginners -->
+    <!-- + How do you do Cost Benefit analysis with future generations.  I thought everyone liked pizza. -->
+    <!-- + Complications is implementing carbon cap and trade or taxes. -->
+    <!-- + The EU -->
+    <!-- + China -->
+    <!-- + How did we screw this up? -->
+    
++ Transportation electrification: Cars and oil.  The 70s. Markets for oil.  What does EV infrastructure look like.
+
+    <!-- + The rise of cars and the infrastructure of cars. -->
+    <!-- + The 70s -->
+    <!-- + Markets for oil, oil prices and oil demand. -->
+    <!-- + The electric car -->
+    <!-- + What does EV infrastructure look like? -->
+    
++ What does the future look like?  Distributed generation and storage. Its an EV.  Its a battery.  Its both.
+
+    <!-- + Distributed generation and storage. -->
+    <!-- + Its an EV.  Its a battery.  Its both. -->
+    
++ Rural and other electrification efforts: Electricity for health and education
+
+    <!-- + US rural electrification and our electricity technology -->
+    <!-- + Lights! Education! Health! But, for who? -->
+    <!-- + DC networks and distributed generation -->
+    
++ PNW: The edge of the CAIOS, Energy Imbalance Market, BPA and our old school cost of service regulation.
+
+    <!-- + IOUs, PUDs and our old-school cost of service regulation -->
+    <!-- + The edge of the CAISO, the energy imbalance market -->
+    <!-- + Bonneville Power Administration, hydro power and international treaties -->
+
+# Policy Statements from the University
+
++ Please be aware that federal, state, and PSU policies require faculty members to report any instances of sexual harassment, sexual violence and/or other forms of prohibited discrimination. Similarly, PSU faculty are required to file a report if they have reasonable cause to believe that a child with whom they come into contact has suffered abuse, or that any person with whom they come into contact has abused a child. If you would rather share information about these experiences with an employee who does not have these reporting responsibilities and can keep the information confidential, please contact one of the following campus resources (or visit https://www.pdx.edu/sexual-assault/sites/www.pdx.edu.sexual-assault/files/Revised%20SA-IPVResourceHandout%20long%20version-revised%20.pdf):
+
+    + Women’s Resource Center (503-725-5672)
+    + Queer Resource Center (503-725-9742)
+    + Center for Student Health and Counseling (SHAC): 1880 SW 6th Ave, (503) 725-2800
+    + Student Legal Services: 1825 SW Broadway, (SMSU) M343, (503) 725-4556
+
+    For more information about the applicable regulations please complete the required student module Creating a Safe Campus in your D2L.
+
+  
++ When completing online quizzes or other assignments, you may use your book, wiki, calculator, spreadsheets, notes, or other resources as long as it is not another student or person.  *The work must be authentically and genuinely your own. In other words, if you are copying answers you found online, it is not your work.*
+
++ Go to office hours at the first sign of trouble -- not as a last resort.
+
++ In this classroom, we support and value diversity.  To do so requires that we:
+
+    + Respect the dignity and essential worth of all individuals
+    + Promote a culture of respect toward all individuals
+    + Respect the privacy, property, and freedom of others
+    + Reject bigotry, discrimination, violence, or intimidation of any kind
+    + Practice personal and academic integrity and expect it from others
+    + Promote the diversity of opinions, ideas, and backgrounds, which is the lifeblood of a university
+
+    For additional information, please see the Office of Affirmative Action \& Equal Opportunity at https://www.pdx.edu/diversity/welcome-to-global-diversity-inclusion.
+
+
++ Accommodations are collaborative efforts between students, faculty, and the Disability Resource Center.  If you have a documented disability and require accommodation, you must arrange to meet with the course instructor prior to or within the first week of the term.  The documentation of your disability must come in writing from the Disability Resource Center (Faculty letter).  
+
++ PSU values diversity and inclusion; we are committed to fostering mutual respect and full participation for all students. My goal is to create a learning environment that is equitable, usable, inclusive, and welcoming. If any aspects of instruction or course design result in barriers to your inclusion or learning, please notify me. The Disability  Resource Center (DRC) provides reasonable accommodations for students who encounter barriers in the learning environment. 
+
+    If you have, or think you may have, a disability that may affect your work in this class and feel you need accommodations, contact the Disability Resource Center to schedule an appointment and initiate a conversation about reasonable accommodations. The DRC is located in 116 Smith Memorial Student Union, 503-725-4150, drc@pdx.edu, https://www.pdx.edu/drc.
+
++ Academic honesty is expected and required of students enrolled in this course.  Suspected academic dishonesty in this course will be handled according to the procedures set out in the Student Code of Conduct.
+
++ I am sympathetic to family emergencies but you must inform me as soon as possible. If the notice is verbal, please email me with your understanding of our agreement. All agreements have to be in writing.
+
+
+Link to this syllabus https://github.com/woodsjam/Course-Energy-Economics/blob/master/SyllabusEnergyEcon.pdf
