@@ -1,6 +1,6 @@
 ---
 title: "Energy Models"
-output: beamer_presentation
+output: powerpoint_presentation
 
 ---
 
@@ -39,23 +39,24 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 
 ```
 
-# Trend Comments
-+ General 
-    + Regression with time as RHS variable. $Y = time + \epsilon$
-    + Other variables are often added, for example, weather variables.  You can see this in some integrated resource planning models.
-    + EC469 shows you how to do this.
-    + Not everything is a line.  You sometimes have to transform the data, logs and such are common.
+# Trend Comments: General
 
-+ Problems
-    + Only uses the past and does not show turns in trend.
-        + I was 90 lbs at 15, 110 at 17, 130 at 18 and 220 at 26.
-        + Today?
-    + People don't react to prices and there is no change in technology. 
-        + See the coal data at the end.  That is the natural gas fracking boom.
-    + Growth of a subset can only exceed that of a superset for a while.  
-        + Facebook can only grow faster than the US, or world, economy for so long.
++ Regression with time as RHS variable. $Y = time + \epsilon$
++ Other variables are often added, for example, weather variables.  You can see this in some integrated resource planning models.
++ EC469 shows you how to do this.
++ Not everything is a line.  You sometimes have to transform the data, logs and such are common.
+
+# Trend Comments: Problems
+
++ Only uses the past and does not show turns in trend.
+    + I was 90 lbs at 15, 110 at 17, 130 at 18 and 220 at 26.
+    + Today?
++ People don't react to prices and there is no change in technology. 
+    + See the coal data at the end.  That is the natural gas fracking boom.
 
 # Trend Comments (Con't)
++ Growth of a subset can only exceed that of a superset for a while.  
+    + Facebook can only grow faster than the US, or world, economy for so long.
 
 + Advantages
     + That said, it works for a lot of things and work when you have little time.
@@ -72,6 +73,9 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
     + the MA part is past values of error term.
 + EC 472 shows you how to do this.
 + Most energy data has a trend to it, which must be included in the model.
+
+# Time Series (for now)
+
 + Best thought of, for now, as a refinement to the trend regressions with better treatment of residuals.
     + More accurate confidence intervals on existing data.
     + Slightly better with near-term forecasts.
@@ -99,6 +103,9 @@ qplot(Year, ProductionKShortTon, data = CoalProduction) + geom_smooth(method= lm
 + Guess Jamie's BMI.  Closest to the actual gets $1.
 + Skin in the game gives incentive for more thought.
 + Only works when you will eventually find out actual.
+
+# Incentivized Polls (Con't)
+
 + Oddly works better if you don't know how people are betting.
     + Can produce group-think bubbles, if you see how others are betting.
     + Easy to find the mode, but harder to tell if it is real.
@@ -158,6 +165,10 @@ The idea is that if you hold a particular belief, you are more likely to think t
     + Decide how you would act now given that you know that that future will exist.
     + ?
     + Profit
+    
+
+# Example Scenario Planning
+    
 + Example by National Renewable Energy Research Laboratory (NREL) did one for Hawaii. http://www.nrel.gov/docs/fy12osti/52442.pdf
     + Contractor reports tend to go long.
     + See page 6 for summary of the scenarios.
@@ -170,6 +181,9 @@ The idea is that if you hold a particular belief, you are more likely to think t
 + Rigging scenarios so that only one is taken seriously. (abuse)
 + Choosing actions that will "work" in all scenarios. (abuse)
 + Actual plans if a scenario becomes more likely, "Plans are worthless, but planning is everything." - Ike
+
+# Better use of Scenarios
+
 + Creation of real options
     + Defer action until more information is available.  Don't bring an umbrella everywhere, but have on near by if it starts to rain.
     + Create systems you can use when the situation is clearer.  Think peaking power plants that only run a few days a year.
@@ -184,8 +198,6 @@ The idea is that if you hold a particular belief, you are more likely to think t
     + Constant returns to scale.
 + Often seen as part of a computable general equilibrium model to shorten run-times. REMI (http://www.remi.com/) and IMPLAN (http://implan.com/) use it in regional economic models.
 
-+ Will not ask you to do one unless you want to.
-+ Book has an overly long explanation.
 
 # Walk Through I/O model
 
@@ -196,9 +208,10 @@ $x_1 = \alpha_{1,1} x_1 + \alpha_{1,2} x_2 + d_1$
 + $\alpha_{1,1}$ the amount of good 1 needed to produce good 1.
 + $\alpha_{1,2}$ the amount of good 2 needed to produce good 1.
 + Each good has an equation
-+ $\alpha$s can be zero but there are restrictions on how many and where. The matrix needs to be invertable.
++ $\alpha$s can be zero but The matrix needs to be invertable.
 
-Matrix Form
+# I/O in Matrix Form
+
 $x=Ax +d$ is solved as $x=(I-A)^{-1}d$
 
 d is what you need to fight the war.
@@ -216,6 +229,9 @@ X is what you need to produce to get d.
 + To an engineer, an estimate means taking some known or assumed values for parameters then performing some calculations to find a parameter of interest.
     + Example, building energy simulations like EnergyPlus.  Put in windows, screens, walls, assume some values human behavior, and weather and out pops annual energy use.
     + Can work with _very_ complex models, but is usually shaky with uncertainty.
+    
+# The statistician
+
 + To a statistician, an estimate means taking data, repeated observations of a physical data generating process and calculating a summary statistic.
     + Example, estimate implied thermostat settings from gas use and R values of walls from a survey.
     + Treats uncertainty well but often lack the complexity of the engineering style models.
@@ -224,10 +240,12 @@ X is what you need to produce to get d.
 
 + A typical Example is estimates of  Unit Energy Consumption (UECs)
     + The EIA Residential Energy Consumption Survey (RECS) http://www.eia.gov/consumption/residential/reports/2009/methodology-end-use.cfm
-    + California Residential Appliance Saturation Study (RASS) https://ww2.energy.ca.gov/appliances/rass/
+    + California Residential Appliance Saturation Study (RASS) https://www.energy.ca.gov/data-reports/surveys/2019-residential-appliance-saturation-study
+
+# Combining engineering estimates
     
 + Check the details for RASS and see how they combine engineering estimates with regression analysis.     
-    + http://www.energy.ca.gov/2010publications/CEC-200-2010-004/CEC-200-2010-004-V1.PDF.
+    + https://www.energy.ca.gov/sites/default/files/2021-08/CEC-200-2021-005-MTHLGY.pdf.
     + Often called a statistically adjusted engineering model.
 
 # Game Theory
@@ -239,7 +257,7 @@ X is what you need to produce to get d.
     + Dynamic interactions of firms, think how gasoline prices go up fast but down slow.
     + Auction and bidding, technically mechanism design which is game theory backwards, to get people to tell the truth or do the right thing.
     + Basis for a lot of modern "regulation" which focuses on encouraging competition to reach goals.
-+ Probably did some in EC 201 or EC 311, but we have a full class EC 321 and math has several.
+
     
 
 # Experimental/Behavioral
@@ -250,15 +268,16 @@ X is what you need to produce to get d.
     + Esther Duflo received the Bates Clark Award 2010
     + Bluffstone and others in Econ is running two now in Ethiopia and Nepal.
     
-+ Typical Issues
-    + Internal validity
-        + Can you really connect cause to effect?
-        + Did you avoid bias and control for everything?
-    + External validity
-        + Does it work in real life?
-        + Does it work on other people?
-    + Ecological validity
-        + Did the experiment look like the real world?
+# Typical Issues
+
++ Internal validity
+    + Can you really connect cause to effect?
+    + Did you avoid bias and control for everything?
++ External validity
+    + Does it work in real life?
+    + Does it work on other people?
++ Ecological validity
+    + Did the experiment look like the real world?
         
 # Overarching
 
@@ -268,13 +287,20 @@ X is what you need to produce to get d.
 + Don't be deluded into, "Just look at the data".
     + You come to data with a model, you just don't know it.
     + The data never speak for themselves. You use data to test/support/refute hypotheses/theories.
-+ Using more than one model or technique and getting the same general result helps. It shows that your conclusion about reality is resilient to the implicit modeling assumptions.
 
 # Overarching (Con't)
+
++ Using more than one model or technique and getting the same general result helps. It shows that your conclusion about reality is resilient to the implicit modeling assumptions.
+
+# Overarching (Con't, Con't)
 
 + Keep in mind that modeling is an iterative process often driven by the researcher.
     + You try a model and then refine it based on the results.
     + It is an iterative process.
     + Your choices are molded by your objectives. "Get published" is common.
-    + Great working paper on this by Gelman that expands on this idea "The garden of forking paths: Why multiple comparisons can be a problem,
+    
+    
+# P-Hacking
+
+Great working paper on this by Gelman that expands on this idea "The garden of forking paths: Why multiple comparisons can be a problem,
 even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time" (http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
