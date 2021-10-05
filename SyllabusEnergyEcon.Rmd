@@ -7,7 +7,7 @@ output:
   pdf_document: default
 fontsize: 12pt
 ---
-1
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -187,12 +187,16 @@ Each of you will have a single vote per section. The instructor will have 2 or 3
 
 The course is classically organized by fuel but I have rearranged the topics as they relate to more current issues. 
 
-+ The death of coal?
-    + Why we started using coal?
-    + Who is still using coal and why.
-    + SOx trading.
-    + The rise of cheap natural gas and combined cycle natural gas in electricity generation.
-    + Where PV, wind, coal, nuclear fit in electricity dispatch
++ The death of coal? Why we started using coal? Who is still using coal and why. SOx trading. The rise of cheap natural gas and combined cycle natural gas in electricity generation. Where PV, wind, coal, nuclear fit in electricity dispatch.
+
+  + Dahl, Ch 3
+
+  + Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. https://stats.lib.pdx.edu/proxy.php?url=https://www.sciencedirect.com/science/article/pii/S104061901630121X
+
++ Covert, Thomas, Michael Greenstone and Christopher R. Knittel. 2016. "Will We Ever Stop Using Fossil Fuels?" Journal of Economic Perspectives, 30(1): 117-38. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117
+
+  
+  
 + What is up with Texas?
     + The basics of electricity generation, transmission and distribution.
     + Deregulation
