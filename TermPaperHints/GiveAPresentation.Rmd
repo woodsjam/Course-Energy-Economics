@@ -7,9 +7,6 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. 
-
-# Details
 
 You need to drop your stress level on this.  These are not flashy presentations made to impress.  These are presentations where you show where you are now, and ask the class for help on what to do next or what you are having trouble understanding.  There are a lot of creative minds and expertise in the room.  Use it.
 
