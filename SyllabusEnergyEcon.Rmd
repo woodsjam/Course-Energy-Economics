@@ -3,8 +3,8 @@ title: "Syllabus EC438/538 Fall 2021"
 author: "James Woods"
 date: ''
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 fontsize: 12pt
 ---
 
@@ -197,12 +197,15 @@ The course is classically organized by fuel but I have rearranged the topics as 
 
   
   
-+ What is up with Texas?
-    + The basics of electricity generation, transmission and distribution.
-    + Deregulation
-    + Markets for power
-    + Markets for transmission
-    + Untangling the ERCOT heatwave and coldwave reaction. 
++ What is up with Texas?:The basics of electricity generation, transmission and distribution. Deregulation. Markets for power. Markets for transmission. Untangling the ERCOT heatwave and coldwave reaction. 
+
+    + Federal Energy Regulatory Commission. "Energy primer: A handbook of energy market basics." Federal Energy Regulatory Commission: Washington, DC, USA (2015). p. 35-65, https://www.ferc.gov/sites/default/files/2020-05/energy-primer.pdf
+
+    + Busby, Joshua W., et al. "Cascading risks: Understanding the 2021 winter blackout in Texas." Energy Research & Social Science 77 (2021): 102106. https://www-sciencedirect-com.proxy.lib.pdx.edu/science/article/pii/S2214629621001997
+    
+    + Dahl, Ch 5
+    + Dahl, Ch 6
+    
 + Carbon, the new energy market
     + Basics for beginners
     + How do you do Cost Benefit analysis with future generations.  I thought everyone liked pizza.
