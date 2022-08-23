@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC438/538 Fall 2021"
+title: "Syllabus EC438/538 Fall 2022"
 author: "James Woods"
 date: ''
 output:
@@ -20,9 +20,7 @@ The official description of the course is:
 
 This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural, and telecommunications. The order of the courses has changed to reflect the evolving nature of the field.
 
-I provide two paths through this course. The first path focuses on a term paper. The second is more focused on classroom discussion and exams.
 
-The term paper path requires some qualification steps. If quality and progress are not sufficient to produce a reasonable term paper, you will be shifted back to the second, more traditional path with significant make up work in the later half of the course.
 
 ## Prerequisites
 
@@ -34,47 +32,29 @@ It is assumed that you can access the class via zoom and have a functioning web 
 
 The technology requirements are your responsibility. 
 
-# COVID-19
-
-The PSU campus is set to open with all students and faculty vaccinated and that everything will go back to normal.
-
-If they mentioned a pony -- I missed it.  We will take the more prudent approach and plan for quarantining and heterogeneous response to the vaccine.  In other words, we are planning for breakthrough infections and some people having a less effective response to the vaccines.
 
 ## Health and Safety
 
-Viri mutate. Large parts of the world, parts of our state, and many sub-populations, e.g., children, are unvaccinated. This gives rise to new strains and the *possibility* that our current vaccines are less effective against these emerging strains than the existing ones.
+While we are 'over' COVID-19, it does not mean that everything will return to the way it was.  I will continue to organize this course as an ``Attend Anywhere`` course with the option to join via zoom.  
 
-I will be applying an abundance of caution and planning for the possibility of another move to fully remote learning as Fall continues. In the mean time I will set up the class so you can join remotely or in-person.
-
-We will also be following a few simple practices:
-
-- Monday office hours will generally be held in covered rooftop area on the fourth floor of the Urban Center Building as long as weather permits. I'll be easy to spot.
-
-- Tuesday office hours will be online only.
-
-- Wear a mask in class or join remotely.
-
+If you are sick, not just COVID, please attend via zoom, or at least wear a mask.
 
 # Contact Information
 
-Communication will be handled through slack <http://woodseconomics.slack.com/>. You should have received an invitation, if not, just go to that URL and use this link () and your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
+We will handle course communication through slack <http://economicswithwoods.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
 
-Slack will be used for IM, email and forum style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+Slack allows for IM and forum-style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#energy_general for this course. If you have a personal message not intended for others, send a direct message to @woodsj.
 
 Office Hours:
 
--   Office hours are Monday 3:30-5:30pm and Tuesdays 10:00-11:30 not including final exam week, on zoom only. 
--   You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These will be online meetings through zoom.
++ Wednesday 11-12:30pm
++ Friday 1-3pm
+
+Office hours are where I or the GA will be active on Slack to answer questions via text, voice, or video, are scattered throughout the week in the attempt to make at least one convenient for you.   I will respond on Slack at other times, but I will not respond immediately.
+
+You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These will be online meetings through zoom.
 
 # Basis for Grade
-
-The two paths through the class have many of the same requirements but very different emphasis.  Previously the term paper was mandatory but last year a larger number of students simply never completed a term paper.
-
-Unless you opt-in to writing a term paper and show satisfactory preparation and performance, you will be on the Discussion and Exams path.
-
-Early in the term you will have the option of doing some preliminary work to demonstrate your ability to write a term paper and construct a viable topic. These are the small writing sample and abstract assignments listed below.  If you demonstrate your preparation and propose a reasonable topic, you are on the term paper track.
-
-This path has multiple check-in points and as long as you are making satisfactory progress you will continue on this path. If you get too far behind or the quality of the interim product is low, I will unilaterally shift you back to the Discussion and Exams Path with additional make up work.
 
 ## Basis for Grade: Discussion and Exams
 
@@ -116,47 +96,40 @@ If there is a good start, then you can proceed and we can schedule an in-class p
 
 Please note that the draft paper is worth more than the final draft.  The draft paper should be mostly complete but lacking a little polish.
 
-## Transitioning Back to Discussion and Exams
+## Individual/Group Term Paper
 
-Some students will start down the term paper path and find that it isn't for them, either because they were too optimistic, their time constraints have changed, or the project is just not working.
+The largest assignment will be a term paper. The term paper may be
+either a literature review, in which case it _must_ be completed by an individual, or an empirical/theoretical
+paper which may have up to three co-authors. Graduate students
+must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
 
-You can voluntarily transition back right after the annotated bibliography. I may force you back onto the discussion and exam path if your progress is insufficient.
+1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
+assignment folder in D2L by _October 16th at 5pm_. Students will have a 20 minute review meeting with the instructor during that week. These meetings will be scheduled for the week of the 21st. Scope and depth changes will be agreed to in the meeting.
 
-Your basis for grade will become:
+2. A revised abstract must be submitted by _October 28th at 5pm_  in the “Final Abstracts”
+assignment folder in D2L. Abstracts will be discussed in class on October 30th. 
 
--   Abstract: 1%
--   Writing Sample: 1%
--   Table Read Creation and Leadership: 23%
--   Table Read Participation: 20%
--   Homework: 15%
--   Midterm (Oct 27): 20%
--   Final (Dec 9, 12:30-2:20) : 20%
+3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 1st at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
 
-There will also be some reworking of the table read assignments. Those that continued on the exam path will have fewer assignments to allow those that did not have table read assignments, while they worked on term papers, to catch up.
+4. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
 
-If you are transitioning back to the exam path from the term paper path, plan on a very serious workload commitment in the later half of the class to catch up.
+5. A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
 
-To be clear, transitioning away from the term paper is much harder than completing it or never starting.
+6. The final paper must be published to the “Final Papers” assignment folder in D2L by _December 6th at 5pm_. Term papers
+must be less than 20 pages excluding bibliography.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
 
-## Which Path?
+## Guidance on Writing and Referee Reports
 
-Students have a much wider range of preparation than in the past. Even with the same classes, students arrive with vastly different experience, abilities and skill sets.
+Because term papers are rarer than they were in the past, I will be providing a lot of supports to make sure you can pull this off. The subject matter librarian for economics will give a seminar on how to conduct a literature review.  I will also have handouts on how to write a literature review.
 
-Pick what works for you, but don't focus on strategic short-term advantages. It is very easy to start on the term paper path, get behind, and then have to transition back to the exam path at the end of the term just as your other classes are ramping up.
+In addition there are two sources in the library reserve that are very helpful.  First, McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
 
-Sticking with one option is easy.  
-
-## What Ifs
-
--   Q: What if I am on the *term paper* system and I get sick? A: It depends on how severe it is. If it is something mild, less than two weeks, we can adapt. If it is severe, longer than two weeks, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back. 
-
--   Q: What if I am on the *exam based* system and I get sick on exam day? A: It depends on how severe. If you can work, but should not be on campus, take the exam remotely. If it is more severe than that, you can do one, and only one, *make-up exam on November 24th*. If you are sick on make-up exam day and have a passing grade, we can give you an incomplete, if not, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back.
+The second resource in the library reserve is a Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.
 
 
 # The In-class Experience
 
-My goal is to make this work if you are physically in the classroom or remote but it won't work when you are asynchronous. Catching up on videos may help with exams and homework but it will not help with your table read participation.
-
+My goal is to make
 ## Table Reads
 
 There is a longer explanation of the table reads
@@ -175,59 +148,16 @@ As per normal, exams are intended to measure individual performance. The work yo
 
 ## Participatory Grading
 
-The graduate assistant and I will be grading the bulk of the homework, exams, term papers and the like but you will have input on a few grades.
-
-Students producing a term paper have to perform a presentation. You will be asked for feedback on their presentation.
-
-Since multiple students will be assigned the same sections of papers and textbook for table reads, the easiest way to grade is based on the relative quality of the material.
-
-Each of you will have a single vote per section. The instructor will have 2 or 3 depending on the size of the class. Grades will be determined by an [instant runoff vote](https://en.wikipedia.org/wiki/Instant-runoff_voting).
 
 # Textbook and Other Resources
 
-The course is classically organized by fuel but I have rearranged the topics as they relate to more current issues. 
+The main text for the course is Bhattacharyya, Subhes C. Energy economics: concepts, issues, markets and governance. Springer Nature, 2019..  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415 and EC 201 and focuses more on graphical treatments of the ideas.  
 
-+ The death of coal? Why we started using coal? Who is still using coal and why. SOx trading. The rise of cheap natural gas and combined cycle natural gas in electricity generation. Where PV, wind, coal, nuclear fit in electricity dispatch.
+The book is intended to be a fairly comprehensive, mostly non-technical, overview of a sprawling and ragged field.
 
-  + Dahl, Ch 3
+We will focus on a few core topics with the class voting on the remaining topics depending on interest and term paper topics.
 
-  + Culver, Walter J., and Mingguo Hong. "Coal’s decline: Driven by policy or technology?." The Electricity Journal 29.7 (2016): 50-61. https://stats.lib.pdx.edu/proxy.php?url=https://www.sciencedirect.com/science/article/pii/S104061901630121X
+# Policy Statements from the University
 
-+ Covert, Thomas, Michael Greenstone and Christopher R. Knittel. 2016. "Will We Ever Stop Using Fossil Fuels?" Journal of Economic Perspectives, 30(1): 117-38. http://stats.lib.pdx.edu/proxy.php?url=https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117
-
-  
-  
-+ What is up with Texas?:The basics of electricity generation, transmission and distribution. Deregulation. Markets for power. Markets for transmission. Untangling the ERCOT heatwave and coldwave reaction. 
-
-    + Federal Energy Regulatory Commission. "Energy primer: A handbook of energy market basics." Federal Energy Regulatory Commission: Washington, DC, USA (2015). p. 35-65, https://www.ferc.gov/sites/default/files/2020-05/energy-primer.pdf
-
-    + Busby, Joshua W., et al. "Cascading risks: Understanding the 2021 winter blackout in Texas." Energy Research & Social Science 77 (2021): 102106. https://www-sciencedirect-com.proxy.lib.pdx.edu/science/article/pii/S2214629621001997
-    
-    + Dahl, Ch 5
-    + Dahl, Ch 6
-    
-+ Carbon, the new energy market
-    + Basics for beginners
-    + How do you do Cost Benefit analysis with future generations.  I thought everyone liked pizza.
-    + Complications is implementing carbon cap and trade or taxes.
-    + The EU
-    + China
-    + How did we screw this up?
-+ Transporation electrification
-    + The rise of cars and the infrastructure of cars.
-    + The 70s
-    + Markets for oil, oil prices and oil demand.
-    + The electric car
-    + What does EV infrastructure look like?
-+ What does the future look like?  Shakes magic 8 ball.
-    + Distributed generation and storage.
-    + Its an EV.  Its a battery.  Its both.
-+ Rural and other electrification efforts
-    + US rural electrification and our electricity technology
-    + Lights! Education! Health! But, for who?
-    + DC networks and distributed generation
-+ PNW
-    + IOUs, PUDs and our old-school cost of service regulation
-    + The edge of the CAISO, the energy imbalance market
-    + Bonneville Power Administration, hydro power and international treaties
-    
+```{r child = 'syllabus_common_files/psu_policy_statements.Rmd'}
+```
