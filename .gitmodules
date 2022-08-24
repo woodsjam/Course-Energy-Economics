@@ -1,0 +1,3 @@
+[submodule "syllabus_common_files"]
+	path = syllabus_common_files
+	url = https://github.com/woodsjam/syllabus_common_files.git
