@@ -26,11 +26,11 @@ This is a companion course to EC 437/537 which will address regulatory and compe
 
 The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites. The graduate section requires only graduate standing.
 
+
 ## Technology Requirements
 
-It is assumed that you can access the class via zoom and have a functioning web browser that can access google docs.  The slides are interactive and assume you have some kind of touch or pseudo-pen. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
-
-The technology requirements are your responsibility. 
+```{r child = 'syllabus_common_files/tech_requirements.Rmd'}
+```
 
 
 ## Health and Safety
@@ -39,92 +39,17 @@ While we are 'over' COVID-19, it does not mean that everything will return to th
 
 If you are sick, not just COVID, please attend via zoom, or at least wear a mask.
 
+
 # Contact Information
 
-We will handle course communication through slack <http://economicswithwoods.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
-
-Slack allows for IM and forum-style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#energy_general for this course. If you have a personal message not intended for others, send a direct message to @woodsj.
-
-Office Hours:
-
-+ Wednesday 11-12:30pm
-+ Friday 1-3pm
-
-Office hours are where I or the GA will be active on Slack to answer questions via text, voice, or video, are scattered throughout the week in the attempt to make at least one convenient for you.   I will respond on Slack at other times, but I will not respond immediately.
+```{r child = 'syllabus_common_files/contact_info.Rmd'}
+```
 
 You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These will be online meetings through zoom.
 
 # Basis for Grade
 
-## Basis for Grade: Discussion and Exams
 
-Course grades will be determined by your performance as both a creator of table reads, briefly explained below but expanded  later, your participation in those table reads, homework assignments, a midterm and a final. In short, with the exception of the table read, it is a traditional class set up.
-
-The proportion of your grade from each task is defined below.
-
--   Table Read Creation and Leadership: 30%
--   Table Read Participation: 10%
--   Homework: 20%
--   Midterm (Oct 27): 20%
--   Final (Dec 9, 12:30-2:20) : 20%
-
-Homework will be irregular but significant.  Please do the homework.  The number of half, and frankly really bad, answers from chegg, course hero and google searches skyrocketed last year.  I'm not interested in giving feedback on found answers.  If your answer looks found, I'll skip it.  If there is not enough information to see what you did, skipping too many steps, I'll skip it.
-
-## Basis for Grade; Term Paper
-
-Some students may wish to spend the majority of the term doing a deep dive on a topic of their choice or producing a technical writing sample or a paper that can be delivered at an academic conference.
-
-I have paid the conference fees for students to present.
-
--   Table Read Participation: 15%
--   Final Draft of Term Paper: 20%
--   Draft Term Paper: 25%
--   Presentation of Paper Topic: 15%
--   Annotated Bibliography: 23%
--   Abstract: 1%
--   Writing Sample: 1%
-
-These students are still required to be present in class and to have read the material.  Note that some of the grade is based on table read participation.
-
-Students that are taking this path start by submitting a writing sample with a bibliography and citations from a previous class.  If the writing is of passable quality you will be allowed to construct a draft abstract. 
-
-Once your abstract is submitted we will meet to re-frame to topic into something reasonable for a 10-week course and your skill set.
-
-The annotated bibliography is the key step.  This should be your first outline of your paper.  It should include most of your key references and describe how you will use them in your paper.  If you don't demonstrate sufficient progress and organization at this stage, you will be transitioned back to discussion and exams.
-
-If there is a good start, then you can proceed and we can schedule an in-class presentation on your interim work.
-
-Please note that the draft paper is worth more than the final draft.  The draft paper should be mostly complete but lacking a little polish.
-
-## Individual/Group Term Paper
-
-The largest assignment will be a term paper. The term paper may be
-either a literature review, in which case it _must_ be completed by an individual, or an empirical/theoretical
-paper which may have up to three co-authors. Graduate students
-must complete an empirical/theoretical paper. Term paper preparation and evaluation will be in stages.
-
-1. Authors and co-authors must publish an abstract, including a few key references, in the “Draft Abstracts”
-assignment folder in D2L by _October 16th at 5pm_. Students will have a 20 minute review meeting with the instructor during that week. These meetings will be scheduled for the week of the 21st. Scope and depth changes will be agreed to in the meeting.
-
-2. A revised abstract must be submitted by _October 28th at 5pm_  in the “Final Abstracts”
-assignment folder in D2L. Abstracts will be discussed in class on October 30th. 
-
-3. Authors and co-authors will construct an annotated bibliography. A reasonably complete annotated bibliography will be submitted in D2L by _November 1st at 5pm_ in the “Bibliography” assignment folder.  Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
-
-4. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
-
-5. A draft of the paper must be published in the “Draft Papers” assignment folder in D2L by _5 pm on November 18th_. If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
-
-6. The final paper must be published to the “Final Papers” assignment folder in D2L by _December 6th at 5pm_. Term papers
-must be less than 20 pages excluding bibliography.  The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
-
-## Guidance on Writing and Referee Reports
-
-Because term papers are rarer than they were in the past, I will be providing a lot of supports to make sure you can pull this off. The subject matter librarian for economics will give a seminar on how to conduct a literature review.  I will also have handouts on how to write a literature review.
-
-In addition there are two sources in the library reserve that are very helpful.  First, McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
-
-The second resource in the library reserve is a Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.
 
 
 # The In-class Experience
@@ -132,23 +57,7 @@ The second resource in the library reserve is a Chapter 19 in Wooldridge's, "Int
 My goal is to make
 
 + PERSON ON ZOOM IS ALWAYS SCRIBE
-## Table Reads
 
-There is a longer explanation of the table reads
-
-## Exam Days
-
-For those on the exam path, there is both a midterm and a final exam in this class. The questions will require you to synthesize what you have learned, comparing and contrasting, using models and data from multiple sources to support your argument.
-
-These are open-note, open-book exams, but that should indicate that these are more difficult questions. Don't expect to burn through some algebra problems. If you are familiar with Costa's levels of inquiry, these are level three questions. The homework will tend to be level two and one.
-
-A set of potential questions will be pinned in slack. Only a subset or variation of the questions will be chosen for the exam.
-
-On exam day a Google doc will be shared with you. You should complete your work in that document. If you need to include diagrams or mathematical derivations and don't want to spend the time you can do those on paper, take a photo and upload it to the associated D2L assignment folder. Each photo should be labeled, e.g., figure 1, with corresponding text in your Google doc to indicate where the figure should be included.
-
-As per normal, exams are intended to measure individual performance. The work you turn in should be authentically yours. Communication between students during the exam is not allowed.
-
-## Participatory Grading
 
 
 # Textbook and Other Resources
@@ -161,20 +70,45 @@ We will focus on a few core topics with the class voting on the remaining topics
 
 Core Topics:
 
-+ Introduction to Energy Economics, Ch 1: Brief introduction to the topic.
-+ Energy Data and Energy Balance, Ch 2: Introduction to some units and energy balances.  Please note that the units are often oddly expressed in a mix of SI, US customary units and equivalents. Energy balance diagrams also have some quirks relating to how much energy is used to produce energy.
-+ Energy Demand Analysis, Ch 3.1-3.6: This is the link to EC 311/415/201.  Please review your notes from these classes.  The final part of the chapter may be interesting to those that have taken Econometrics, EC469. 
-+ Sectoral Energy Demand, Ch 4, We will use this chapter mostly as a gateway to learning about data sources.
-+ Economic Analysis of Energy Investments, Ch 6, This is a brief version of part of EC 427 or EC 314. 
++ Introduction to Energy Economics (Ch 1): Brief introduction to the topic.
++ Energy Data and Energy Balance (Ch 2): Introduction to some units and energy balances.  Please note that the units are often oddly expressed in a mix of SI, US customary units and equivalents. Energy balance diagrams also have some quirks relating to how much energy is used to produce energy.
++ Energy Demand Analysis (Ch 3.1-3.6): This is the link to EC 311/415/201.  Please review your notes from these classes.  The final part of the chapter may be interesting to those that have taken Econometrics, EC469. 
++ Sectoral Energy Demand (Ch 4): We will use this chapter mostly as a gateway to learning about data sources.
++ Economic Analysis of Energy Investments (Ch 6): This is a brief version of part of EC 427 or EC 314. 
 
 After we complete the core topics we will vote on the next topic to address based on student interest.  These topics will include outside readings that bring the topics more up to date and to emphasize that this is an upper-division economics course as opposed to a lower division or non-economics course.
 
 
-Topic Options:
+Theory Options:  We should choose one of these
 
-+ 
++ Energy Supply Development (Ch 7 and 8): This is about the decision to dig, drill, install solar panels and wind turbine using time value of money.
+
++ Energy Pricing and Taxation (Ch 9): Single period analysis 
+
+Broad Topic Options:  These are multichapter options.  We will likely only address one of these with the majority of other topic determined by term paper choices.
+
++ Externalities and Climate Change (Ch 10, 11, 18, 19)
+
++ Markets (Ch 21, 22, 24, 25)
+
+We can and will address other topics through our term papers.  Energy economics includes the effects of energy use too and many of you may be looking at the effects of electrification or fuel switching on education, health, property values.
+
+## Writting Resources
+
+I've put these resources on reserve in the library.  There are multiple, and more recent, editions of each of these books.  Don't get caught up on the specific edition.  All provide great guidance.  
+
+McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
+
+Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.
+
+In addition to these resources I highly recommend using a tool, e.g., grammerly (https://www.grammarly.com), and stopping by the writing center (https://www.pdx.edu/writing-center/) before turning in drafts.
 
 
 # Policy Statements from the University
+
+```{r child = 'syllabus_common_files/psu_policy_statements.Rmd'}
+```
+
+Link to this syllabus https://github.com/woodsjam/Course-Energy-Economics.  
 
 
