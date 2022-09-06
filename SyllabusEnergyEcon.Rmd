@@ -49,15 +49,38 @@ You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These w
 
 # Basis for Grade
 
+The class is divided into three workflows:
++ The _daily work_ learning, reading and discussion of energy economics topics and readings;
++ _Exams_, where you make the case that you have thought about the material on a more than superficial level.
++ _Term Paper_, where you explore a topic that interests you that can also be used as a writing sample.
 
 
+Daily Work (40%):
++ Table Read Creation: 20%
++ In-class Participation: 20%
 
-# The In-class Experience
+Exams (20%):
++ Midterm (Nov 3): 10%
++ Final Exam (Dec 8 10:15-12:05): 10%
 
-My goal is to make
+Term Paper (40%):
++ Draft Abstract: 2%
++ Final Abstract: 3%
++ Draft Bibliography: 5%
++ Annotated Bibliography: 8%
++ Draft Presentation: 2%
++ Presentation: 3%
++ Draft Term Paper: 10%
++ Final Term Paper: 5%
++ Response to Referee Report: 2%
+
+## Daily Work
 
 + PERSON ON ZOOM IS ALWAYS SCRIBE
 
+## Exams
+
+## Term Paper
 
 
 # Textbook and Other Resources
@@ -95,13 +118,12 @@ We can and will address other topics through our term papers.  Energy economics 
 
 ## Writting Resources
 
-I've put these resources on reserve in the library.  There are multiple, and more recent, editions of each of these books.  Don't get caught up on the specific edition.  All provide great guidance.  
 
-McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
+McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. This is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.  There are later versions, but this one is the most fun and easiest to find.
 
-Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.
+Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.  There are usually a few copies floating around the department.
 
-In addition to these resources I highly recommend using a tool, e.g., grammerly (https://www.grammarly.com), and stopping by the writing center (https://www.pdx.edu/writing-center/) before turning in drafts.
+In addition to these resources I highly recommend using a tool, e.g., Grammerly (https://www.grammarly.com), and stopping by the writing center (https://www.pdx.edu/writing-center/) before turning in drafts.
 
 
 # Policy Statements from the University
