@@ -49,10 +49,10 @@ You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These w
 
 # Basis for Grade
 
-The class is divided into three workflows:
-+ The _daily work_ learning, reading and discussion of energy economics topics and readings;
-+ _Exams_, where you make the case that you have thought about the material on a more than superficial level.
-+ _Term Paper_, where you explore a topic that interests you that can also be used as a writing sample.
+The class is divided into three work flows:
++ _Daily work_ (40%) learning, reading and discussing of energy economics topics and readings;
++ _Exams_ (20%), where you make the case that you have thought about the material on a more than superficial level.
++ _Term Paper_ (40%), where you explore a topic that interests you that can also be used as a writing sample.
 
 
 Daily Work (40%):
@@ -77,11 +77,75 @@ Term Paper (40%):
 ## Daily Work
 
 + PERSON ON ZOOM IS ALWAYS SCRIBE
++ Silent first
++ Then discussion questions.
++ Vote on best table read
++ Vote on best contributor.
 
 ## Exams
 
++ Shared table read notes
++ Some questions shared ahead of time.
++ Questions will be across readings, not within readings.
+
 ## Term Paper
 
+This is a larger project that requires nearly continuous work over the course of a term.  This is not the kind of project that you should expect to start and complete in a few days.  I will have additional advice up as part of a survival guide to upper division classes that will be published elsewhere.
+
+This is broken down into much smaller pieces to make sure that you are making good progress. Exact due dates are published in canvas.  These each have separate deadlines.
+
+Prior to your abstract, we will take a look at some recent publications in some of the major energy economics journals: 
+    + Energy Economics http://www.journals.elsevier.com/energy-economics/
+    + The Energy Journal https://www.jstor.org/journal/energyj
+    + Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
+    + Energy: The International Journal  http://www.journals.elsevier.com/energy/ This has economics and engineering
+    + Energy Policy http://www.journals.elsevier.com/energy-policy/
+    + Utilities Policy (for more electricity focused reading) http://www.journals.elsevier.com/utilities-policy/
+
+You should look through the titles and abstracts of these papers to see if something gets your attention.  Pick a topic that appeals to you.  Don't make yourself miserable by picking a topic you dislike or are not interest in.
+
+Unless you are performing original empirical research, which you should try if you have taken EC 469, you will be completing a literature review:
+
++ That is between 10 and 15 pages long not including figures, tables, bibliography, etc.
++ Makes significant use of at least 8 references from refereed journals.
+
+The easiest way to learn what is in a literature review is to look at some that have been published.  A quick google scholar search gives a long listing (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&as_vis=1&q=%22energy+economics%22+literature+review&btnG=).  
+
+You can, almost, take one at random.  Say for example Greening, Lorna A., David L. Greene, and Carmen Difiglio. "Energy efficiency and consumption—the rebound effect—a survey." Energy policy 28.6 (2000): 389-401 (http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0301421500000215).
+
+The paper has a solid outline.  It starts with an introduction to the problem and then starts discussion the typology of rebounds.  It is clear that while they were reading the papers they figured out that authors were using "rebound effect" differently and part of the difference in the conclusions was because they were using the same word for many different concepts.  They also noted that the authors were connecting "rebound effects" to other concepts in different ways.
+
+They were making the papers talk to each other about how their definitions and scope was different.  That is something you could not get from reading the individual papers.  They are all about the rebound effect but each one is talking about a slightly different rebound effect.
+
+The empirical evidence section is subdivided logically by end-use, e.g., space heating, and then provides tables summarizing how the data and analysis differ across papers.
+
+Table 1 summarizes method, sample size, effect size, and the existence of control group. Table two gives the years of data, effect size and the scope of data.   The tables are used to frame the discussion that follows. In each case they explain why the papers produced different empirical results and gave reasons for the similarities when they exist.
+
+You can see very similar patterns in the other literature reviews.
+
+In any case, a literature review is not a simple recitation, paper after paper, repeating what each said.  A good literature review adds something.  It provides the conversation between the papers, as if the authors were debating with each other.
+
+The term paper deliverables are listed below.  Additional details on content and deadlines will be provided in class and canvas.
+
+1. Submit a _Draft Abstract_, including a few key references, in canvas.
+
+2. Schedule a 20 minute review meeting with the instructor to discuss scope and depth changes to your abstract.
+
+2. Submit a _Final Abstract_ 
+
+3. Submit a _Draft Bibliography_
+
+4. Submit an _Annotated Bibliography_. Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
+
+5. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
+
+5. Submit a _Draft Papers_ If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
+
+6. Submit a  _Final Paper_ .  
+
+The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
+
+7. Response to Referee Report
 
 # Textbook and Other Resources
 
