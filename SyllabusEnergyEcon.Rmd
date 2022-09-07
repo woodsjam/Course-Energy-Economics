@@ -1,4 +1,7 @@
 ---
+params:
+  GA: !r "Carl"
+
 title: "Syllabus EC438/538 Fall 2022"
 author: "James Woods"
 date: ''
@@ -37,8 +40,7 @@ The undergraduate section has microeconomic theory, EC 311, or the calculus base
 
 While we are 'over' COVID-19, it does not mean that everything will return to the way it was.  I will continue to organize this course as an ``Attend Anywhere`` course with the option to join via zoom.  
 
-If you are sick, not just COVID, please attend via zoom, or at least wear a mask.
-
+If you are sick, not just COVID, please attend via zoom, or at least wear a mask.  If I get sick, class will move to zoom only or cancel class until I improve.  As usual, recordings of all zoom meetings will be available in canvas. 
 
 # Contact Information
 
@@ -50,20 +52,24 @@ You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These w
 # Basis for Grade
 
 The class is divided into three work flows:
+
 + _Daily work_ (40%) learning, reading and discussing of energy economics topics and readings;
 + _Exams_ (20%), where you make the case that you have thought about the material on a more than superficial level.
 + _Term Paper_ (40%), where you explore a topic that interests you that can also be used as a writing sample.
 
 
 Daily Work (40%):
+
 + Table Read Creation: 20%
 + In-class Participation: 20%
 
 Exams (20%):
+
 + Midterm (Nov 3): 10%
 + Final Exam (Dec 8 10:15-12:05): 10%
 
 Term Paper (40%):
+
 + Draft Abstract: 2%
 + Final Abstract: 3%
 + Draft Bibliography: 5%
@@ -95,19 +101,20 @@ This is a larger project that requires nearly continuous work over the course of
 This is broken down into much smaller pieces to make sure that you are making good progress. Exact due dates are published in canvas.  These each have separate deadlines.
 
 Prior to your abstract, we will take a look at some recent publications in some of the major energy economics journals: 
-    + Energy Economics http://www.journals.elsevier.com/energy-economics/
-    + The Energy Journal https://www.jstor.org/journal/energyj
-    + Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
-    + Energy: The International Journal  http://www.journals.elsevier.com/energy/ This has economics and engineering
-    + Energy Policy http://www.journals.elsevier.com/energy-policy/
-    + Utilities Policy (for more electricity focused reading) http://www.journals.elsevier.com/utilities-policy/
+
++ Energy Economics http://www.journals.elsevier.com/energy-economics/
++ The Energy Journal https://www.jstor.org/journal/energyj
++ Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
++ Energy: The International Journal  http://www.journals.elsevier.com/energy/ This has economics and engineering
++ Energy Policy http://www.journals.elsevier.com/energy-policy/
++ Utilities Policy (for more electricity focused reading) http://www.journals.elsevier.com/utilities-policy/
 
 You should look through the titles and abstracts of these papers to see if something gets your attention.  Pick a topic that appeals to you.  Don't make yourself miserable by picking a topic you dislike or are not interest in.
 
-Unless you are performing original empirical research, which you should try if you have taken EC 469, you will be completing a literature review:
+Unless you are performing original empirical research, which you should try if you have taken EC 469, you will be completing a literature review only.  The review will:
 
-+ That is between 10 and 15 pages long not including figures, tables, bibliography, etc.
-+ Makes significant use of at least 8 references from refereed journals.
++ Be between 10 and 15 pages long not including figures, tables, bibliography, etc.
++ Make significant use of at least 8 references from refereed journals.
 
 The easiest way to learn what is in a literature review is to look at some that have been published.  A quick google scholar search gives a long listing (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&as_vis=1&q=%22energy+economics%22+literature+review&btnG=).  
 
@@ -127,31 +134,30 @@ In any case, a literature review is not a simple recitation, paper after paper, 
 
 The term paper deliverables are listed below.  Additional details on content and deadlines will be provided in class and canvas.
 
-1. Submit a _Draft Abstract_, including a few key references, in canvas.
+1. Submit a _Draft Abstract_. Provide a maximum 300-word abstract for your term paper.  The term paper will eventually be between 10 and 15 pages long and make good use of at least eight articles from economics journals in the energy area.  Get narrow as soon as possible.  
 
-2. Schedule a 20 minute review meeting with the instructor to discuss scope and depth changes to your abstract.
 
-2. Submit a _Final Abstract_ 
+2. Schedule a 20 minute review meeting with the instructor to discuss scope and depth changes to your abstract.  There are links in canvas, slack and in the syllabus for this.  I am clearing extra time that week for these meetings.
 
-3. Submit a _Draft Bibliography_
+2. Submit a _Final Abstract_.  There are likely some changes after this but there should be fewer changes, and no wholesale topic changes, after this point. 
 
-4. Submit an _Annotated Bibliography_. Here are some links on how to create an annotated bibliography, http://guides.library.cornell.edu/annotatedbibliography and               https://www.bethel.edu/library/research/apa-annobib-sixth.pdf 
+3. Submit a _Draft Bibliography_.  Provide at least ten journal articles that you intend on using along with your other lesser, supporting, references.  This should be in a standard bibliographic format.
 
-5. Authors must schedule a 20-minute presentation to the class on data collection, design and analysis approach prior to completion of the draft paper.  Students conducting a literature review should schedule a similar session for a key papers in their literature review. These presentation will be scheduled to take place from _Nov 4th through the November 13th_ unless the author team wants to schedule something earlier.  Early drafts and annotated bibliographies should be distributed before the presentation.
+4. Submit an _Annotated Bibliography_. This is a two to three page outline of the arguments you will make, the tables you will create, and how you will use the references in your term paper. The annotation on each paper is not a replication of the abstract. 
 
-5. Submit a _Draft Papers_ If you are writing an empirical paper, the submission should include a link to your data and the code used to analyze the data. Comments to the students will be returned soon after. These comments will need to be addressed in the final paper. 
+5. Submit a _Draft Presentation_.   These are due the same day for all students.  I will grade the version you upload.  I will distribute you current annotated bibliography and abstract to the class.
 
-6. Submit a  _Final Paper_ .  
+5. Submit a _Draft Paper_. This should be a well polished, logical extension of your work to date. The spelling, grammar and  Turnitin report should be very clean.  It should be pointed out that the draft paper is worth more than the final paper.
 
-The submission must include a separate document addressing the issues with the draft paper stating how the point is either irrelevant or how it is addressed in the paper.
+6. Submit a  _Final Paper_.  This should be the your final submission and should address all comments made in the referee report on the draft paper.
 
-7. Response to Referee Report
+7. Submit a _Response to Referee Report_.  This should address the major and minor suggestions, bullet point by bullet point, indicating how you addressed the issue or why it is irrelevant.
 
 # Textbook and Other Resources
 
 The main text for the course is Bhattacharyya, Subhes C. Energy economics: concepts, issues, markets and governance. Springer Nature, 2019..  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415 and EC 201 and focuses more on graphical treatments of the ideas.  
 
-The book is intended to be a fairly comprehensive, mostly non-technical, overview of a sprawling and ragged field.
+The book is intended to be a fairly comprehensive, mostly non-technical, overview of a sprawling and ragged field and provides some key references on the topics it addresses.  Please note that many of the papers you find in the major journals don't fit in the chapters.  The effects of energy consumption on land values, labor outcomes, health are not addressed in the textbook but you may want to investigate those topics in your term paper.
 
 We will focus on a few core topics with the class voting on the remaining topics depending on interest and term paper topics.
 
@@ -178,7 +184,7 @@ Broad Topic Options:  These are multichapter options.  We will likely only addre
 
 + Markets (Ch 21, 22, 24, 25)
 
-We can and will address other topics through our term papers.  Energy economics includes the effects of energy use too and many of you may be looking at the effects of electrification or fuel switching on education, health, property values.
+We can and will address other topics through our term papers.  
 
 ## Writting Resources
 
