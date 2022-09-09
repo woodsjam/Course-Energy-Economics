@@ -54,19 +54,59 @@ You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These w
 The class is divided into three work flows:
 
 + _Daily work_ (40%) learning, reading and discussing of energy economics topics and readings;
-+ _Exams_ (20%), where you make the case that you have thought about the material on a more than superficial level.
++ _Exams_ (20%), where you make the case that *you* have thought about the material on a more than superficial level, and
 + _Term Paper_ (40%), where you explore a topic that interests you that can also be used as a writing sample.
 
+
+
+## Daily Work
+
+The daily work is predicated on the idea that the fastest way to learn is by reading.  You may prefer videos or some other media but until we start using AI directed learning, the written word alone allows you to speed up slow down, skip, edit, and personalize the scale and scope of your attention.
+
+Some ideas take some time to grasp and they need to settle for a while before they make easy sense and you make the connections to other things you have learned. Reading needs to take place over time and you need to return to your thoughts so that you can advance and revise them.  You need to write things down.  Once you write them down you can share them with others helping, both your own and their understanding.
+
+About a week before class I will share a google doc with you that gives you a reading and writing assignment that will be shared with the class.  These will generally require a brief summary, a longer explanation of an argument, or for you to assemble data that we will use in class.  I will take what you have at 5pm the day before class and assemble them into one shared document.
+
+This is the Table Read Creation part of your grade.  Students will evaluate the work product and vote on quality which counts for part of your grade.  I'll provide the other part.
 
 Daily Work (40%):
 
 + Table Read Creation: 20%
 + In-class Participation: 20%
 
+Once we finish your read of the document and have evaluated the work quality we will move to our more active discussion.
+
+Students will break into groups and appoint a scribe to summarize the in class discussion.  It is assumed that anyone joining via zoom is the scribe for the group.
+
+Each group will be assigned a discussion question.  You will document your discussion and conclusions with data, mathematical and graphical arguments.  The scribe will then share out the conclusions of the group.
+
+The class will end with each group voting on the best contributor in the group as part of the in-class participation grade.
+
+## Exams
+
+There is both a midterm and a final exam in this class. The questions will require you to synthesize what you have learned, compare and contrast, using models and data from multiple sources to support your argument.  
+
 Exams (20%):
 
 + Midterm (Nov 3): 10%
 + Final Exam (Dec 8 10:15-12:05): 10%
+
+These are open-note, open-book exams. That should indicate that these are more difficult exams rather than easier closed-note.  Don't expect every question to be a superficial burn through some math problems.  If you are familiar with Costa's levels of inquiry, these are level three questions.  
+
+I will keep a document of potential questions pinned in Slack. It is in your best interest to prepare to answer those questions.  Preparation could be an outline or full text.  It is not a good idea to walk in cold and wing it.
+
+I will share a Google doc and a Jamboard with you on exam day.  You should complete your work in those documents.  
+
+If you need to include diagrams or mathematical derivations and don't want to spend the time typing or using the draw function, you can do those on paper, take a photo and embed them in the document, or use the Jamboard.  If you are using Jambord, indicate in the Google Doc indicate the page of the Jamboard, so I know where to look.
+
+Exams measure individual performance.  The work you turn in should be authentically yours.  Communication between students during the exam is not allowed.
+
+## Term Paper
+
+
+This is a larger project that requires nearly continuous work over the course of a term.  This is not the kind of project that you should expect to start and complete in a few days.  I will have additional advice up as part of a survival guide to upper division classes that will be published elsewhere.
+
+This is broken down into much smaller pieces to make sure that you are making good progress. Exact due dates are published in canvas.  These each have separate deadlines.
 
 Term Paper (40%):
 
@@ -80,25 +120,6 @@ Term Paper (40%):
 + Final Term Paper: 5%
 + Response to Referee Report: 2%
 
-## Daily Work
-
-+ PERSON ON ZOOM IS ALWAYS SCRIBE
-+ Silent first
-+ Then discussion questions.
-+ Vote on best table read
-+ Vote on best contributor.
-
-## Exams
-
-+ Shared table read notes
-+ Some questions shared ahead of time.
-+ Questions will be across readings, not within readings.
-
-## Term Paper
-
-This is a larger project that requires nearly continuous work over the course of a term.  This is not the kind of project that you should expect to start and complete in a few days.  I will have additional advice up as part of a survival guide to upper division classes that will be published elsewhere.
-
-This is broken down into much smaller pieces to make sure that you are making good progress. Exact due dates are published in canvas.  These each have separate deadlines.
 
 Prior to your abstract, we will take a look at some recent publications in some of the major energy economics journals: 
 
@@ -152,9 +173,10 @@ The term paper deliverables are listed below.  Additional details on content and
 
 7. Submit a _Response to Referee Report_.  This should address the major and minor suggestions, bullet point by bullet point, indicating how you addressed the issue or why it is irrelevant.
 
+
 # Textbook and Other Resources
 
-The main text for the course is Bhattacharyya, Subhes C. Energy economics: concepts, issues, markets and governance. Springer Nature, 2019..  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415 and EC 201 and focuses more on graphical treatments of the ideas.  
+The main text for the course is Bhattacharyya, Subhes C. Energy economics: concepts, issues, markets and governance. Springer Nature, 2019.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415 and EC 201 and focuses more on graphical treatments of the ideas.  
 
 The book is intended to be a fairly comprehensive, mostly non-technical, overview of a sprawling and ragged field and provides some key references on the topics it addresses.  Please note that many of the papers you find in the major journals don't fit in the chapters.  The effects of energy consumption on land values, labor outcomes, health are not addressed in the textbook but you may want to investigate those topics in your term paper.
 
