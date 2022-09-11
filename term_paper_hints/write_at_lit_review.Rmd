@@ -13,6 +13,10 @@ Knowledge, in the form of an academic paper, does not exist in a vacuum.  It is 
 
 A good literature review does not just explain what each paper said;  it has to teach something you wouldn't notice from just reading the papers one-by-one.  It has to provide the conversation between the authors.
 
+
+# Due Dates and Technical Requirements
+
+
 ## A Walk Through a Litterature Review?
 
 The easiest way to learn what is in a literature review is to look at some that have been published.  A quick google scholar search gives a long listing (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&as_vis=1&q=%22energy+economics%22+literature+review&btnG=).  
@@ -131,7 +135,7 @@ Once you have a reasonable abstract, you can start building your literature revi
 
 If you want to work with data you still have to create a literature review but it is just part of your paper, not the whole thing.  You still need to situate what you are doing in the existing body of knowledge but after that, the steps are a little different.
 
-Chapter 19 of Wooldridge's, "Introductory Econometrics: A Modern Approach" has great advice on how to approach an empirical paper.  The book is on electronic reserve. 
+Chapter 19 of Wooldridge's, "Introductory Econometrics: A Modern Approach" has great advice on how to approach an empirical paper.  
 
 ## Bibliography and Annotated Bibliography
 
@@ -180,20 +184,11 @@ I may spend only ten minutes reading and commenting on poorly written paper, but
 It short, the less time you put into your paper before it gets to me, the less help I can give you, and the more work you have to do before the final draft.  
 
 
-# Term Paper Resources
+# General Resources
 
-Because term papers are rarer than they were in the past, I will be providing a lot of supports to make sure you can pull this off. The subject matter librarian for economics will give a seminar on how to conduct a literature review.  
-
-In addition there are two sources that are very helpful.  First, McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work. The library can not put it on reserve but it is easy to find.
-
-The second resource is in the library reserve is a Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.
-
-        
-## General Resources
-
-+ A list of energy related glossaries http://dahl.mines.edu/GlossaryLinks.pdf.  Some of the links are 404 but the one at the California Energy Commission is pretty good.
 + EIA Today in Energy (https://www.eia.gov/todayinenergy/) New topics every day.
 + The Journal of Economic Perspectives (https://www.jstor.org/journal/jeconpers) has many easy to read symposia and review articles.  Here are a few from the last decade or so. Some of these are already included in the readings.
+    + SYMPOSIUM: CLIMATE CHANGE FALL 2018 (https://www.jstor.org/stable/e26513492)
     + SYMPOSIUM: OIL AND GAS MARKETS WINTER 2016 (https://www.jstor.org/stable/i40149800)
     + SYMPOSIUM: TRADING POLLUTION PERMITS WINTER 2013 (https://www.jstor.org/stable/i40086192)
     + SYMPOSIUM: ENERGY CHALLENGES WINTER 2012 (https://www.jstor.org/stable/i40064264)

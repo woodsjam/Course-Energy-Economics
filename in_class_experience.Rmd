@@ -1,0 +1,57 @@
+---
+title: "A Survival Guide for Upper Division Courses"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# How to Read
+
+Start reading the articles. I don't mean a deep reading.  Use the multi-pass process that that is often called academic skimming:
+
++ Read the title and abstract
++ Read the section headings
++ Read the introduction
++ Read the conclusion
++ Look at the figures
++ Look at the equations
++ Skim the whole thing
++ Read it but don't freak out if you don't get everything.
+    + Keep notes on your reactions, how the topic connects back and questions (My personal notes on papers are filled with profanity.)
+    + Repeat as time allows.
+
+Academic skimming is what allows faculty to keep up on the literature. It goes faster the more you know about a topic.  It is slow going when you are first learning a topic.  Each paper brings up new issues and new ideas.  After a while, you will notice you go faster because fewer of the ideas in the paper are new to you.  One may be similar to another except the data is from another state.  Another may use a new statistical technique.  The more you know the faster it goes.  
+
+As you read, you will notice that you can start categorizing papers.  There is no one way of categorizing.  You could do it chronologically by decade, or by school of thought, or by statistical technique used, or pro or con, just pick something that works to organize them.
+
+While you are reading make notes.  
+
++ How are key terms are defined
++ What are some key statistics.
++ Keep an eye out for good quotes.
++ Analyze the papers a bit.  Some are better than others and make notes on why the good ones are good and the bad ones are bad.
++ Look for trends over time on how a topic is treated.
++ Look for a hole in the literature.  Is there a topic that has been missed?  That would be a great motivation for a later original contribution to the literature.
+
+
+There are x major effort areas in this class, the term paper, where you investigate a topic that interests you, the weekly table reads and discussion, where you demonstrate that you
+
+#  Desired Workflow, Outcomes and Assumptions
+
+
+
+
+
+##  Reading, Table Reads, Silent Meeting, Discussion
+
+The reading schedule for the class will be announced in class and in #energy_general_fall_2022 with at least a weeks notice.  Table read assignments will be sent out at the same time as a google doc shared with you.  The shared documents are specific to you.  Your table read assignment and questions will be different than other peoples.
+
+You are create your table read.  At 5pm the day before class I will transfer what you created to a shared document
+
+
+##  Peer Evaluation of Table Reads and Discussion Contribution
+
++ addition of outside responses to questions.  Low effort on my part.
