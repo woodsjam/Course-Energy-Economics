@@ -1,12 +1,20 @@
 ---
 params:
+
+  
   GA: !r "Katherine"
+  office_hours: "  
+    + Friday  1-3 pm
+    
+    + Wednesday 11-12:30 pm"
+    
+    
 title: "Syllabus EC438/538 Fall 2022"
 author: "James Woods"
 date: ''
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 fontsize: 12pt
 ---
 
