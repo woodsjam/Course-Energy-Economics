@@ -1,13 +1,12 @@
 ---
 params:
   GA: !r "Katherine"
-
 title: "Syllabus EC438/538 Fall 2022"
 author: "James Woods"
 date: ''
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 fontsize: 12pt
 ---
 
