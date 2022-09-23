@@ -1,6 +1,6 @@
 ---
 params:
-  GA: !r "Carl"
+  GA: !r "Katherine"
 
 title: "Syllabus EC438/538 Fall 2022"
 author: "James Woods"
@@ -21,13 +21,13 @@ The official description of the course is:
 
 > Economics and structure of energy markets, with a focus on electricity. Examines current policy issues arising from energy production and use.
 
-This is a companion course to EC 437/537 which will address regulatory and competitive policies in electricity, public transportation, water, natural, and telecommunications. The order of the courses has changed to reflect the evolving nature of the field.
+This course is a companion to EC 437/537, which will address regulatory and competitive policies in electricity, public transportation, water, natural, and telecommunications. The order of the courses has changed to reflect the evolving nature of the field.
 
 
 
 ## Prerequisites
 
-The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites. The graduate section requires only graduate standing.
+The undergraduate section has microeconomic theory, EC 311, or the calculus-based version, EC 415, listed as prerequisites. The graduate section requires only graduate standing.
 
 
 ## Technology Requirements
@@ -38,9 +38,9 @@ The undergraduate section has microeconomic theory, EC 311, or the calculus base
 
 ## Health and Safety
 
-While we are 'over' COVID-19, it does not mean that everything will return to the way it was.  I will continue to organize this course as an ``Attend Anywhere`` course with the option to join via zoom.  
+While we are 'over' COVID-19, it does not mean everything will return to the way it was.  I will continue to organize this course as an ``Attend Anywhere`` course with the option to join via zoom.  
 
-If you are sick, not just COVID, please attend via zoom, or at least wear a mask.  If I get sick, class will move to zoom only or cancel class until I improve.  As usual, recordings of all zoom meetings will be available in canvas. 
+If you are sick, not just COVID, please attend via zoom, or at least wear a mask.  If I get sick, our class meetings will move to zoom, or I'll cancel class until I improve.  As usual, recordings of all zoom meetings will be available on canvas. 
 
 # Contact Information
 
@@ -51,62 +51,64 @@ You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These w
 
 # Basis for Grade
 
-The class is divided into three work flows:
+The class is divided into three workflows:
 
-+ _Daily work_ (40%) learning, reading and discussing of energy economics topics and readings;
-+ _Exams_ (20%), where you make the case that *you* have thought about the material on a more than superficial level, and
-+ _Term Paper_ (40%), where you explore a topic that interests you that can also be used as a writing sample.
++ _Daily Work_ (40%) learning, reading, writing about, and discussing energy economics topics;
++ _Exams_ (20%), where you make the case that *you* have thought about the material on a more than a superficial level, and
++ _Term Paper_ (40%), where you explore a topic that interests you and produce a writing sample.
 
 
 
 ## Daily Work
 
-The daily work is predicated on the idea that the fastest way to learn is by reading.  You may prefer videos or some other media but until we start using AI directed learning, the written word alone allows you to speed up slow down, skip, edit, and personalize the scale and scope of your attention.
+Your daily work is predicated on reading being the fastest way to learn.  You may prefer videos or some other media. Still, until we start using AI-directed learning, the written word alone allows you to speed up, slow down, skip, edit, and personalize the scale and scope of your attention.
 
-Some ideas take some time to grasp and they need to settle for a while before they make easy sense and you make the connections to other things you have learned. Reading needs to take place over time and you need to return to your thoughts so that you can advance and revise them.  You need to write things down.  Once you write them down you can share them with others helping, both your own and their understanding.
+Ideas take time to grasp. They need to settle for a while before you can connect those new ideas to things you already learned. Likewise, reading needs to take place over time, need to return to your thoughts to advance your understanding.
 
-About a week before class I will share a google doc with you that gives you a reading and writing assignment that will be shared with the class.  These will generally require a brief summary, a longer explanation of an argument, or for you to assemble data that we will use in class.  I will take what you have at 5pm the day before class and assemble them into one shared document.
+It also helps to interact with people trying to grasp the same ideas.  Each of you gets a piece of the puzzle, and when you put your pieces together, you get a better sense of the whole. 
 
-This is the Table Read Creation part of your grade.  Students will evaluate the work product and vote on quality which counts for part of your grade.  I'll provide the other part.
+About a week before class I will share a Google Doc with you that gives you a reading and writing assignment that will be shared without attribution with the class.  These will generally require a brief summary, a longer explanation of an argument, or for you to assemble data that we will use in class.  I will take what you have at 5 pm the day before class and assemble them into one shared document.
+
+This shared document is the Table Read Creation part of your grade.  Students will evaluate the work product and vote on quality which counts for part of your grade for table read creation.  I'll provide the other component.
 
 Daily Work (40%):
 
 + Table Read Creation: 20%
 + In-class Participation: 20%
 
-Once we finish your read of the document and have evaluated the work quality we will move to our more active discussion.
+Once we read the document and evaluate the work quality, we will move to our more active discussion.
 
-Students will break into groups and appoint a scribe to summarize the in class discussion.  It is assumed that anyone joining via zoom is the scribe for the group.
+Students will break into groups and appoint a scribe to summarize the in-class discussion.  Those joining via zoom should volunteer for the scribe role.
 
-Each group will be assigned a discussion question.  You will document your discussion and conclusions with data, mathematical and graphical arguments.  The scribe will then share out the conclusions of the group.
+I'll randomly assign each group a discussion question.  You will document your discussion and conclusions with data, mathematical and graphical arguments.  The scribe will then share out the conclusions of the group.
 
-The class will end with each group voting on the best contributor in the group as part of the in-class participation grade.
+Each class session will end with each group voting on the best contributor in the group as part of the in-class participation grade. 
 
 ## Exams
 
-There is both a midterm and a final exam in this class. The questions will require you to synthesize what you have learned, compare and contrast, using models and data from multiple sources to support your argument.  
+This course has a midterm and a final exam. The questions will require you to synthesize what you have learned, compare and contrast, and use models and data from multiple sources to support your argument.  
 
 Exams (20%):
 
 + Midterm (Nov 3): 10%
 + Final Exam (Dec 8 10:15-12:05): 10%
 
-These are open-note, open-book exams. That should indicate that these are more difficult exams rather than easier closed-note.  Don't expect every question to be a superficial burn through some math problems.  If you are familiar with Costa's levels of inquiry, these are level three questions.  
+These are open-note, open-book exams. That should indicate that these are more difficult exams rather than easier closed-note exams.  Don't expect every question to be a superficial burn through some math problems.  If you are familiar with Costa's levels of inquiry, these are level three questions.  
 
-I will keep a document of potential questions pinned in Slack. It is in your best interest to prepare to answer those questions.  Preparation could be an outline or full text.  It is not a good idea to walk in cold and wing it.
+I will keep a document of potential questions pinned in Slack. It is in your best interest to prepare to answer those questions.  Preparation could be an outline or full text.  It is not a good idea to walk in unprepared.
 
 I will share a Google doc and a Jamboard with you on exam day.  You should complete your work in those documents.  
 
-If you need to include diagrams or mathematical derivations and don't want to spend the time typing or using the draw function, you can do those on paper, take a photo and embed them in the document, or use the Jamboard.  If you are using Jambord, indicate in the Google Doc indicate the page of the Jamboard, so I know where to look.
+If you need to include diagrams or mathematical derivations and don't want to spend the time typing or using the draw function, you can do those on paper, take a photo and embed them in the document, or use the Jamboard.  If you are using Jambord, indicate in the Google Doc the page of the Jamboard so I know where to look.
 
 Exams measure individual performance.  The work you turn in should be authentically yours.  Communication between students during the exam is not allowed.
 
 ## Term Paper
 
 
-This is a larger project that requires nearly continuous work over the course of a term.  This is not the kind of project that you should expect to start and complete in a few days.  I will have additional advice up as part of a survival guide to upper division classes that will be published elsewhere.
+Your term paper is a larger project that requires nearly continuous work over the term.  It is not the kind of project you should envision starting and completing in a few days.  I will have additional advice as part of a survival guide to upper-division classes that will be published elsewhere.
 
-This is broken down into much smaller pieces to make sure that you are making good progress. Exact due dates are published in canvas.  These each have separate deadlines.
+I've broken down the term paper process into much smaller pieces to ensure that you are progressing well. The exact due dates are published in canvas.  They each have separate deadlines.
 
 Term Paper (40%):
 
@@ -121,85 +123,85 @@ Term Paper (40%):
 + Response to Referee Report: 2%
 
 
-Prior to your abstract, we will take a look at some recent publications in some of the major energy economics journals: 
+Before you turn in your abstract, we will take a look at some recent publications in the major energy economics journals: 
 
 + Energy Economics http://www.journals.elsevier.com/energy-economics/
 + The Energy Journal https://www.jstor.org/journal/energyj
 + Resource and Energy Economics http://www.journals.elsevier.com/resource-and-energy-economics/
 + Energy: The International Journal  http://www.journals.elsevier.com/energy/ This has economics and engineering
 + Energy Policy http://www.journals.elsevier.com/energy-policy/
-+ Utilities Policy (for more electricity focused reading) http://www.journals.elsevier.com/utilities-policy/
++ Utilities Policy (for more electricity-focused reading) http://www.journals.elsevier.com/utilities-policy/
 
-You should look through the titles and abstracts of these papers to see if something gets your attention.  Pick a topic that appeals to you.  Don't make yourself miserable by picking a topic you dislike or are not interest in.
+You should look through the titles and abstracts of these papers to see if something gets your attention. Then, pick a topic that appeals to you.  Don't make yourself miserable by choosing a topic you don't have an interest in or dislike.
 
-Unless you are performing original empirical research, which you should try if you have taken EC 469, you will be completing a literature review only.  The review will:
+Unless you are performing original empirical research, which you should try if you have taken EC 469, you will only be completing a literature review.  The review will:
 
-+ Be between 10 and 15 pages long not including figures, tables, bibliography, etc.
-+ Make significant use of at least 8 references from refereed journals.
++ Be between 10 and 15 pages long, not including figures, tables, bibliography, etc.
++ Make meaningful use of at least eight references from refereed journals.
 
-The easiest way to learn what is in a literature review is to look at some that have been published.  A quick google scholar search gives a long listing (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&as_vis=1&q=%22energy+economics%22+literature+review&btnG=).  
+The easiest way to learn what is in a literature review is to look at some published examples.  A quick google scholar search gives a long listing (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&as_vis=1&q=%22energy+economics%22+literature+review&btnG=).  
 
-You can, almost, take one at random.  Say for example Greening, Lorna A., David L. Greene, and Carmen Difiglio. "Energy efficiency and consumption—the rebound effect—a survey." Energy policy 28.6 (2000): 389-401 (http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0301421500000215).
+Looking at  Greening, Lorna A., David L. Greene, and Carmen Difiglio. "Energy efficiency and consumption—the rebound effect—a survey." Energy policy 28.6 (2000): 389-401 (http://www.sciencedirect.com.proxy.lib.pdx.edu/science/article/pii/S0301421500000215), which jumped out at me as interesting.
 
-The paper has a solid outline.  It starts with an introduction to the problem and then starts discussion the typology of rebounds.  It is clear that while they were reading the papers they figured out that authors were using "rebound effect" differently and part of the difference in the conclusions was because they were using the same word for many different concepts.  They also noted that the authors were connecting "rebound effects" to other concepts in different ways.
+The paper has a solid outline.  It starts with an introduction to the problem and then discusses the typology of rebounds.  They figured out that authors were using "rebound effect" differently, and part of the difference in the conclusions was because they were using the same word for many different concepts.  They also noted that the authors connected "rebound effects" to other concepts differently.
 
-They were making the papers talk to each other about how their definitions and scope was different.  That is something you could not get from reading the individual papers.  They are all about the rebound effect but each one is talking about a slightly different rebound effect.
+They were making the papers talk to each other about how their definitions and scope differed.  That is something you could not get from reading the articles individually.  They are all about the rebound effect, but each talks about a slightly different one.
 
 The empirical evidence section is subdivided logically by end-use, e.g., space heating, and then provides tables summarizing how the data and analysis differ across papers.
 
-Table 1 summarizes method, sample size, effect size, and the existence of control group. Table two gives the years of data, effect size and the scope of data.   The tables are used to frame the discussion that follows. In each case they explain why the papers produced different empirical results and gave reasons for the similarities when they exist.
+Table 1 summarizes methods, sample size, effect size, and the existence of control groups. Table 2 gives the years of data, effect size, and the scope of data.   They use the tables to frame the discussion that follows. In each case, they explain why the papers produced different empirical results and give reasons for the similarities when they exist.
 
 You can see very similar patterns in the other literature reviews.
 
-In any case, a literature review is not a simple recitation, paper after paper, repeating what each said.  A good literature review adds something.  It provides the conversation between the papers, as if the authors were debating with each other.
+A literature review is not a simple recitation, paper after paper, repeating what each said. They need to add something.  They need to provide the conversation linking the papers as if the authors were debating each other.
 
-The term paper deliverables are listed below.  Additional details on content and deadlines will be provided in class and canvas.
+The term paper deliverables are listed below.  There will be additional details in class and on canvas.
 
 1. Submit a _Draft Abstract_. Provide a maximum 300-word abstract for your term paper.  The term paper will eventually be between 10 and 15 pages long and make good use of at least eight articles from economics journals in the energy area.  Get narrow as soon as possible.  
 
-2. Schedule a 20 minute review meeting with the instructor to discuss scope and depth changes to your abstract.  There are links in canvas, slack and in the syllabus for this.  I am clearing extra time that week for these meetings.
+2. Schedule a 20-minute review meeting with the instructor to discuss scope and depth changes to your abstract. Again, there are links for this in canvas, slack, and in the syllabus.  I am clearing extra time that week for these meetings.
 
-2. Submit a _Final Abstract_.  There are likely some changes after this but there should be fewer changes, and no wholesale topic changes, after this point. 
+2. Submit a _Final Abstract_.  There are likely some changes after this, but there should be fewer changes, and no wholesale topic changes, after this point. 
 
-3. Submit a _Draft Bibliography_.  Provide at least ten journal articles that you intend on using along with your other lesser, supporting, references.  This should be in a standard bibliographic format.
+3. Submit a _Draft Bibliography_.  Provide at least ten journal articles you intend to use and your lesser supporting references.  This should be in a standard bibliographic format.
 
-4. Submit an _Annotated Bibliography_. This is a two to three page outline of the arguments you will make, the tables you will create, and how you will use the references in your term paper. The annotation on each paper is not a replication of the abstract. 
+4. Submit an _Annotated Bibliography_. An annotated bibliography is a two to three-page outline of the arguments you will make, the tables you will create, and how you will use the references in your term paper. The annotation on each paper is not a replication of the abstract. 
 
-5. Submit a _Draft Presentation_.   These are due the same day for all students.  I will grade the version you upload.  I will distribute you current annotated bibliography and abstract to the class.
+5. Submit a _Draft Presentation_.   These are due the same day for everyone.  I will grade the version you upload, not what you present. I will distribute your abstract and annotated bibliography before then so you can spend less time framing your presentation.
 
-5. Submit a _Draft Paper_. This should be a well polished, logical extension of your work to date. The spelling, grammar and  Turnitin report should be very clean.  It should be pointed out that the draft paper is worth more than the final paper.
+5. Submit a _Draft Paper_. Your paper should be a well-polished, logical extension of your work to date. The spelling, grammar, and  Turnitin report should be very clean.  The draft paper is worth more than the final paper.
 
-6. Submit a  _Final Paper_.  This should be the your final submission and should address all comments made in the referee report on the draft paper.
+6. Submit a  _Final Paper_.  This is the final submission. You should address all comments made in the referee report on the draft paper.
 
-7. Submit a _Response to Referee Report_.  This should address the major and minor suggestions, bullet point by bullet point, indicating how you addressed the issue or why it is irrelevant.
+7. Submit a _Response to the Referee Report_.  This is a written response to the referee report and should address the suggestions, bullet-point-by-bullet-point, indicating how you handled the issue in your final draft. Again, this can be very long if your draft is in poor shape.
 
 
 # Textbook and Other Resources
 
-The main text for the course is Bhattacharyya, Subhes C. Energy economics: concepts, issues, markets and governance. Springer Nature, 2019.  It was chosen undergraduates in mind and illustrates many of the concepts they learned in EC 311/415 and EC 201 and focuses more on graphical treatments of the ideas.  
+The main text for the course is Bhattacharyya, Subhes C. Energy economics: concepts, issues, markets and governance. Springer Nature, 2019.  It was chosen for undergraduates and illustrates many of the concepts they learned in EC 311/415 and EC 201, focusing more on graphical treatments of the ideas.  
 
-The book is intended to be a fairly comprehensive, mostly non-technical, overview of a sprawling and ragged field and provides some key references on the topics it addresses.  Please note that many of the papers you find in the major journals don't fit in the chapters.  The effects of energy consumption on land values, labor outcomes, health are not addressed in the textbook but you may want to investigate those topics in your term paper.
+The textbook author intended it to be a reasonably comprehensive, primarily non-technical, overview of a sprawling and ragged field.  Please note that many of the papers in the major journals don't fit in the chapters. For example, the effects of energy consumption on land values, labor outcomes, and health are not addressed in the textbook, but you may want to investigate those topics in your term paper.
 
-We will focus on a few core topics with the class voting on the remaining topics depending on interest and term paper topics.
+We will focus on a few core topics, with the class voting on the remaining topics depending on interest.
 
 Core Topics:
 
 + Introduction to Energy Economics (Ch 1): Brief introduction to the topic.
-+ Energy Data and Energy Balance (Ch 2): Introduction to some units and energy balances.  Please note that the units are often oddly expressed in a mix of SI, US customary units and equivalents. Energy balance diagrams also have some quirks relating to how much energy is used to produce energy.
++ Energy Data and Energy Balance (Ch 2): Introduction to some units and energy balances.  Please note that the units are often oddly expressed in a mix of SI, US customary, and equivalents. Energy balance diagrams also have some quirks, including how much energy is used to produce energy.
 + Energy Demand Analysis (Ch 3.1-3.6): This is the link to EC 311/415/201.  Please review your notes from these classes.  The final part of the chapter may be interesting to those that have taken Econometrics, EC469. 
-+ Sectoral Energy Demand (Ch 4): We will use this chapter mostly as a gateway to learning about data sources.
++ Sectoral Energy Demand (Ch 4): We will use this chapter mainly as a gateway to learning about data sources.
 + Economic Analysis of Energy Investments (Ch 6): This is a brief version of part of EC 427 or EC 314. 
 
-After we complete the core topics we will vote on the next topic to address based on student interest.  These topics will include outside readings that bring the topics more up to date and to emphasize that this is an upper-division economics course as opposed to a lower division or non-economics course.
+After we complete the core topics, we will vote on the following topic. I will add outside readings that bring the topics up to date and emphasize that this is an upper-division economics course as opposed to a lower division or non-economics course.
 
 
 Theory Options:  We should choose one of these
 
-+ Energy Supply Development (Ch 7 and 8): This is about the decision to dig, drill, install solar panels and wind turbine using time value of money.
++ Energy Supply Development (Ch 7 and 8): This is about the decision to dig, drill, and install solar panels and wind turbines using the time-value of money.
 
 + Energy Pricing and Taxation (Ch 9): Single period analysis 
 
-Broad Topic Options:  These are multichapter options.  We will likely only address one of these with the majority of other topic determined by term paper choices.
+Broad Topic Options:  These are multichapter options.  We will likely only address one of these with the remaining topics determined by term paper choices.
 
 + Externalities and Climate Change (Ch 10, 11, 18, 19)
 
@@ -207,14 +209,14 @@ Broad Topic Options:  These are multichapter options.  We will likely only addre
 
 We can and will address other topics through our term papers.  
 
-## Writting Resources
+## Writing Resources
 
 
-McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. This is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.  There are later versions, but this one is the most fun and easiest to find.
+McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. This is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read.  There are later versions, but this one is the most fun and easiest to find.
 
-Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is a great outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.  There are usually a few copies floating around the department.
+Chapter 19 in Wooldridge's, "Introductory Econometrics: A Modern Approach". It is an excellent outline of the process of empirical research.  Graduate students and those attempting an empirical paper should read this before choosing a topic for their term paper.  There are usually a few copies floating around the department.
 
-In addition to these resources I highly recommend using a tool, e.g., Grammerly (https://www.grammarly.com), and stopping by the writing center (https://www.pdx.edu/writing-center/) before turning in drafts.
+In addition to these resources, I highly recommend using a tool, e.g., Grammerly (https://www.grammarly.com), and stopping by the writing center (https://www.pdx.edu/writing-center/) before turning in drafts.
 
 
 # Policy Statements from the University
